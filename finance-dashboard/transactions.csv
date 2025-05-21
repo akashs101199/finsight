@@ -1,0 +1,2001 @@
+TransactionID,Date,Amount,Category,Subcategory,Merchant,PaymentMethod,Location,UserID
+1,2024-08-25 04:01:05.893340,58.11,Food,Restaurants,Vega-Sanchez,Cash,New Maryhaven,1
+2,2024-06-23 12:02:36.102396,968.74,Food,Groceries,Smith PLC,Wallet,Stephanieland,2
+3,2024-07-31 21:17:17.583663,827.95,Health,Insurance,Johnson Inc,UPI,West Madisonfort,5
+4,2025-02-04 03:27:21.075315,90.72,Shopping,Clothing,Estrada-Middleton,Credit Card,Mooreberg,5
+5,2025-01-24 05:38:43.941301,803.71,Health,Pharmacy,Zimmerman-Richards,Debit Card,East Matthewborough,4
+6,2024-11-02 16:01:12.485612,472.09,Shopping,Home Goods,Payne-Davis,UPI,West Jamesville,1
+7,2025-01-15 19:09:21.174512,723.22,Transport,Fuel,Garrison Inc,Cash,North Norman,1
+8,2024-08-07 12:13:37.089683,20.96,Utilities,Electricity,Newton PLC,Credit Card,Port Brandonborough,3
+9,2024-10-20 18:20:47.911438,913.83,Transport,Bus,"Farmer, Barrera and Rivera",Cash,Kingland,4
+10,2024-09-17 11:36:18.748295,741.64,Utilities,Water,Jones Inc,Cash,Lake Barbara,1
+11,2024-09-17 02:54:41.061440,118.76,Health,Pharmacy,"Joyce, Salazar and Johnson",Wallet,East Sandrafort,2
+12,2025-03-23 11:49:54.745662,447.83,Entertainment,Concerts,Pierce-Burns,Cash,Elizabethburgh,4
+13,2025-03-30 01:10:32.808389,399.75,Shopping,Home Goods,"Johnson, Holder and Davenport",Credit Card,Moniquebury,1
+14,2025-03-12 07:17:10.572447,33.9,Health,Insurance,"Oneill, Wilcox and Heath",Cash,Floresburgh,4
+15,2025-02-28 01:12:27.073668,522.27,Shopping,Home Goods,Hill Inc,Wallet,Grahamshire,2
+16,2024-10-28 03:12:01.088762,523.87,Health,Insurance,"Murray, Jones and Bruce",UPI,Lake Amanda,1
+17,2024-06-27 19:48:08.072888,913.37,Entertainment,Concerts,"Townsend, Williams and Ballard",Credit Card,East Melissa,3
+18,2024-12-28 02:10:48.696301,736.77,Entertainment,Concerts,Jackson-Hoover,Credit Card,Stewartstad,4
+19,2024-08-30 03:51:29.365760,641.97,Entertainment,Games,Reeves-Greer,Credit Card,Julieburgh,3
+20,2025-01-07 21:51:43.389892,269.48,Shopping,Electronics,"Williams, Ferrell and Rodriguez",Wallet,Lake Karenside,3
+21,2024-08-09 23:00:31.364435,820.19,Shopping,Electronics,Werner Group,UPI,Lisatown,1
+22,2024-08-18 08:21:09.376772,869.34,Food,Groceries,Walters-Rivas,UPI,Seanchester,4
+23,2024-06-18 02:34:28.424362,526.11,Shopping,Home Goods,"King, Moon and Cox",Cash,Hannahfort,4
+24,2024-06-28 18:51:17.248900,137.65,Utilities,Electricity,Johnson-Stephens,Cash,Jenniferbury,3
+25,2025-01-21 14:08:09.658993,772.23,Food,Restaurants,"Patterson, Wilson and Coleman",Credit Card,Port Sheri,1
+26,2024-12-25 20:23:31.841591,962.32,Health,Pharmacy,Stewart-Guerrero,Debit Card,South Tylerville,2
+27,2025-05-01 15:53:38.429344,554.47,Transport,Train,"Mcgee, Williams and Fuentes",Cash,South Kristin,3
+28,2024-09-16 21:29:27.829692,832.83,Transport,Train,"Johnson, Adams and Fowler",Debit Card,North Gregoryburgh,1
+29,2025-02-23 08:45:14.797165,655.36,Health,Insurance,Newman-Myers,Credit Card,Port Jennifer,2
+30,2025-04-27 06:03:39.421310,458.16,Shopping,Home Goods,Merritt PLC,Credit Card,South Glendachester,4
+31,2024-09-13 13:11:52.638859,303.75,Health,Clinic,Curtis-Russo,Wallet,Port Kathleen,5
+32,2024-07-27 11:15:24.734145,179.99,Utilities,Electricity,"Trujillo, Goodman and Spence",Wallet,South Kimberlyberg,1
+33,2025-02-21 04:08:56.991962,456.48,Entertainment,Games,"Martinez, Davis and Chapman",Debit Card,Markstad,4
+34,2025-04-16 19:54:35.015635,370.14,Food,Groceries,Sandoval-Miller,Cash,Adamsfort,3
+35,2024-11-29 19:43:09.887517,774.25,Health,Clinic,Hayes Group,Credit Card,Port Olivia,5
+36,2025-04-11 22:31:25.226019,635.53,Shopping,Home Goods,Rojas PLC,Credit Card,Wendyville,2
+37,2025-03-21 16:48:12.833063,150.09,Food,Groceries,Marsh-Rogers,Debit Card,Harrisonville,3
+38,2024-09-21 17:39:53.359586,829.4,Utilities,Water,"Williams, Reynolds and Turner",Credit Card,New Robyn,2
+39,2024-09-23 01:41:00.183896,646.08,Transport,Train,"Mccarthy, Ray and Jenkins",UPI,Port Daniellemouth,2
+40,2025-01-19 23:38:48.362223,370.68,Health,Clinic,"Johnson, Moses and Griffin",Cash,Lake Brandon,5
+41,2024-12-18 10:55:24.051350,272.26,Entertainment,Games,Mathews-Gonzales,Credit Card,Davisburgh,5
+42,2025-01-09 01:45:36.480303,67.93,Entertainment,Concerts,Farrell-Ellis,Wallet,East Jessica,1
+43,2025-02-06 01:47:32.377104,593.15,Utilities,Water,Holmes PLC,Credit Card,Scottport,3
+44,2025-02-06 12:08:02.161385,179.98,Utilities,Water,Freeman and Sons,Credit Card,Heathershire,5
+45,2024-10-24 22:29:38.187425,785.67,Utilities,Internet,Davidson-Jenkins,Credit Card,Port Alexis,5
+46,2024-12-25 19:47:03.533805,150.88,Shopping,Home Goods,Bell-Mendoza,Debit Card,Port Harryland,5
+47,2024-12-29 11:00:39.197464,714.29,Food,Fast Food,"Holmes, Young and Gonzales",Debit Card,Port Johnside,5
+48,2024-08-26 08:04:30.809158,544.2,Utilities,Electricity,Hart Group,UPI,Garretthaven,4
+49,2025-01-01 06:26:39.888067,192.72,Shopping,Electronics,Simmons Ltd,Wallet,Harrisland,2
+50,2025-05-01 08:14:55.832556,319.57,Entertainment,Games,"Hunter, Smith and Ruiz",Debit Card,East Debra,1
+51,2024-12-02 16:01:15.167236,113.52,Utilities,Internet,Prince-Pierce,UPI,Popemouth,3
+52,2024-06-06 02:19:47.257186,130.93,Transport,Train,Fitzgerald-Jordan,Wallet,East Kathy,1
+53,2024-09-10 13:37:10.531870,787.84,Transport,Fuel,"Moore, Campbell and Rogers",Debit Card,Port Richard,5
+54,2024-07-16 01:21:05.016714,401.7,Health,Insurance,Smith-Miller,Cash,East Jennifer,5
+55,2025-05-02 23:23:19.270059,123.73,Transport,Train,"Jennings, Harding and Davis",Credit Card,Josephmouth,5
+56,2024-07-22 15:19:03.055140,419.52,Food,Groceries,"Mcdowell, Mullins and Beck",Credit Card,Samuelchester,1
+57,2024-08-17 09:01:51.742375,921.14,Food,Fast Food,Stevens-Wilson,Wallet,Romeromouth,5
+58,2024-07-09 05:49:47.044422,657.4,Shopping,Home Goods,"Perez, Duke and Smith",Cash,Howardville,3
+59,2025-05-15 13:39:04.035984,509.01,Health,Clinic,Norton-Andrade,Cash,Smithton,4
+60,2024-11-21 18:10:04.413657,246.13,Transport,Fuel,Torres Ltd,Cash,Stevensbury,3
+61,2024-08-01 11:48:25.037332,325.38,Health,Insurance,"Hardy, Jensen and Valdez",Cash,East Sabrinatown,4
+62,2025-02-04 17:38:06.287706,992.63,Food,Restaurants,"Robbins, Lee and Warner",Debit Card,North Kimberlyburgh,3
+63,2025-05-12 01:33:04.359159,711.52,Shopping,Clothing,Walker-Curry,UPI,Lake Johnview,2
+64,2024-09-14 09:40:56.643202,957.75,Food,Fast Food,Thomas and Sons,Wallet,Mariafurt,2
+65,2024-11-01 07:34:54.322385,794.57,Entertainment,Games,"Cain, Russell and Blackwell",Credit Card,North Allen,1
+66,2024-06-20 09:57:26.800303,71.44,Utilities,Electricity,Marquez and Sons,Cash,South Amymouth,4
+67,2024-10-25 09:08:46.380523,393.82,Health,Pharmacy,Taylor Ltd,Debit Card,Kristaburgh,4
+68,2024-07-29 14:11:15.648859,694.87,Shopping,Clothing,Garrett Ltd,Credit Card,Wyattport,1
+69,2024-10-11 09:04:40.102008,730.97,Utilities,Internet,"Hernandez, Villanueva and Morgan",Wallet,Sharonbury,4
+70,2024-12-10 18:42:28.320455,834.63,Transport,Uber,Cross Inc,Credit Card,New Chelsea,5
+71,2024-07-26 04:26:33.127439,171.08,Entertainment,Games,Benson-Vargas,Cash,West Kathryn,5
+72,2025-02-14 07:32:03.975628,415.14,Utilities,Internet,Hill-Liu,Debit Card,West Erika,1
+73,2024-10-29 15:25:47.168490,989.56,Food,Fast Food,"Miller, Ramos and Burns",Debit Card,North Robert,4
+74,2025-01-23 19:31:15.297421,708.27,Health,Pharmacy,Jones PLC,Debit Card,Calhounstad,1
+75,2024-10-17 13:03:09.732726,633.41,Entertainment,Movies,Reynolds-Morton,Wallet,Cartershire,2
+76,2024-09-17 12:24:14.125443,521.2,Transport,Uber,Clark and Sons,Debit Card,West Jennifershire,2
+77,2024-10-29 19:10:50.036603,469.23,Transport,Bus,Tanner Inc,Credit Card,West Maryhaven,1
+78,2025-03-13 23:44:37.413687,427.25,Utilities,Water,Scott-Ross,UPI,Castillochester,4
+79,2024-07-02 13:21:59.198939,921.22,Utilities,Internet,"Rowe, Kelly and Knight",Wallet,New Dawnfurt,2
+80,2025-03-31 14:53:02.733921,74.45,Utilities,Internet,Myers-Phillips,UPI,Vazquezfort,4
+81,2024-12-09 02:38:11.503770,909.08,Utilities,Electricity,Alexander and Sons,Cash,Lake Cassie,5
+82,2024-10-02 03:07:49.353017,488.74,Entertainment,Movies,Martin Ltd,Cash,Brownport,2
+83,2025-01-30 09:06:06.551491,439.88,Entertainment,Games,Lamb-Miller,Debit Card,Jamesfort,5
+84,2024-08-23 03:01:31.682729,691.67,Food,Restaurants,Mcgrath-Price,Cash,New Valerieside,4
+85,2025-05-03 09:10:12.235087,531.71,Food,Groceries,Barton PLC,UPI,Patrickside,1
+86,2025-05-06 16:36:08.162426,867.5,Utilities,Internet,White-Horton,Credit Card,East Nicholas,2
+87,2025-04-01 12:41:09.654644,459.09,Transport,Uber,Archer-Smith,Wallet,Melissaview,3
+88,2025-03-24 15:37:05.900470,990.59,Transport,Bus,"Adams, Turner and Morse",Cash,Randytown,2
+89,2025-01-16 14:48:15.577455,341.9,Transport,Uber,Ford-Ball,Credit Card,Aliciafurt,1
+90,2025-04-21 22:56:41.163062,930.94,Health,Pharmacy,"Stephens, Wise and Smith",Credit Card,Port Donnaberg,5
+91,2024-07-04 12:42:13.390878,552.58,Shopping,Home Goods,"Taylor, Vincent and Edwards",UPI,Cindyberg,2
+92,2024-06-25 06:22:39.521125,323.54,Shopping,Electronics,Lambert-Sanchez,Debit Card,Wilkersonhaven,4
+93,2024-10-09 15:50:43.174256,172.12,Shopping,Clothing,Pratt-Meyer,Cash,Port Courtneyfurt,5
+94,2025-01-27 08:57:22.235647,730.97,Shopping,Electronics,Clark Inc,Credit Card,West Andrew,3
+95,2024-06-23 17:13:39.609890,710.57,Transport,Fuel,Jackson LLC,Cash,Paulside,3
+96,2024-09-23 01:30:20.108399,422.29,Utilities,Electricity,"Brandt, Ramirez and Taylor",Wallet,Port Joyhaven,3
+97,2024-06-06 10:51:35.894524,231.57,Shopping,Clothing,Bartlett LLC,Wallet,New Whitney,4
+98,2024-09-10 14:41:06.899231,790.44,Transport,Train,Campbell-Wilson,Cash,Destinyfurt,5
+99,2024-12-04 21:55:53.055154,962.25,Food,Fast Food,Williams-Pierce,UPI,Gonzalezmouth,3
+100,2024-09-08 15:21:38.521497,582.53,Shopping,Clothing,"Clark, Kirby and Evans",UPI,Josephfort,1
+101,2025-04-04 06:31:58.407694,485.81,Entertainment,Concerts,"Mitchell, Evans and Davis",Cash,Lake Triciaville,3
+102,2025-03-30 15:32:49.538065,438.74,Utilities,Electricity,"Daniels, Marshall and Butler",Debit Card,Port Michael,4
+103,2025-05-06 09:44:11.863247,628.67,Transport,Fuel,Chavez PLC,Cash,Lake Courtneyhaven,5
+104,2025-03-11 13:04:38.547570,540.29,Utilities,Internet,Moore LLC,UPI,North Jillport,1
+105,2024-12-17 13:03:39.288468,751.05,Transport,Bus,"Robertson, Stokes and Perkins",Cash,East Timothy,1
+106,2025-02-17 09:59:42.649534,360.37,Entertainment,Concerts,Barnes PLC,Debit Card,Hunterside,5
+107,2024-11-03 11:30:43.022291,620.31,Health,Pharmacy,"Thomas, Scott and Stewart",UPI,South Anthony,3
+108,2024-11-11 13:31:39.194288,681.97,Entertainment,Movies,"Murphy, Cain and Hardin",Wallet,Robinsonside,2
+109,2025-04-12 00:59:26.373915,621.69,Utilities,Water,"Ward, Thompson and Brown",UPI,Hayleymouth,2
+110,2024-07-05 23:36:14.170777,48.87,Shopping,Clothing,Garcia-Hall,Cash,Juliaport,4
+111,2024-08-16 05:45:29.808017,379.92,Health,Pharmacy,Watts Ltd,UPI,Lake Brianside,3
+112,2025-04-08 08:46:00.419115,551.29,Entertainment,Movies,Cook-Thompson,Cash,Ayalabury,1
+113,2024-12-18 19:02:45.674818,716.02,Utilities,Internet,"Huang, Long and Smith",Cash,North Samantha,1
+114,2024-11-04 09:40:20.293838,5.83,Transport,Bus,Blake LLC,Cash,Matthewland,4
+115,2024-12-31 18:23:55.334449,801.02,Shopping,Clothing,Snyder LLC,Credit Card,Petersonhaven,4
+116,2024-07-05 08:40:05.427581,738.52,Utilities,Water,Diaz-Newton,Cash,New Bradleyton,5
+117,2025-03-28 18:47:28.216625,667.29,Health,Insurance,"Marshall, Cherry and Schneider",UPI,West Kayla,4
+118,2024-07-23 23:26:09.200151,710.58,Health,Pharmacy,Flores-Mercado,Wallet,Tammymouth,3
+119,2024-10-27 20:41:28.063824,127.2,Transport,Bus,"Rogers, Scott and Howard",UPI,Johnsonshire,3
+120,2024-10-30 22:02:09.265432,457.68,Utilities,Electricity,Newman-Cunningham,Wallet,Susanberg,5
+121,2024-08-26 05:31:25.733258,248.79,Health,Pharmacy,Cole Ltd,Credit Card,West Nancy,1
+122,2025-04-20 22:43:11.890552,900.84,Entertainment,Games,"Barker, Brown and Ross",UPI,Andrewmouth,3
+123,2024-08-29 14:25:38.755200,727.9,Utilities,Electricity,Harrison Ltd,Cash,Stephenston,1
+124,2024-06-13 23:09:04.525404,407.2,Shopping,Clothing,Grimes LLC,Debit Card,Phillipsmouth,3
+125,2024-07-28 00:58:50.537664,41.5,Shopping,Clothing,Shaw Inc,Wallet,Elizabethport,1
+126,2024-07-17 17:37:27.209158,824.01,Entertainment,Movies,Vaughn and Sons,Cash,Christopherburgh,5
+127,2025-05-02 14:17:51.539029,324.42,Utilities,Electricity,Torres-Frank,UPI,Howardberg,3
+128,2025-02-26 12:46:33.900070,973.73,Utilities,Electricity,Daniel Inc,Wallet,East Shawnport,3
+129,2025-01-14 05:43:01.556508,63.33,Entertainment,Games,"Potter, Sutton and Gonzalez",Wallet,Jenniferchester,5
+130,2025-02-24 13:31:52.578249,838.22,Food,Groceries,Patel-Delgado,Credit Card,Hamiltonborough,2
+131,2025-02-23 04:57:01.033974,114.87,Utilities,Electricity,"Holmes, Austin and Hurst",Wallet,Lake Jacqueline,5
+132,2025-04-11 12:46:51.101616,324.73,Shopping,Home Goods,Fitzgerald Ltd,Cash,Port Stephanie,5
+133,2025-03-15 20:10:27.430705,658.13,Entertainment,Games,"Wilson, Spears and Jordan",Debit Card,Dustinhaven,1
+134,2024-06-28 11:35:53.097362,411.26,Shopping,Clothing,"Williams, Michael and Chavez",UPI,Faulknerhaven,4
+135,2024-10-23 22:38:33.523083,666.45,Entertainment,Concerts,Lopez-Nelson,Cash,Stevensfurt,3
+136,2024-12-06 16:54:13.543570,364.54,Shopping,Clothing,Hobbs-Williams,Wallet,Donnaville,2
+137,2025-03-08 20:34:44.696589,559.91,Utilities,Electricity,"Casey, Reese and Baxter",Debit Card,Johnview,2
+138,2024-11-18 03:03:57.818377,970.69,Utilities,Water,Clark-Bean,Credit Card,Port Rodney,5
+139,2024-12-13 03:52:32.168322,359.11,Entertainment,Concerts,"Armstrong, Garcia and Griffin",Credit Card,East Hunterberg,5
+140,2024-06-05 09:09:57.390275,41.04,Entertainment,Games,Yoder-Yang,Cash,East David,2
+141,2024-12-09 16:31:37.852441,223.06,Shopping,Clothing,"Villegas, Morales and Robinson",Cash,East Jamesland,1
+142,2024-06-16 18:11:53.645797,392.6,Entertainment,Movies,"Jensen, Rodriguez and Sanchez",Cash,Lake Taylorfort,3
+143,2024-09-19 08:11:29.309098,938.04,Transport,Fuel,"Case, Lewis and Parker",Debit Card,Brookefort,1
+144,2025-01-19 08:30:05.792610,937.75,Health,Pharmacy,Ford and Sons,Wallet,Port Terri,4
+145,2025-04-18 04:19:15.230742,267.21,Transport,Bus,"Edwards, Gray and Villanueva",Credit Card,Brittanyport,1
+146,2025-03-08 09:34:41.660059,278.32,Food,Restaurants,"Roberts, Browning and Hernandez",UPI,Chenchester,1
+147,2024-08-10 03:27:39.139222,496.27,Health,Clinic,Anderson LLC,Credit Card,Haysland,1
+148,2024-10-13 16:39:06.633910,205.11,Food,Restaurants,"Long, Martin and Davis",Credit Card,East Parkerchester,4
+149,2024-06-11 00:43:05.002415,128.23,Food,Restaurants,Lee Group,Cash,Lake Jacob,5
+150,2024-11-12 05:56:08.116738,952.2,Entertainment,Concerts,Marquez-Fields,UPI,Jacksonstad,4
+151,2025-05-17 05:09:01.929794,420.78,Shopping,Electronics,Cunningham PLC,Cash,South Evan,4
+152,2024-07-24 02:37:59.307366,422.35,Food,Restaurants,Lester-Walters,Cash,Lake Becky,5
+153,2025-02-07 02:26:51.627621,856.87,Health,Insurance,Garcia-Lambert,Debit Card,North Nicholaston,1
+154,2024-08-02 19:18:12.781658,892.76,Transport,Train,Rosales Inc,Wallet,Melindafurt,4
+155,2024-06-21 19:06:04.391936,802.24,Food,Groceries,Simpson Group,Credit Card,Riveraberg,1
+156,2024-06-06 12:04:21.727794,23.31,Entertainment,Concerts,"Fuller, Stone and Tran",Debit Card,West Janiceport,5
+157,2025-03-30 06:24:22.616023,532.04,Entertainment,Concerts,Perkins-Johnson,Debit Card,Gutierrezmouth,1
+158,2025-04-13 09:45:33.894600,382.45,Food,Restaurants,Wright Inc,Cash,Stephenmouth,3
+159,2025-02-19 05:29:28.130042,926.26,Transport,Uber,"Stein, Johnson and Graham",UPI,Guzmanstad,2
+160,2024-05-23 23:18:22.321365,656.88,Transport,Train,"Black, Martin and Mcbride",Debit Card,Loweland,5
+161,2025-02-25 13:44:17.161683,651.54,Food,Groceries,"Cook, Hardin and Cox",Debit Card,Michaelview,4
+162,2024-11-29 14:39:20.933704,335.66,Shopping,Clothing,Edwards and Sons,Credit Card,Alexandraton,3
+163,2024-07-25 21:46:33.452729,95.6,Shopping,Home Goods,Parker-Johnson,Debit Card,Timothyberg,5
+164,2025-02-15 17:34:17.748348,545.08,Shopping,Home Goods,"Williams, Long and Nelson",UPI,East Marychester,3
+165,2024-11-27 06:21:24.223381,686.08,Utilities,Internet,Wade PLC,UPI,Sandershaven,2
+166,2025-01-26 13:10:57.729965,269.45,Utilities,Water,Moore and Sons,Debit Card,Washingtonshire,1
+167,2024-11-07 17:16:28.226292,88.24,Entertainment,Concerts,Marshall Ltd,UPI,Maryview,5
+168,2025-01-21 21:43:22.516057,375.96,Transport,Fuel,Cuevas PLC,Debit Card,Stanleychester,5
+169,2025-03-19 00:13:59.466639,91.36,Utilities,Electricity,Parker-Hall,Wallet,North Amanda,4
+170,2024-06-03 15:34:12.459052,84.44,Utilities,Electricity,Marsh PLC,Cash,South Daniel,1
+171,2024-07-27 22:07:27.546458,492.87,Transport,Train,James-Jackson,Debit Card,Christopherport,1
+172,2025-03-31 19:58:51.620384,769.88,Entertainment,Movies,"Haas, Thompson and Good",Debit Card,West Jeffreyborough,1
+173,2024-07-30 02:32:21.477800,180.8,Utilities,Electricity,Gutierrez PLC,Cash,Bethside,2
+174,2025-01-19 02:26:15.686614,170.43,Utilities,Internet,Daniels-Anderson,Debit Card,Port Kevinmouth,1
+175,2025-04-16 08:36:02.169325,278.63,Utilities,Water,Anderson-Martinez,Credit Card,Simmonsmouth,3
+176,2024-08-01 03:36:03.217129,811.44,Utilities,Electricity,Ayers Ltd,Debit Card,Lake Adam,1
+177,2024-08-31 18:39:00.037493,300.61,Transport,Uber,Holder-Curtis,UPI,New Lauren,5
+178,2024-11-28 22:07:32.090652,110.17,Health,Insurance,"Howard, Baker and Cantrell",Debit Card,Port Megan,2
+179,2024-12-18 11:25:34.596523,181.77,Shopping,Electronics,Clark-Mccarthy,Debit Card,Christopherport,2
+180,2024-11-07 10:03:55.566311,84.72,Utilities,Water,"Rodriguez, Ball and Haley",Debit Card,Smithfurt,2
+181,2024-11-08 20:00:26.597463,407.77,Entertainment,Movies,"Leach, Butler and Peterson",Debit Card,Amberberg,3
+182,2024-11-10 02:10:28.140744,192.5,Health,Clinic,Thomas and Sons,Debit Card,Anthonybury,1
+183,2024-05-23 18:14:18.903685,465.33,Shopping,Clothing,Robinson-Pena,Cash,Taylorberg,5
+184,2024-08-17 17:20:27.887820,51.4,Entertainment,Concerts,Schmitt-Duke,Wallet,North Christina,5
+185,2024-08-27 00:11:57.127980,744.97,Food,Restaurants,Williams Inc,Cash,Andersontown,1
+186,2024-06-17 14:54:03.790770,932.92,Entertainment,Games,"Ward, Reed and Silva",Debit Card,Simmonsfort,5
+187,2025-02-08 01:52:12.455723,802.65,Entertainment,Games,Newman Inc,Cash,Rebeccatown,2
+188,2025-01-14 02:29:55.940993,191.2,Entertainment,Movies,Garcia Group,Debit Card,Ashleyville,2
+189,2024-10-23 21:28:08.180948,732.2,Utilities,Electricity,Smith-Miller,Debit Card,Sellerschester,3
+190,2025-04-04 07:46:53.787764,270.12,Utilities,Water,Bennett and Sons,UPI,East Brianshire,1
+191,2024-09-23 01:29:10.475927,375.59,Entertainment,Games,Olson Group,Cash,West Melissaville,2
+192,2025-02-21 15:19:30.578914,689.95,Shopping,Home Goods,Green Group,Credit Card,East Lynn,4
+193,2025-05-03 13:26:55.062195,735.57,Health,Pharmacy,Hall-Daugherty,Debit Card,Thomasport,4
+194,2025-03-09 06:35:09.971594,793.54,Food,Groceries,Lewis and Sons,Cash,South Danielmouth,4
+195,2025-01-22 12:05:11.919644,998.68,Entertainment,Concerts,"Morris, Donaldson and Taylor",Debit Card,Port Stephaniemouth,4
+196,2025-05-14 16:37:35.035012,64.72,Food,Fast Food,Gaines-Gonzalez,Debit Card,Jameschester,4
+197,2024-05-21 06:51:23.944275,582.63,Health,Pharmacy,"Cherry, Sims and Fields",Cash,Frankville,2
+198,2024-07-12 20:17:51.075353,765.74,Food,Groceries,"Cooper, Martinez and Phelps",Credit Card,Melissachester,2
+199,2025-02-07 08:19:54.885600,998.55,Entertainment,Movies,Woods-Olson,Debit Card,Donaldborough,4
+200,2024-06-04 11:03:13.965527,172.55,Shopping,Electronics,"Oconnell, Contreras and Acosta",Wallet,Bennettshire,5
+201,2024-08-04 20:41:08.200906,741.35,Health,Clinic,Wade Group,UPI,Masseyfurt,5
+202,2025-01-20 22:41:38.707033,956.0,Utilities,Water,"Cardenas, Miller and King",Wallet,South William,5
+203,2025-02-14 23:39:59.601349,399.43,Utilities,Internet,Cooper-Herring,UPI,Michaelbury,4
+204,2025-01-29 17:09:05.334135,869.82,Transport,Fuel,"Turner, Thomas and Jackson",UPI,North Alfred,3
+205,2025-01-17 14:51:31.861326,960.26,Health,Clinic,"Smith, Watson and Gray",Wallet,Maysmouth,4
+206,2025-03-18 03:45:02.866308,202.71,Shopping,Home Goods,"Chen, Erickson and Mills",Wallet,East Patrick,1
+207,2024-08-06 05:17:10.530400,962.32,Utilities,Electricity,King-Mendoza,UPI,Lake Joelchester,1
+208,2025-02-25 21:02:24.505625,488.15,Health,Insurance,"Taylor, Perez and Rose",Debit Card,Jennifertown,2
+209,2025-01-29 22:28:04.965830,190.41,Food,Groceries,Ramirez PLC,Wallet,Port Calvinbury,1
+210,2024-12-07 16:48:17.689349,547.22,Health,Insurance,"Brown, Taylor and Gomez",Cash,North Jenniferfurt,2
+211,2024-06-06 08:22:02.606658,607.35,Health,Pharmacy,Simmons-Bright,Wallet,Lake Gregview,5
+212,2025-03-23 16:45:20.657203,246.85,Health,Insurance,Benton-Anderson,Cash,Guerrerobury,1
+213,2024-12-16 09:17:57.758068,949.75,Entertainment,Movies,Stewart Ltd,Credit Card,New Rebeccaton,2
+214,2024-09-23 06:03:52.246250,450.83,Transport,Uber,Farley-Thompson,UPI,South Kellytown,3
+215,2024-11-21 06:25:56.239421,487.26,Entertainment,Concerts,"Moran, Stevens and Cunningham",Wallet,Michelleside,3
+216,2025-04-15 22:11:15.900969,272.33,Utilities,Internet,"Hopkins, Spencer and Hanson",Debit Card,Marcusville,4
+217,2024-07-23 01:58:49.716721,121.53,Utilities,Water,"Jensen, Pham and Dawson",Wallet,Lake Andrea,5
+218,2025-04-03 03:07:09.744279,929.83,Transport,Fuel,Carpenter-Greer,Cash,North Jonhaven,1
+219,2025-01-04 21:40:26.375066,536.48,Utilities,Electricity,Miles Group,UPI,Mayerland,5
+220,2024-06-18 19:01:23.689917,419.66,Entertainment,Games,Jennings-York,UPI,South Hailey,3
+221,2024-05-24 03:40:52.076470,860.08,Entertainment,Concerts,Lewis Group,Wallet,New Robertmouth,4
+222,2024-07-29 05:26:22.248048,847.28,Utilities,Electricity,"Mccoy, Arellano and Nichols",Wallet,West Lindsay,3
+223,2025-03-18 11:40:00.278096,167.92,Transport,Bus,Nicholson PLC,UPI,Lake Adrianport,5
+224,2025-05-20 05:27:17.266648,473.79,Shopping,Electronics,Wilson Group,Wallet,Lisatown,1
+225,2025-01-12 18:14:35.096246,238.24,Food,Fast Food,Stout Group,Credit Card,Brayview,4
+226,2025-03-17 23:33:26.687317,40.31,Transport,Bus,Hunter and Sons,Wallet,Jennifermouth,2
+227,2024-09-30 20:37:02.506466,240.59,Shopping,Home Goods,Jackson-Maldonado,Debit Card,West Jeffreyburgh,2
+228,2024-06-19 08:32:44.213244,194.57,Utilities,Internet,"Christensen, Santana and Ayala",UPI,West Josephton,4
+229,2024-08-28 16:39:34.840086,361.12,Health,Pharmacy,Bolton and Sons,Credit Card,Port Chris,3
+230,2024-09-19 03:14:27.784630,444.64,Transport,Train,Graham LLC,Cash,South Michellehaven,2
+231,2024-06-08 20:13:21.109672,222.52,Entertainment,Movies,"Donaldson, Evans and Stafford",Credit Card,Cynthiaberg,3
+232,2025-05-12 14:35:17.931713,30.43,Entertainment,Concerts,Tapia PLC,Wallet,Nguyenland,5
+233,2025-04-16 21:03:04.120932,955.7,Utilities,Electricity,Zuniga Inc,Debit Card,Lake Christinamouth,3
+234,2024-12-08 08:35:48.666080,709.98,Entertainment,Games,Irwin LLC,Credit Card,South Dominiqueshire,4
+235,2025-02-26 16:09:18.541923,787.44,Entertainment,Movies,Herman-Garcia,UPI,Lake Joseph,3
+236,2025-03-05 13:36:00.699819,198.4,Food,Groceries,Burns-Maldonado,Credit Card,East Sheriburgh,4
+237,2024-05-27 09:22:37.207547,267.76,Entertainment,Concerts,"Dominguez, Sullivan and King",Cash,New Bryan,2
+238,2025-02-18 15:12:22.934026,569.79,Utilities,Internet,"Martinez, Moore and Mcintosh",UPI,West Stephenfurt,3
+239,2024-12-29 17:06:02.191689,907.3,Transport,Train,Lloyd LLC,Wallet,Michelleborough,5
+240,2025-01-28 06:15:45.852761,677.43,Food,Groceries,"Keith, Monroe and Galloway",Credit Card,Floresville,2
+241,2024-06-12 17:14:35.195093,899.91,Health,Clinic,Reed-Edwards,Wallet,West Frankport,3
+242,2025-03-29 01:10:41.173320,303.07,Shopping,Home Goods,Lee PLC,Cash,West Angelstad,3
+243,2024-12-19 12:15:05.798340,907.99,Food,Restaurants,"Mcbride, Fleming and Short",Credit Card,West Joshua,1
+244,2024-06-30 08:22:01.707960,522.82,Food,Fast Food,"Espinoza, Jones and Campos",Wallet,Richardsonberg,1
+245,2024-08-14 06:19:43.031263,589.12,Food,Fast Food,Hanson-Brooks,Cash,North Williamfurt,2
+246,2024-06-11 07:41:21.585552,590.38,Transport,Train,Carey Ltd,Cash,Hernandezmouth,1
+247,2024-06-03 11:05:49.174117,72.97,Transport,Train,Simpson-Sanchez,UPI,South Brittneystad,1
+248,2024-12-07 20:56:16.294261,114.22,Food,Groceries,Shea-Best,UPI,North Cheryl,5
+249,2024-12-23 21:20:18.571076,565.45,Food,Groceries,Rodriguez Inc,Credit Card,Deniseborough,2
+250,2024-09-30 02:58:19.939156,889.63,Health,Pharmacy,"Armstrong, Flynn and Pitts",Cash,Matthewport,4
+251,2025-04-08 07:34:44.780951,561.14,Entertainment,Games,Ryan-Taylor,Credit Card,South Brandonmouth,1
+252,2024-08-10 12:01:08.507798,518.87,Food,Restaurants,Stone-Taylor,Wallet,Phillipsview,2
+253,2025-02-16 01:00:32.794441,206.26,Transport,Uber,Walker-Molina,Debit Card,Petersonfurt,5
+254,2024-09-15 21:33:09.790109,36.83,Transport,Train,Mcdowell and Sons,UPI,Lake Emilyborough,2
+255,2024-07-02 07:08:57.173219,194.34,Entertainment,Games,"Wilson, Williams and Moore",Credit Card,Dustintown,5
+256,2024-09-12 07:40:18.301600,28.45,Utilities,Internet,Galvan-Whitney,UPI,Priceside,1
+257,2025-02-23 13:56:58.687470,601.11,Transport,Uber,Lee PLC,Credit Card,Katherineberg,5
+258,2025-01-18 14:05:04.003079,713.6,Entertainment,Concerts,Schmidt LLC,Wallet,West Jamesland,5
+259,2025-02-25 03:19:17.785060,829.83,Shopping,Electronics,Bautista Group,Cash,North Charles,1
+260,2024-09-29 13:16:33.727770,746.44,Entertainment,Concerts,"Ramirez, Cantu and Barry",Debit Card,West Kristineshire,1
+261,2025-05-01 11:27:59.984755,886.35,Entertainment,Movies,Medina LLC,UPI,West Jonathantown,1
+262,2024-05-30 11:27:54.975895,528.76,Transport,Uber,Bryant-Baker,Credit Card,East George,4
+263,2024-12-18 22:39:26.240125,890.89,Entertainment,Games,Fernandez Ltd,Cash,Andrewview,5
+264,2024-07-08 01:26:08.104599,889.87,Utilities,Water,Booker-Phillips,Credit Card,Torreschester,4
+265,2025-04-01 21:54:53.345034,788.42,Shopping,Home Goods,Carter-Collins,Debit Card,Lake Donnaberg,5
+266,2024-11-19 09:03:49.658199,643.49,Health,Insurance,"Fischer, Campbell and Frank",Wallet,Valenciafurt,2
+267,2024-07-11 21:23:12.935592,7.01,Transport,Uber,Wallace Ltd,Cash,New Jill,3
+268,2025-01-25 04:59:03.630675,861.02,Transport,Uber,"Hernandez, Burke and Cohen",Debit Card,East Markburgh,2
+269,2025-03-24 18:18:14.027030,540.83,Utilities,Electricity,"Young, Gutierrez and Mendez",Credit Card,Terryburgh,2
+270,2025-04-28 18:45:04.131841,263.79,Shopping,Clothing,Butler Inc,UPI,Port Caleb,1
+271,2024-11-30 05:15:34.172811,684.91,Shopping,Clothing,Vargas-Fletcher,Debit Card,North Angela,4
+272,2025-04-14 13:43:17.718887,930.5,Utilities,Water,"Marshall, Cabrera and Newman",Wallet,Jaredmouth,3
+273,2025-05-15 14:17:45.339938,171.57,Health,Pharmacy,"Davis, Rivera and Warren",Wallet,South Gene,5
+274,2024-07-25 04:54:06.858038,91.96,Entertainment,Movies,Hughes-Strickland,Debit Card,Brianborough,1
+275,2024-09-20 06:09:02.041757,147.47,Transport,Bus,White-Gibson,Credit Card,New Justinburgh,1
+276,2025-03-30 03:38:51.434332,28.54,Transport,Bus,"Elliott, Miller and Acosta",UPI,Johnberg,4
+277,2024-09-09 14:16:51.648734,529.21,Utilities,Water,Bailey-Powell,Cash,South Robin,4
+278,2024-06-24 06:37:41.028137,715.93,Food,Restaurants,"Alvarado, Fox and Mcdaniel",UPI,Floresbury,2
+279,2024-11-06 23:58:01.787215,95.07,Health,Pharmacy,"Nichols, Reyes and Valdez",Debit Card,Michellechester,2
+280,2024-12-21 16:47:32.476017,383.68,Utilities,Water,Holloway-Bell,Cash,Davismouth,5
+281,2024-07-12 13:00:03.405823,485.72,Food,Restaurants,Chang-Gaines,Wallet,Williamston,5
+282,2024-08-20 20:32:04.586877,648.42,Food,Groceries,Escobar Ltd,Wallet,West Patrickton,4
+283,2025-05-05 08:56:22.221486,295.78,Utilities,Water,Baldwin Ltd,Cash,Jonesside,1
+284,2024-05-26 20:10:25.610949,157.27,Transport,Uber,Lam PLC,Wallet,West Stephenville,2
+285,2024-08-06 18:44:55.922379,396.18,Transport,Train,Mathews Inc,UPI,Lake Matthew,2
+286,2024-10-23 00:59:30.203867,379.66,Food,Fast Food,Coleman-Lopez,Credit Card,Lake Brooke,4
+287,2024-07-18 01:57:43.227286,356.36,Transport,Fuel,"Case, Potter and Williams",Debit Card,South Paul,3
+288,2025-04-08 19:57:55.658921,585.43,Utilities,Electricity,Miller-Wallace,Debit Card,Greenehaven,5
+289,2024-07-07 07:55:48.425174,514.72,Utilities,Electricity,Taylor Inc,Cash,North Danielfort,1
+290,2024-09-22 13:36:40.421929,16.52,Food,Restaurants,Velez Group,Wallet,Jessicatown,5
+291,2024-12-12 07:07:26.526422,822.68,Utilities,Water,Wyatt PLC,Credit Card,North Rachelland,3
+292,2025-05-07 12:48:13.790662,21.96,Health,Pharmacy,"Richardson, Frye and Cox",Cash,North Kathy,3
+293,2025-05-17 03:42:52.260044,794.85,Health,Clinic,"Carpenter, Mcdonald and Foster",Credit Card,Chelseaport,2
+294,2025-01-09 15:06:29.947076,408.8,Transport,Train,Stevens Group,Wallet,West Brian,4
+295,2024-06-14 09:24:30.190196,820.0,Transport,Bus,"Ballard, Rivas and Bean",Credit Card,North Collin,4
+296,2024-09-15 22:33:28.720795,361.92,Transport,Bus,Griffin LLC,Cash,Kennedyfort,2
+297,2025-02-28 05:06:04.429022,494.27,Shopping,Home Goods,Doyle-Stephens,Cash,Lake Jessicatown,1
+298,2024-09-07 03:18:15.477564,165.46,Transport,Train,Johnson-Fitzpatrick,Credit Card,Ferrellberg,5
+299,2025-03-29 22:34:17.524062,388.52,Shopping,Electronics,Murray and Sons,Debit Card,South Jaredberg,5
+300,2024-12-22 08:56:45.919000,49.33,Entertainment,Games,Cox LLC,Debit Card,New Ericaberg,1
+301,2024-11-06 08:35:56.585811,288.7,Utilities,Internet,Harris-Jones,UPI,Nobleport,5
+302,2024-10-20 06:09:37.022217,861.71,Shopping,Clothing,Gutierrez-Mcintyre,Cash,West Anitahaven,4
+303,2024-12-08 15:00:27.284656,784.31,Entertainment,Concerts,"Ayers, Bennett and Elliott",Credit Card,Fitzgeraldton,1
+304,2024-08-27 00:03:05.461416,438.62,Utilities,Electricity,Valdez-Hoover,Debit Card,Eatonshire,4
+305,2025-02-19 03:42:44.455718,514.24,Entertainment,Concerts,Clark Inc,Cash,North Chaseton,1
+306,2024-06-24 03:20:04.962212,462.57,Transport,Fuel,Lyons-Salinas,UPI,Robynview,5
+307,2025-02-16 08:10:19.800100,543.51,Health,Pharmacy,Heath and Sons,Wallet,Lake Amberport,5
+308,2025-02-23 03:33:24.453308,660.96,Entertainment,Games,"Tyler, Wilson and Washington",Debit Card,Kelseybury,4
+309,2025-02-09 08:31:14.494144,738.37,Food,Groceries,Barnes Inc,Cash,Port Melissa,2
+310,2025-04-30 11:36:48.778685,364.96,Transport,Bus,Evans-Jones,Wallet,East Francesview,2
+311,2024-10-19 06:58:09.615609,826.48,Food,Groceries,Gray-Reyes,Cash,Port Ginaside,3
+312,2024-07-22 15:32:06.343781,724.25,Entertainment,Games,"Jackson, Boyle and Brown",UPI,Andersonchester,1
+313,2024-06-04 21:03:23.590249,703.23,Entertainment,Games,Powers-Ramirez,Debit Card,Gibsonmouth,5
+314,2025-04-11 20:02:29.565169,703.91,Transport,Train,"Moreno, Gordon and Adams",UPI,Valdeztown,4
+315,2024-11-16 14:43:29.799448,586.62,Entertainment,Movies,Gonzalez Inc,Wallet,Kennethfort,5
+316,2024-09-03 04:28:34.236288,835.9,Entertainment,Movies,Johnson-Mendez,Credit Card,South Kellymouth,4
+317,2024-10-07 16:48:27.507245,759.49,Food,Fast Food,Garcia-Vincent,Wallet,Beverlyview,1
+318,2024-07-12 09:24:12.340134,636.99,Food,Restaurants,Woods-Silva,Cash,Josefort,3
+319,2024-09-17 10:59:41.816391,480.39,Utilities,Water,Ortiz-Molina,UPI,East Patriciafort,2
+320,2025-01-15 10:40:19.802544,275.93,Health,Pharmacy,Houston-Abbott,Debit Card,New Theresa,4
+321,2025-02-17 16:43:57.160851,505.4,Food,Groceries,"Fuller, Miller and Jensen",Debit Card,Washingtonhaven,4
+322,2024-06-30 05:50:26.082206,841.75,Transport,Bus,Henry PLC,Wallet,New Marc,2
+323,2024-09-06 11:29:46.537305,234.09,Transport,Bus,Vega PLC,Credit Card,Rebeccahaven,5
+324,2024-12-30 12:49:21.158093,967.47,Food,Fast Food,Barnes-Brown,UPI,South Melissa,3
+325,2024-05-31 08:57:32.035780,572.5,Food,Groceries,"Love, French and Ellis",UPI,South Destiny,3
+326,2024-08-15 04:09:08.453132,482.52,Utilities,Electricity,"Cameron, Thompson and Madden",Credit Card,East Beckyborough,5
+327,2025-01-14 02:32:10.840988,901.68,Utilities,Water,Williams-Romero,UPI,South Shawnside,4
+328,2024-07-24 17:35:10.263619,950.93,Entertainment,Games,Burch Ltd,Debit Card,Lindsayview,1
+329,2024-12-18 20:43:15.299501,49.48,Utilities,Internet,Mckinney PLC,Cash,Velazquezton,3
+330,2025-03-15 04:21:50.001657,546.75,Transport,Train,"Garner, Powers and Gill",Debit Card,Port Ronald,2
+331,2024-06-25 00:15:48.602111,280.2,Utilities,Internet,Norton-Wagner,Wallet,East Lukechester,4
+332,2024-05-31 19:25:31.949500,676.07,Shopping,Clothing,Wright-Willis,Cash,Teresahaven,5
+333,2024-12-17 18:56:21.910657,725.44,Transport,Uber,Key Group,Credit Card,East Margaretchester,2
+334,2024-06-15 02:59:01.766738,271.97,Transport,Uber,Velez-Edwards,Cash,Corymouth,4
+335,2024-10-14 02:57:17.846545,75.46,Transport,Fuel,Becker-Robinson,Debit Card,Fullerbury,5
+336,2025-05-02 04:59:52.215295,334.98,Health,Clinic,Allen-Nelson,Wallet,Lake Katie,1
+337,2024-12-24 21:09:53.641948,720.94,Entertainment,Movies,Crawford-Jacobs,Debit Card,West Martha,3
+338,2024-09-15 12:22:46.538719,539.52,Health,Pharmacy,Meyer PLC,Credit Card,Thomasberg,1
+339,2025-03-09 01:10:41.022195,637.53,Shopping,Home Goods,Williamson-Burton,Debit Card,Deckerborough,3
+340,2025-01-09 01:19:11.929612,911.84,Utilities,Internet,"Butler, Morgan and Krueger",Cash,Danielview,3
+341,2024-06-05 11:17:32.541761,595.15,Food,Fast Food,"Jensen, Frazier and Eaton",Credit Card,West Taylor,5
+342,2024-11-20 23:12:33.645195,928.35,Entertainment,Concerts,Mercado-Taylor,Debit Card,Jamesside,4
+343,2025-02-07 03:32:14.605011,507.24,Health,Clinic,Rhodes-Schaefer,Credit Card,Jamesport,1
+344,2025-04-14 03:51:51.966459,123.07,Health,Pharmacy,Haynes-Holmes,Cash,Dukemouth,5
+345,2025-01-13 13:07:08.136003,958.23,Utilities,Water,Gallegos-Schmidt,Wallet,Nicholasborough,1
+346,2025-04-20 04:50:25.067724,611.35,Transport,Uber,Howell-Smith,Debit Card,Cruzville,4
+347,2024-09-17 14:36:55.059456,786.92,Utilities,Water,Santos PLC,Wallet,Atkinsonstad,1
+348,2025-01-17 06:05:37.806911,498.45,Food,Groceries,"Perry, Kirby and Williams",Credit Card,New Ginaberg,5
+349,2024-09-05 23:51:36.763021,509.87,Health,Insurance,Gardner-Wright,Credit Card,Lake Rebeccahaven,3
+350,2025-04-21 08:21:11.746467,598.43,Transport,Bus,"Conway, Mcdonald and Ross",Credit Card,New Michael,3
+351,2024-07-06 19:11:16.071378,173.59,Health,Insurance,Gutierrez-Brown,Debit Card,Jeremyborough,4
+352,2025-02-18 14:19:35.703122,389.67,Utilities,Water,Fowler-Martinez,Credit Card,Kellyhaven,1
+353,2025-01-24 07:21:20.959947,974.03,Utilities,Electricity,White Ltd,UPI,Karenfort,1
+354,2025-05-16 22:05:16.566725,374.14,Utilities,Internet,Brooks-Brown,Cash,Tylerport,1
+355,2024-10-05 14:17:14.346116,289.59,Food,Restaurants,Mitchell LLC,Credit Card,North Derek,4
+356,2024-07-17 23:02:17.110477,689.36,Utilities,Electricity,Mays and Sons,Debit Card,North Paulashire,2
+357,2024-05-29 05:32:47.392904,794.92,Food,Restaurants,Peterson-Reid,Cash,East Michele,3
+358,2024-06-19 05:55:36.608420,542.1,Transport,Bus,Miranda and Sons,Wallet,Port Anitahaven,3
+359,2024-12-29 11:19:29.037387,275.17,Shopping,Electronics,"Valenzuela, Fisher and Peterson",Wallet,North Jessicamouth,1
+360,2025-03-03 18:09:52.746845,826.34,Transport,Fuel,"Hardy, Long and White",UPI,Perrytown,3
+361,2024-10-02 06:43:58.173594,682.81,Entertainment,Concerts,"Bernard, Petersen and Howard",UPI,North Alexandria,2
+362,2024-10-13 13:20:18.945883,880.25,Transport,Train,Robertson-Stewart,Cash,Chrisview,2
+363,2024-07-06 15:28:39.169377,332.01,Food,Restaurants,Armstrong-Sherman,UPI,Denisehaven,4
+364,2024-07-13 09:17:56.642773,824.73,Transport,Train,Williams Ltd,UPI,West Mikayla,5
+365,2024-09-26 19:27:31.795314,79.44,Entertainment,Movies,Kennedy Inc,UPI,Loriborough,3
+366,2024-06-11 03:06:08.903892,612.9,Shopping,Clothing,"Robinson, Graham and Cochran",Wallet,Port Williammouth,1
+367,2024-10-08 16:03:40.993474,33.13,Entertainment,Concerts,Thomas-Frye,Cash,Port Amberville,1
+368,2025-03-27 03:53:25.599494,124.56,Food,Fast Food,Campbell-Hill,Wallet,Danielsfurt,3
+369,2024-05-22 03:13:15.863332,759.18,Transport,Bus,Berg-Nichols,Cash,South Haley,3
+370,2025-02-26 20:12:45.481177,72.32,Transport,Uber,"Hammond, Santos and King",Cash,South Jeffreyfort,3
+371,2024-05-27 05:11:20.778265,370.19,Transport,Fuel,Estrada and Sons,Debit Card,New Teresamouth,3
+372,2025-05-10 17:40:24.427487,202.14,Shopping,Electronics,Murphy-Hayes,Wallet,Alexandraburgh,1
+373,2025-01-14 13:19:48.238814,156.61,Utilities,Electricity,Stephens-Greene,Debit Card,East Cathyshire,2
+374,2024-10-06 01:02:15.538142,45.36,Entertainment,Concerts,"Matthews, Carson and Jones",Wallet,South Michaelhaven,1
+375,2025-04-01 04:18:53.074373,861.56,Transport,Fuel,Martinez-Leach,Debit Card,Allisonberg,4
+376,2024-10-10 01:21:35.868195,978.22,Utilities,Water,"May, Hall and Jacobson",Wallet,Port Amy,4
+377,2024-09-10 13:07:44.492164,967.56,Utilities,Water,Wood LLC,Credit Card,New Melissa,5
+378,2025-04-08 21:47:11.134981,902.24,Shopping,Home Goods,Williams Inc,Debit Card,Port Melissaside,4
+379,2025-01-19 03:26:53.129168,511.41,Utilities,Internet,Young Ltd,Wallet,New Nathan,1
+380,2024-10-14 16:19:13.989113,13.91,Transport,Train,"Graham, Rodriguez and Ayala",Wallet,North Brittanyfurt,4
+381,2025-02-04 04:27:53.352299,112.98,Transport,Bus,"Gonzales, Griffin and Paul",Credit Card,Jonesberg,1
+382,2025-03-06 20:52:04.640436,370.6,Health,Pharmacy,Powell-Stanley,Cash,Charlesstad,1
+383,2024-08-20 22:14:43.340008,34.39,Entertainment,Concerts,"Carlson, Lawson and Mooney",UPI,Christinaland,3
+384,2024-10-31 15:45:05.460116,508.94,Food,Fast Food,"Adams, Robinson and Carroll",Credit Card,New Jacksonberg,1
+385,2024-07-03 19:59:38.609946,84.86,Food,Groceries,"Rodriguez, Delgado and Larson",Debit Card,Port Joe,5
+386,2024-08-20 08:25:54.620401,335.99,Health,Clinic,"Scott, Hill and Garrett",UPI,South Anthonyberg,2
+387,2024-07-20 01:40:21.033800,656.25,Entertainment,Movies,"Singleton, Collins and Trujillo",Debit Card,Andreaborough,2
+388,2025-05-17 00:05:10.996596,28.31,Utilities,Internet,Fox-Harrison,UPI,Robinsonport,4
+389,2024-12-19 14:10:19.121036,187.29,Utilities,Water,Williams-Lane,Credit Card,New Jillian,1
+390,2024-06-24 17:15:59.248186,872.44,Utilities,Water,Davis LLC,Cash,North Laurenport,2
+391,2024-09-10 04:42:11.275414,252.51,Shopping,Electronics,"Ortiz, Buchanan and Davis",Cash,Dawnville,4
+392,2024-08-11 18:57:12.804512,25.04,Entertainment,Games,Anderson-Hurst,Cash,Bryanmouth,5
+393,2024-12-31 21:56:49.766384,182.04,Entertainment,Games,Jones-Richardson,Credit Card,New Ericland,3
+394,2024-10-26 05:30:36.834097,608.2,Transport,Fuel,"Price, Morrow and Mclean",Debit Card,Wongfurt,1
+395,2024-11-14 04:35:13.307956,505.79,Utilities,Water,"Kim, Fernandez and Thompson",Credit Card,Jacksonton,3
+396,2025-04-03 04:09:44.696864,612.51,Food,Fast Food,"Ortega, Perkins and Anderson",Debit Card,Ginashire,4
+397,2025-04-20 04:29:12.962427,20.64,Health,Pharmacy,"Vargas, Taylor and Hanson",Cash,Port Janetstad,4
+398,2024-12-03 13:03:03.467307,547.91,Entertainment,Movies,Andrews and Sons,Wallet,Lisamouth,5
+399,2024-06-21 16:26:10.489160,557.12,Food,Fast Food,"Burton, Cline and Jordan",Wallet,South Amanda,1
+400,2024-12-15 14:07:16.828813,153.35,Utilities,Electricity,Vaughn-Blevins,Debit Card,Parrishburgh,1
+401,2024-07-06 23:51:12.605490,209.32,Health,Insurance,"Taylor, Peters and Stevens",UPI,Lake Jenniferburgh,1
+402,2024-08-31 10:07:52.445590,280.13,Transport,Uber,Martinez-Leonard,Debit Card,New Brianna,3
+403,2024-10-10 17:26:35.455086,44.07,Transport,Uber,Wood-Frank,UPI,East Ellen,5
+404,2025-01-05 19:12:41.758562,42.34,Shopping,Clothing,Valdez Group,UPI,Port Alexa,2
+405,2024-09-14 08:51:06.832311,807.64,Food,Restaurants,Jarvis and Sons,Credit Card,Port Laurentown,2
+406,2025-02-21 07:42:12.097907,784.69,Entertainment,Games,Cook-Smith,Cash,South Patriciashire,1
+407,2024-05-29 08:01:24.269230,297.7,Shopping,Electronics,"Jones, Moody and Clark",Cash,Huynhmouth,3
+408,2024-11-08 11:00:03.733289,100.14,Transport,Train,Chandler Group,Credit Card,Port Lisamouth,2
+409,2025-02-13 21:55:54.015029,220.38,Utilities,Water,"Cook, Little and Henson",UPI,South Michellemouth,1
+410,2024-07-04 12:03:49.733130,431.13,Utilities,Electricity,"Simmons, Ballard and Smith",Cash,New Monica,3
+411,2025-01-17 21:35:45.835727,837.14,Entertainment,Movies,Johnson Inc,Credit Card,Davidland,1
+412,2024-06-03 04:32:06.060655,80.07,Utilities,Internet,Hutchinson Group,Debit Card,South Dale,1
+413,2024-10-03 05:27:33.175080,650.43,Utilities,Water,Thompson PLC,Cash,Diazview,4
+414,2024-10-25 04:06:00.725607,383.45,Transport,Bus,"Nguyen, Holland and Mcgee",Credit Card,West Stephenborough,3
+415,2025-03-08 00:40:09.288342,541.67,Transport,Uber,"Taylor, Barton and Hawkins",Credit Card,Wardmouth,2
+416,2025-03-30 21:54:41.603462,54.01,Transport,Uber,Flores-Guerrero,Wallet,Edwardfort,5
+417,2024-07-09 04:24:07.892173,22.35,Entertainment,Games,"Jackson, Smith and Carter",Debit Card,New Lisa,4
+418,2024-10-06 14:58:18.721715,423.32,Shopping,Home Goods,Richardson-Duran,UPI,South Summerstad,3
+419,2025-02-05 13:35:09.678930,137.7,Shopping,Electronics,Stephens Group,Wallet,Christopherfort,3
+420,2024-12-10 17:25:16.944491,88.33,Transport,Bus,Maldonado-Miller,Cash,Harrisberg,1
+421,2024-11-23 02:17:11.354182,461.68,Utilities,Internet,Weaver-Horton,UPI,Grantside,3
+422,2024-10-02 05:58:38.879459,988.35,Transport,Bus,"Miller, Evans and Martinez",Debit Card,West Hectorbury,4
+423,2025-04-18 13:16:46.077564,812.8,Entertainment,Movies,Lee Ltd,UPI,Port Miguelburgh,3
+424,2024-10-13 09:25:39.300181,845.92,Entertainment,Movies,Allen Group,Cash,Hillside,2
+425,2025-02-14 14:00:38.672543,624.2,Food,Fast Food,"Miller, Cummings and Vargas",Wallet,New Williechester,4
+426,2024-12-29 21:16:45.418910,298.81,Utilities,Water,Jensen LLC,Debit Card,Davidside,1
+427,2025-05-04 08:38:24.676791,276.1,Food,Groceries,Bauer-Lopez,Debit Card,North Lisa,3
+428,2025-02-08 12:31:14.456374,881.61,Food,Groceries,Campbell-Moon,Wallet,Lake Fernando,2
+429,2025-04-30 17:02:14.968423,938.62,Transport,Bus,Cook-Mcdonald,Debit Card,Patrickstad,3
+430,2025-03-17 02:04:47.355663,720.92,Utilities,Internet,Ramirez-Booker,UPI,South Paigeside,4
+431,2025-03-12 12:54:00.376484,669.67,Food,Fast Food,"Gordon, Murphy and Flores",Credit Card,Taylorburgh,2
+432,2024-12-12 12:44:27.185514,406.94,Transport,Fuel,Mullins and Sons,Wallet,New Cliffordmouth,5
+433,2024-07-28 23:24:42.991398,984.45,Transport,Bus,Williams-Evans,Credit Card,Pennybury,4
+434,2024-06-14 15:35:31.005543,761.8,Transport,Fuel,Jones LLC,Debit Card,South Amanda,3
+435,2025-05-10 21:51:52.543410,364.07,Shopping,Home Goods,Ball-Robinson,Credit Card,East Elizabethville,2
+436,2024-11-07 08:55:36.204365,980.27,Shopping,Clothing,Smith-Mckinney,UPI,New Toddville,4
+437,2024-06-14 11:57:42.906726,984.4,Shopping,Clothing,"Rich, Cole and Walker",UPI,South Lori,4
+438,2024-11-05 09:31:45.177064,452.82,Food,Fast Food,"Smith, Young and Dickerson",Debit Card,New Pam,5
+439,2024-09-30 04:18:41.984981,571.9,Health,Clinic,Ross Ltd,Credit Card,South Gregorychester,3
+440,2024-07-22 16:49:29.918379,524.42,Utilities,Internet,"Howard, Francis and Nicholson",Cash,Port Elizabethtown,1
+441,2024-10-11 02:29:12.075934,16.6,Shopping,Home Goods,"Potter, Sawyer and Foster",Cash,Petersonville,2
+442,2025-03-16 06:15:41.965302,609.33,Health,Insurance,"Best, Meyers and Rios",Credit Card,Jacksonton,4
+443,2024-05-30 03:27:08.191880,784.41,Shopping,Electronics,Carter-King,Cash,North Joycemouth,4
+444,2024-09-01 13:55:44.118516,750.65,Entertainment,Games,Rodriguez LLC,UPI,Franklinbury,2
+445,2024-09-29 22:37:24.639059,734.15,Utilities,Electricity,Green-Myers,Credit Card,Lake Matthewland,3
+446,2025-01-07 05:04:45.537002,145.66,Health,Pharmacy,Esparza-Perez,UPI,Robinsonfurt,4
+447,2024-09-06 17:20:25.062268,655.97,Transport,Bus,Kennedy and Sons,UPI,East Marychester,1
+448,2025-02-08 10:53:29.488838,953.95,Transport,Uber,"Foster, Edwards and Oconnell",UPI,South Johnhaven,5
+449,2024-09-30 08:16:23.835249,890.43,Entertainment,Concerts,"Rodriguez, Smith and Hughes",Wallet,Charlesport,3
+450,2024-06-30 02:01:30.601522,933.03,Health,Clinic,Simmons Group,Cash,South Danny,4
+451,2024-12-13 17:08:42.429582,891.23,Transport,Fuel,White PLC,Wallet,Lindseyborough,4
+452,2024-11-20 06:45:22.066693,134.68,Utilities,Electricity,"Miller, Baker and Miller",Cash,Kirbyshire,5
+453,2024-08-08 07:19:26.305136,470.24,Health,Insurance,Ortiz Inc,Wallet,Paulburgh,4
+454,2024-08-09 08:49:08.732935,262.65,Entertainment,Movies,"Jones, Williams and Carlson",Credit Card,Andersonfurt,3
+455,2024-08-08 16:04:25.407826,913.24,Transport,Train,Vargas Ltd,Cash,West Michael,2
+456,2025-04-26 18:28:05.794189,44.65,Utilities,Water,Sims Ltd,Credit Card,Lake Patricia,1
+457,2024-07-18 10:28:23.765929,534.85,Shopping,Electronics,"Bailey, Gonzalez and Woods",Cash,Moniquetown,4
+458,2025-01-13 09:13:17.888006,704.46,Health,Clinic,"Stewart, Allen and Hudson",Cash,Reedhaven,3
+459,2024-09-05 10:07:52.794167,723.08,Food,Fast Food,"Brooks, Carey and Harper",Cash,Jenniferfurt,1
+460,2025-04-11 12:47:02.862054,716.1,Shopping,Home Goods,Barrett Inc,UPI,Lake Melinda,4
+461,2025-04-19 14:12:04.702246,876.67,Food,Restaurants,Green PLC,Wallet,New Jeffrey,5
+462,2024-12-13 11:51:58.309701,247.99,Utilities,Internet,Smith Ltd,Credit Card,West Christopherhaven,4
+463,2025-05-12 23:59:35.838022,255.83,Shopping,Home Goods,Wilkins PLC,Wallet,East Nathanchester,2
+464,2024-06-06 06:50:43.612076,736.53,Transport,Bus,Harris LLC,Cash,Hayneston,2
+465,2024-10-19 12:17:55.476407,918.95,Health,Pharmacy,Mccoy and Sons,Wallet,Richardchester,5
+466,2024-07-26 00:23:00.503770,244.51,Utilities,Internet,"Bond, Hopkins and Scott",Debit Card,East Ralph,4
+467,2024-12-17 13:46:56.348866,840.79,Food,Fast Food,"Chaney, Andrews and Howell",Debit Card,Travisfort,5
+468,2024-08-15 06:20:42.400580,711.03,Utilities,Internet,"Brock, Nguyen and White",UPI,Port Jamesmouth,4
+469,2024-07-30 18:23:54.140633,369.68,Entertainment,Movies,Smith-Wilson,Cash,Deborahburgh,1
+470,2024-06-19 05:42:36.508445,430.03,Transport,Uber,Glass LLC,Credit Card,New Paul,4
+471,2024-07-14 21:00:00.319834,426.94,Utilities,Water,"Lawrence, Taylor and Church",Cash,Hallfurt,3
+472,2025-01-05 21:04:20.496622,550.66,Entertainment,Games,Gilbert-Perez,Debit Card,South Michaelmouth,1
+473,2025-02-08 02:08:26.557972,932.28,Utilities,Water,Hernandez Group,UPI,Lake Sarahhaven,2
+474,2025-05-09 03:46:36.309829,318.99,Health,Insurance,"King, Thomas and Hunt",Debit Card,North Jenniferfurt,5
+475,2025-04-28 11:32:03.529878,194.11,Utilities,Water,"Walker, Dalton and Sawyer",Debit Card,Lake Jose,5
+476,2024-10-14 12:46:04.793154,605.7,Transport,Bus,"Henson, Hunt and Sanders",Credit Card,Amberville,2
+477,2024-08-21 06:08:00.841530,92.07,Transport,Fuel,"Bright, Guzman and Sherman",Cash,Simpsonport,4
+478,2025-05-15 11:10:21.190154,688.21,Food,Restaurants,Williams Group,Credit Card,Amandafort,3
+479,2025-03-16 08:04:17.190895,924.58,Shopping,Electronics,Williams Inc,Wallet,West Rhonda,3
+480,2024-10-26 05:57:52.487659,592.17,Shopping,Clothing,"Hines, Martinez and Lopez",Wallet,Michaelland,4
+481,2025-01-25 17:32:47.866604,448.42,Health,Pharmacy,Mendoza LLC,Credit Card,Lake Mary,3
+482,2024-09-03 02:35:46.912520,603.32,Transport,Fuel,Thompson and Sons,Credit Card,Robertport,3
+483,2025-01-30 01:20:11.385963,813.3,Health,Pharmacy,Oliver-Dixon,UPI,Fuenteschester,2
+484,2024-12-16 12:40:19.993954,315.87,Transport,Fuel,"Nelson, Farrell and Caldwell",Debit Card,Fieldston,3
+485,2024-09-17 13:13:09.942570,922.73,Utilities,Internet,Haynes-White,Credit Card,South Angelica,3
+486,2024-09-30 15:28:40.313877,455.02,Health,Pharmacy,Butler-James,Credit Card,North Whitneyside,5
+487,2024-08-15 11:01:53.165113,691.54,Entertainment,Movies,Smith-Price,Credit Card,East Jennifer,3
+488,2024-09-10 07:22:23.325564,858.51,Transport,Uber,"Mathis, Miller and Morales",UPI,Shaneport,1
+489,2024-08-22 10:45:26.670151,719.59,Food,Restaurants,"Macdonald, Diaz and Nicholson",Cash,East Henryview,3
+490,2024-06-18 01:03:43.895116,854.56,Utilities,Electricity,"Coffey, Lee and James",Cash,West Dannyshire,2
+491,2024-08-07 09:37:34.344672,562.43,Utilities,Electricity,Garrett-Webb,Wallet,Meredithfort,2
+492,2024-08-04 19:22:51.716983,796.01,Food,Fast Food,Ramirez-Parker,Credit Card,Lake Hayley,1
+493,2024-09-20 12:14:50.023844,112.35,Food,Groceries,Meyer LLC,Credit Card,Michaelfurt,3
+494,2024-06-27 07:09:14.953448,358.95,Food,Restaurants,Golden-Humphrey,Debit Card,Port Sean,2
+495,2024-11-10 13:53:59.292330,788.6,Health,Pharmacy,Watts-Gillespie,Debit Card,East Julia,4
+496,2024-11-05 18:44:15.632981,897.71,Utilities,Electricity,Nguyen and Sons,UPI,Chapmanfort,4
+497,2024-08-14 12:41:53.018107,145.32,Health,Clinic,Roberts-Castillo,Wallet,Lake Jasontown,2
+498,2024-10-02 04:34:41.698834,198.04,Shopping,Home Goods,Richmond-Macdonald,Credit Card,Lake Austinside,5
+499,2024-07-27 03:16:27.003996,403.93,Transport,Fuel,Mason-Thornton,Wallet,East Allisonburgh,4
+500,2025-02-16 23:01:04.619188,945.87,Utilities,Internet,"Meyer, Suarez and Velasquez",Debit Card,Ricardoville,1
+501,2024-10-16 19:11:10.038354,921.73,Entertainment,Concerts,"Davidson, Davis and Rogers",UPI,Lake Becky,3
+502,2025-05-19 01:51:24.125659,865.55,Health,Clinic,"Evans, Logan and Hayden",Credit Card,South Derrickville,3
+503,2024-09-27 23:15:32.538952,180.97,Food,Restaurants,Rodriguez Group,Credit Card,West Judyborough,1
+504,2024-12-22 10:41:32.526372,801.04,Health,Insurance,Murillo-Mitchell,Debit Card,Edwardtown,4
+505,2025-04-17 23:13:55.254832,825.85,Transport,Fuel,"Obrien, Watts and Mccann",Debit Card,West James,1
+506,2024-12-28 17:29:56.962045,305.15,Entertainment,Concerts,"Smith, Franklin and Lewis",Debit Card,East Matthew,5
+507,2024-09-01 02:09:24.719815,527.03,Utilities,Water,Orr-Andrews,UPI,Port Marychester,5
+508,2025-02-05 00:38:02.089034,914.97,Entertainment,Movies,Galvan and Sons,Cash,Reidland,5
+509,2024-06-08 08:17:11.369954,593.54,Food,Groceries,"Cobb, Chambers and Simon",UPI,Brandonville,5
+510,2025-01-13 09:32:40.271053,866.16,Utilities,Electricity,"Rodgers, Nguyen and Holder",UPI,South Russell,2
+511,2024-12-29 21:24:54.225348,830.36,Utilities,Electricity,"Blake, Bell and Ritter",Cash,East Jacquelineburgh,3
+512,2025-01-23 10:28:03.585180,595.92,Utilities,Internet,Jackson LLC,Debit Card,Lake Beckyside,4
+513,2025-05-07 23:29:26.856118,806.88,Transport,Bus,Nichols LLC,Credit Card,Joelchester,4
+514,2024-11-03 13:57:38.186952,370.77,Entertainment,Games,"Gonzalez, Harris and Hamilton",Cash,East Jenniferchester,3
+515,2024-11-26 02:43:02.404572,215.83,Entertainment,Games,"Patton, Cooper and White",Wallet,South Bonnieshire,1
+516,2025-02-01 04:46:12.692143,810.25,Health,Clinic,Russell Group,Debit Card,Marchaven,5
+517,2025-02-24 09:52:01.531306,527.61,Food,Fast Food,Butler-Bishop,UPI,Whitestad,4
+518,2025-05-03 05:06:11.911451,105.41,Entertainment,Games,Johnson and Sons,UPI,Karenside,1
+519,2025-04-02 22:49:49.981720,784.96,Food,Fast Food,Jennings-Edwards,Cash,South Seanshire,5
+520,2024-06-17 07:15:26.372220,188.01,Transport,Uber,Allen LLC,Wallet,Feliciamouth,3
+521,2025-02-13 05:47:18.242410,157.75,Transport,Bus,Henderson Group,Cash,New Debraberg,1
+522,2024-12-12 13:20:04.647568,862.69,Health,Clinic,Webster-Evans,Wallet,Lake William,5
+523,2024-11-28 00:24:16.741115,628.6,Food,Groceries,Price-Wilson,Wallet,Isaiahchester,1
+524,2025-05-17 17:19:50.604365,484.46,Transport,Uber,"Stanley, Garcia and Jimenez",Wallet,Hallview,1
+525,2024-05-24 02:18:33.853904,353.5,Health,Insurance,"Beasley, Miller and Johnson",Wallet,East Kathryn,2
+526,2024-12-02 18:47:34.363673,181.47,Shopping,Clothing,"Beltran, Livingston and Walls",Debit Card,South Briannahaven,1
+527,2024-11-19 11:52:36.578061,290.97,Transport,Bus,"Ball, Hampton and Davis",UPI,Hartchester,3
+528,2024-07-05 05:28:44.491861,377.97,Entertainment,Concerts,"Lara, Morse and Woods",Debit Card,Port Aprilland,2
+529,2024-10-09 18:48:47.026151,757.13,Utilities,Water,"Davis, Boone and Mendez",Cash,South Lindamouth,1
+530,2024-06-28 03:11:48.810278,293.16,Shopping,Clothing,Young-Braun,UPI,Freystad,2
+531,2024-11-05 05:13:05.546437,315.64,Transport,Train,Thompson LLC,Wallet,Philipbury,2
+532,2024-12-15 11:07:41.553679,510.63,Entertainment,Games,"Moore, Adams and Duncan",Debit Card,Dannytown,1
+533,2025-05-11 02:08:32.194577,900.95,Shopping,Clothing,Garner Inc,Wallet,Morrowborough,3
+534,2024-06-11 09:50:22.237333,689.4,Food,Restaurants,Henry LLC,Debit Card,Port Edward,5
+535,2025-04-02 14:04:48.273338,962.23,Food,Restaurants,Dodson LLC,Credit Card,Sarastad,5
+536,2024-10-31 01:53:26.783476,846.77,Shopping,Clothing,Harrington-Young,Credit Card,South Toddberg,4
+537,2024-10-16 21:09:09.301069,376.57,Utilities,Internet,Dennis and Sons,Cash,Karenview,1
+538,2025-02-19 04:11:20.088774,141.77,Entertainment,Movies,Johnson-Young,Debit Card,Port Jacob,5
+539,2024-06-16 23:18:24.978749,406.58,Entertainment,Games,Lane-Cooper,Cash,Barnesland,1
+540,2024-10-07 08:42:37.093052,387.21,Utilities,Internet,Rodriguez Group,Wallet,Nelsonland,2
+541,2024-05-29 16:53:46.950698,176.42,Utilities,Electricity,"Oconnor, Burgess and Morris",Cash,South James,5
+542,2024-08-31 08:05:39.968870,92.64,Utilities,Electricity,Atkinson Ltd,Cash,Travisborough,1
+543,2024-06-16 12:10:27.682079,133.31,Health,Pharmacy,Carlson-Nicholson,Credit Card,West Edward,1
+544,2024-12-01 17:18:12.668972,822.34,Transport,Uber,Hines Inc,Debit Card,Heatherville,5
+545,2025-02-09 09:05:28.567955,470.77,Shopping,Clothing,"Robinson, Palmer and Atkins",Wallet,Barbermouth,4
+546,2024-07-10 10:20:24.019513,803.44,Shopping,Electronics,Jacobs-Sampson,Debit Card,Robinsonfort,4
+547,2025-02-13 19:44:26.442977,834.42,Health,Clinic,Martin-Todd,Wallet,Port Lisafort,1
+548,2024-09-01 15:18:15.384581,543.72,Shopping,Electronics,"Ewing, Salas and Burgess",UPI,Kennethstad,5
+549,2024-12-29 19:28:55.368644,871.66,Food,Restaurants,Baldwin Ltd,Cash,Nelsonchester,4
+550,2025-02-06 13:22:00.686605,904.35,Food,Groceries,"Boone, Johnson and Holland",Credit Card,Rosalesfort,4
+551,2024-07-24 16:46:19.631302,795.81,Transport,Fuel,"Brown, Middleton and Long",Credit Card,North Andreaborough,2
+552,2024-12-14 23:17:06.431926,667.14,Shopping,Home Goods,"Tucker, Jackson and Williams",Credit Card,New Christinaport,1
+553,2024-10-11 04:20:26.442251,247.57,Health,Pharmacy,Myers-Lambert,Credit Card,North Ashlee,5
+554,2024-09-21 00:17:24.952612,950.21,Transport,Uber,"Schwartz, Weber and Rose",Credit Card,Port Heatherbury,4
+555,2025-01-13 20:36:23.565785,57.3,Utilities,Electricity,Decker Group,Cash,Lake Jason,1
+556,2024-09-26 04:46:34.093667,845.32,Utilities,Internet,Rodriguez-Collins,UPI,Romeroberg,3
+557,2024-06-27 06:20:09.288838,634.97,Health,Insurance,Davis-Thomas,Wallet,Christopherburgh,2
+558,2024-06-16 15:30:26.476925,536.35,Utilities,Electricity,Miller LLC,Debit Card,Robertland,1
+559,2025-01-05 12:56:30.537462,800.21,Food,Groceries,Sharp and Sons,UPI,Bowmanmouth,5
+560,2024-12-09 10:49:48.550938,902.41,Entertainment,Concerts,Vargas Ltd,Credit Card,Jacquelineview,5
+561,2024-09-02 07:30:03.671296,644.47,Shopping,Home Goods,Johnson PLC,Cash,North Robertville,3
+562,2025-03-20 22:54:32.944103,238.3,Health,Insurance,Jones-Rodriguez,Wallet,Melissaborough,1
+563,2024-05-21 08:44:39.188540,648.03,Health,Insurance,Hughes-Burns,Wallet,Erinton,3
+564,2025-04-28 10:26:59.477421,370.38,Utilities,Water,Harper-Moore,Cash,New Crystal,5
+565,2024-06-14 13:01:42.579644,758.78,Transport,Uber,"Lane, Fleming and Nichols",Credit Card,Wrighthaven,3
+566,2024-10-19 04:18:36.191998,157.34,Entertainment,Concerts,Williams-Soto,Debit Card,Cruzborough,2
+567,2024-10-06 12:58:56.734119,660.26,Food,Groceries,"Brown, Gibson and Collins",Wallet,North Michellehaven,4
+568,2025-03-02 11:02:16.493625,8.04,Shopping,Home Goods,Bauer Ltd,Wallet,Katieton,2
+569,2024-12-29 20:53:41.895537,224.3,Health,Pharmacy,"Harris, White and Rogers",Cash,Lindseyburgh,1
+570,2025-05-02 00:24:07.373025,395.01,Food,Restaurants,Phillips-Greer,Credit Card,Pittmanmouth,5
+571,2024-12-29 12:14:47.091153,944.94,Health,Clinic,Calhoun LLC,Debit Card,Morenobury,2
+572,2024-08-05 19:54:02.639976,900.76,Food,Groceries,Holmes and Sons,Cash,West Billy,3
+573,2025-03-01 02:02:11.197798,351.09,Health,Clinic,Cole and Sons,Debit Card,Lake Lindaborough,2
+574,2025-02-02 14:09:17.398109,726.06,Health,Insurance,Cortez Ltd,UPI,Reneefort,4
+575,2024-09-30 11:29:46.135628,544.07,Entertainment,Concerts,"Moreno, Doyle and Kim",Wallet,West Chad,1
+576,2024-07-24 19:16:25.686650,142.15,Utilities,Electricity,Armstrong-Sanchez,UPI,West Michaelchester,3
+577,2025-01-15 22:39:33.116208,115.45,Shopping,Electronics,"Fletcher, Hanson and Green",Wallet,Sharonville,3
+578,2024-12-14 18:15:47.078712,131.93,Food,Groceries,Lozano-Burke,Wallet,Brandymouth,3
+579,2024-06-30 12:41:37.603639,587.6,Transport,Bus,Choi-Bridges,Credit Card,Scottland,1
+580,2025-04-19 11:28:21.772591,158.46,Shopping,Home Goods,"Washington, Porter and Jackson",Wallet,North Kellyburgh,4
+581,2024-10-01 06:51:22.574805,749.63,Shopping,Home Goods,Cook Group,Wallet,New Kristen,3
+582,2024-06-05 17:35:55.657912,786.3,Food,Groceries,"Johnson, Diaz and Le",Credit Card,Schultzton,3
+583,2024-09-13 08:27:15.756379,163.95,Transport,Uber,"Graham, Watson and Bowers",UPI,Lake Victoriaberg,3
+584,2024-12-11 04:07:49.693438,346.02,Food,Groceries,Taylor LLC,Wallet,East Veronica,5
+585,2024-09-15 21:07:28.350501,610.8,Food,Fast Food,Rowe Ltd,Cash,Francisshire,4
+586,2024-07-06 09:31:05.934430,854.6,Utilities,Internet,Roth Inc,Credit Card,South Amanda,4
+587,2024-11-16 05:33:21.125145,984.55,Shopping,Clothing,"Hernandez, Edwards and Williams",Wallet,Courtneyborough,1
+588,2025-03-10 07:52:02.067324,562.33,Shopping,Electronics,Hernandez Ltd,Cash,Jonesport,3
+589,2025-02-15 04:14:37.665279,710.69,Utilities,Water,"Hayes, Newman and Miller",Wallet,Gambleton,5
+590,2025-01-29 08:00:31.899724,558.52,Utilities,Internet,Elliott LLC,UPI,Danielstad,2
+591,2024-08-19 22:45:02.934222,768.78,Entertainment,Movies,Sanchez-Logan,Credit Card,Greentown,2
+592,2024-12-05 16:55:57.180841,44.12,Entertainment,Games,Mann-Johnson,Credit Card,Mooreberg,5
+593,2024-07-23 20:09:00.127048,414.2,Shopping,Home Goods,"Raymond, Davis and Nguyen",Cash,East Misty,1
+594,2024-05-27 09:32:07.185009,297.36,Health,Clinic,"Hunter, Gregory and Lewis",Wallet,Briggsfurt,4
+595,2024-06-19 11:47:13.384380,672.14,Shopping,Clothing,"Frazier, Gill and Lopez",Wallet,North Sandra,5
+596,2024-08-09 08:32:25.370220,759.92,Entertainment,Concerts,"Lee, Williams and Bonilla",Cash,Juanhaven,3
+597,2024-05-23 08:25:30.039932,38.77,Transport,Uber,Arellano-Vargas,Cash,Phillipburgh,4
+598,2025-01-21 03:23:42.824323,395.32,Utilities,Water,Trevino and Sons,Debit Card,Lawrencefort,5
+599,2024-07-06 14:23:29.166031,730.79,Utilities,Water,Graham-Moore,UPI,Martinland,3
+600,2024-08-05 20:49:37.341184,646.37,Shopping,Home Goods,Hernandez Group,Wallet,Jackhaven,5
+601,2024-10-06 19:26:12.158098,820.48,Utilities,Internet,Johnson Inc,Wallet,Lesterfurt,4
+602,2025-02-23 11:59:07.976663,697.94,Transport,Uber,Hudson Inc,Debit Card,Michaelshire,5
+603,2025-03-23 21:15:08.196788,269.21,Transport,Train,Walls-Cisneros,Wallet,Port Alexanderland,5
+604,2025-01-03 13:32:11.291134,782.81,Entertainment,Concerts,Martinez and Sons,Cash,East Markchester,3
+605,2024-08-22 20:44:18.044685,377.92,Health,Insurance,Sanchez-Murray,Debit Card,Port Amanda,5
+606,2024-10-08 16:49:58.801519,205.09,Transport,Train,"Collins, Pruitt and Burke",Credit Card,Dylanland,1
+607,2025-03-15 22:11:41.842485,750.48,Shopping,Home Goods,Hammond-Blevins,Wallet,South Joan,5
+608,2025-04-30 22:23:07.101933,725.1,Entertainment,Games,Yu Group,Debit Card,Fishertown,2
+609,2025-04-27 05:19:49.329763,693.29,Entertainment,Games,Kaiser-Small,Debit Card,Allenberg,5
+610,2025-03-24 11:53:18.566421,683.66,Transport,Uber,Johnson and Sons,Wallet,South Stephen,3
+611,2024-05-21 01:18:57.579196,375.81,Food,Restaurants,Murphy and Sons,Cash,Aliciahaven,5
+612,2024-11-15 19:13:22.951426,838.4,Food,Fast Food,Maldonado-Knight,Debit Card,New Renee,3
+613,2024-11-15 07:37:40.607298,632.03,Entertainment,Games,Garcia Group,Debit Card,Adamsbury,2
+614,2025-03-19 04:56:43.432627,664.88,Health,Insurance,"Hickman, Ortega and Thompson",Wallet,South Sandraton,2
+615,2024-10-08 08:09:37.071207,658.27,Shopping,Home Goods,Barnett-Lopez,Wallet,North Troy,3
+616,2025-04-12 16:45:03.728059,932.4,Shopping,Clothing,"Myers, Caldwell and Jenkins",UPI,Port Kevin,3
+617,2025-04-18 22:29:25.405948,466.21,Transport,Uber,Fry-Anderson,Credit Card,Ballardton,1
+618,2024-08-15 05:52:55.011347,160.06,Transport,Uber,Williams LLC,Cash,New Ian,4
+619,2025-04-20 07:25:03.375624,137.11,Health,Clinic,"Young, Johnson and Rodriguez",Credit Card,West Tylerborough,1
+620,2024-08-09 07:27:12.247568,240.09,Entertainment,Movies,Nguyen-Johnson,Debit Card,South Lisachester,4
+621,2025-04-28 07:16:47.518464,267.68,Utilities,Electricity,Wagner-Watts,Credit Card,Port Thomas,4
+622,2024-06-28 16:34:23.291568,921.56,Shopping,Clothing,Johnson-Morris,Cash,Deniseport,5
+623,2025-02-05 19:23:14.358953,866.98,Transport,Train,Norton-Johnston,Debit Card,Jaredton,1
+624,2024-10-05 05:03:45.229580,208.45,Utilities,Electricity,Terrell-Hicks,Cash,North Karenhaven,4
+625,2024-06-24 12:25:23.269103,527.82,Utilities,Water,Henderson-Shelton,Wallet,Hodgeschester,3
+626,2024-08-04 08:58:17.340770,82.53,Food,Restaurants,Wiley-Conley,Credit Card,Grayville,1
+627,2024-11-24 00:52:53.050393,202.4,Entertainment,Concerts,Bridges Inc,Credit Card,Robertview,4
+628,2024-08-23 16:08:49.365310,804.71,Food,Restaurants,Jones-Lewis,Debit Card,New Leah,5
+629,2024-07-02 17:10:51.177337,723.7,Utilities,Internet,Smith-Vaughn,Wallet,East Melaniestad,1
+630,2024-09-23 07:44:20.128895,366.99,Transport,Uber,Johnson-Bell,Wallet,Jessicaport,5
+631,2025-02-07 05:53:51.318106,253.93,Utilities,Electricity,Lynn Group,UPI,Port Nicholas,5
+632,2025-04-01 05:34:03.872451,788.69,Food,Groceries,"Day, Flores and Serrano",Debit Card,West Kimberly,1
+633,2024-10-26 18:03:11.743901,822.51,Food,Fast Food,"Moore, Greene and Smith",Cash,North Tanyaview,1
+634,2024-10-14 22:23:24.379829,495.67,Food,Fast Food,Johnson Ltd,UPI,Lake Matthew,5
+635,2025-05-09 00:38:38.658467,621.55,Shopping,Electronics,"Watson, Ward and Ball",UPI,Alexanderborough,1
+636,2024-09-22 05:54:04.841886,759.84,Health,Pharmacy,"Rodriguez, Hernandez and Michael",Cash,Christophermouth,4
+637,2024-08-14 02:13:43.372999,815.38,Food,Groceries,Sharp-Thompson,Debit Card,New Nathan,3
+638,2024-10-06 23:19:29.232706,622.6,Food,Restaurants,Daniels-Austin,Debit Card,Fordmouth,3
+639,2025-02-03 18:46:09.816787,323.87,Shopping,Electronics,"Henderson, Barnett and Tran",Cash,South Gregoryburgh,2
+640,2024-11-11 15:52:38.485071,839.43,Utilities,Internet,Leblanc LLC,UPI,Jackchester,2
+641,2024-05-25 01:20:23.876261,71.99,Entertainment,Games,Brown and Sons,Wallet,Ballardland,3
+642,2025-01-13 04:37:26.594345,438.74,Shopping,Electronics,Shelton-King,Wallet,Lake Carl,4
+643,2025-01-04 18:53:07.108852,421.71,Food,Restaurants,Mitchell Group,Credit Card,West Jayland,1
+644,2025-05-07 11:03:57.833170,656.05,Entertainment,Movies,Hughes Inc,Credit Card,Newtonview,2
+645,2024-10-21 08:57:11.900784,171.17,Transport,Fuel,Murphy Inc,Credit Card,West Zacharyburgh,4
+646,2024-11-02 20:11:07.233158,768.85,Entertainment,Concerts,Skinner Inc,Credit Card,Richardhaven,5
+647,2025-03-28 13:56:01.266550,568.4,Shopping,Home Goods,Pham Ltd,Debit Card,Lake Kyleville,2
+648,2024-06-01 14:51:56.890456,287.83,Food,Groceries,Miller-Gibson,Debit Card,East Connorfurt,1
+649,2024-05-25 17:03:25.419947,991.11,Entertainment,Movies,"Hunt, Rice and Howard",Cash,Mendezfurt,3
+650,2024-08-11 15:45:23.243230,240.65,Utilities,Water,Garcia-Hammond,Credit Card,Lake Patricia,2
+651,2024-06-09 10:43:17.842570,87.11,Transport,Fuel,Santos Ltd,Wallet,Markstad,2
+652,2025-03-23 09:20:14.332562,486.55,Shopping,Clothing,Rich-Thompson,Cash,Julieside,3
+653,2025-05-12 19:05:26.512378,235.35,Health,Insurance,Hansen-Walsh,Credit Card,New Michaelport,5
+654,2025-02-13 23:47:16.740571,826.78,Shopping,Clothing,"Leonard, Bryant and Howard",Cash,Fischerton,3
+655,2024-06-25 10:19:13.886101,947.7,Entertainment,Concerts,"Thomas, Gutierrez and Harper",Wallet,Holderstad,5
+656,2024-05-26 11:09:02.867264,829.34,Entertainment,Movies,"Gallegos, Jensen and Gill",UPI,Jacobview,4
+657,2025-04-28 11:40:34.233662,457.32,Food,Groceries,"Woods, Vega and Hughes",UPI,Port Troy,2
+658,2025-04-09 22:05:10.378839,671.18,Transport,Fuel,Smith Ltd,Debit Card,Derekfort,3
+659,2024-10-09 16:46:10.087856,149.64,Health,Insurance,"Davis, Mcdaniel and Howe",UPI,Martinezport,1
+660,2024-08-14 00:22:18.594080,372.62,Utilities,Electricity,"Edwards, Miller and Johnson",UPI,Josephburgh,2
+661,2024-12-23 11:19:18.805789,133.76,Entertainment,Movies,Ramsey-Humphrey,Credit Card,Lake Paul,5
+662,2025-02-09 07:48:29.265436,155.76,Entertainment,Games,Adams Group,Debit Card,Whiteberg,2
+663,2024-11-17 14:22:39.231341,715.08,Utilities,Water,Bennett Group,UPI,South Justinmouth,1
+664,2025-01-21 19:07:12.675299,567.87,Food,Groceries,Bell-Hamilton,UPI,North Katrina,4
+665,2024-09-01 14:17:46.721802,141.89,Transport,Train,Soto-Burgess,UPI,South Nathaniel,4
+666,2024-08-20 19:36:25.241147,673.49,Food,Groceries,"Lopez, Bush and Young",UPI,Lisachester,1
+667,2024-11-14 10:54:48.516450,470.41,Health,Clinic,Wade-Hardy,Credit Card,South Maryside,2
+668,2024-11-15 09:03:26.841630,415.58,Utilities,Water,Davis-Williams,Wallet,East Mark,1
+669,2025-01-10 12:21:47.644505,991.86,Food,Groceries,"Daniels, Stevens and Whitaker",Credit Card,New Heatherchester,2
+670,2025-05-03 09:47:20.281699,457.77,Transport,Uber,Gonzalez and Sons,Credit Card,Myersland,4
+671,2025-01-02 22:49:45.941735,838.04,Entertainment,Movies,Walls Group,Debit Card,West Heatherburgh,4
+672,2024-12-28 03:52:27.655983,678.66,Food,Restaurants,"Marsh, Wilson and Hebert",Wallet,Justinside,5
+673,2024-11-27 21:13:12.094064,78.11,Food,Groceries,Bright PLC,UPI,Andersonmouth,1
+674,2024-10-13 21:28:29.576550,200.27,Utilities,Electricity,"Ramirez, Roman and Robinson",Cash,Norrisside,1
+675,2024-12-30 19:20:28.225347,143.22,Entertainment,Games,Armstrong PLC,Cash,New Cheryl,4
+676,2025-01-26 19:58:38.292550,242.48,Food,Fast Food,"Koch, Howard and Coleman",UPI,New Sabrinaton,2
+677,2024-08-01 21:07:28.125827,824.94,Shopping,Electronics,"Escobar, Wu and Santiago",UPI,East Laura,4
+678,2024-09-19 12:06:10.967222,291.53,Transport,Uber,Parker Group,Credit Card,Kingmouth,3
+679,2024-12-28 21:54:11.403730,392.38,Shopping,Clothing,Landry LLC,Debit Card,Robertfort,5
+680,2025-03-16 23:56:17.966806,207.23,Shopping,Clothing,"Payne, Gross and Lopez",Debit Card,Thomasberg,4
+681,2024-07-28 18:27:30.165685,354.82,Transport,Fuel,"Martinez, Rivera and Davis",Credit Card,West Clintonborough,1
+682,2024-11-03 08:56:19.029340,349.37,Entertainment,Concerts,Howard-Manning,Wallet,Josephland,5
+683,2024-05-22 04:44:06.483228,315.28,Shopping,Clothing,"White, Summers and Miller",Wallet,Marissaburgh,3
+684,2024-11-13 23:00:46.067524,62.08,Health,Insurance,Dominguez-Myers,Cash,Garrisonshire,2
+685,2025-01-17 09:18:13.443835,57.41,Entertainment,Games,"Rice, Bradley and Schroeder",Credit Card,West Lancetown,4
+686,2025-01-31 09:53:13.119705,754.81,Food,Groceries,"Atkinson, Gill and Caldwell",Wallet,North Patrickfurt,1
+687,2024-07-28 19:38:06.827639,417.03,Shopping,Clothing,"Young, Stewart and Duncan",UPI,North James,4
+688,2025-05-05 13:36:41.752831,521.86,Entertainment,Games,Dunlap-Hill,Wallet,Thomasport,2
+689,2025-03-23 18:58:29.287089,995.76,Food,Groceries,"Johnson, Turner and Warren",Wallet,East Gabriel,4
+690,2025-04-18 15:28:29.850625,803.55,Health,Clinic,"Fritz, Ramirez and Brewer",Cash,East Jeffreyburgh,4
+691,2025-03-08 04:38:01.764908,656.77,Health,Insurance,Schneider Inc,Cash,East Williebury,2
+692,2024-06-05 05:45:58.145934,648.73,Utilities,Electricity,Barajas-White,UPI,West Williamview,3
+693,2024-08-26 06:11:55.133262,491.86,Entertainment,Movies,Perez-Jenkins,Debit Card,Port David,1
+694,2025-03-14 19:48:10.683629,374.25,Transport,Bus,Bowers-Smith,Credit Card,Alectown,2
+695,2024-09-14 15:05:18.018043,182.67,Food,Restaurants,Thompson PLC,Credit Card,East Hannahview,1
+696,2024-10-20 18:27:10.857693,39.01,Shopping,Home Goods,Guzman-Davis,UPI,West Karenmouth,3
+697,2024-10-14 21:46:24.052583,313.01,Entertainment,Concerts,"Woodward, Robinson and Oneill",Credit Card,New Michael,5
+698,2024-07-15 05:41:50.419947,693.28,Food,Restaurants,Neal Inc,Credit Card,Melaniehaven,3
+699,2025-03-09 16:53:13.057214,583.88,Entertainment,Concerts,Davis-Sims,Debit Card,Kathleenbury,1
+700,2024-07-23 15:55:09.498052,424.51,Health,Clinic,Klein Ltd,Cash,Port Bryanville,4
+701,2025-04-24 15:05:41.015396,434.1,Utilities,Electricity,Frank-Jackson,UPI,East Jasminefort,4
+702,2024-10-29 21:10:45.828007,954.25,Health,Insurance,Eaton-Jones,Debit Card,Andersonland,4
+703,2025-04-08 07:17:27.105071,318.09,Utilities,Water,Rogers Group,Wallet,Cookshire,4
+704,2024-12-28 16:19:46.902293,885.19,Food,Restaurants,Turner Inc,Cash,West Jonathanport,4
+705,2025-05-19 23:52:20.244249,325.56,Transport,Uber,"Williams, Brown and Peterson",Wallet,Silvaside,4
+706,2025-01-29 00:28:34.717913,135.59,Transport,Fuel,Myers-Krueger,Credit Card,Annton,3
+707,2024-06-30 01:40:43.880424,640.34,Shopping,Clothing,Bates LLC,UPI,South Maryberg,2
+708,2025-02-23 10:14:57.304693,532.42,Health,Insurance,"Poole, Phillips and Kelly",Debit Card,East Richardmouth,1
+709,2024-06-01 23:40:18.907025,633.27,Entertainment,Concerts,Salazar Group,Debit Card,Port Amanda,2
+710,2024-06-22 07:54:04.945056,174.02,Entertainment,Games,Cook-Gray,Cash,Lake Amanda,3
+711,2025-04-27 06:43:50.903808,719.32,Health,Pharmacy,Gilmore-Cooper,Credit Card,Maryville,5
+712,2024-10-10 20:47:01.883409,702.91,Transport,Uber,"Harris, Patterson and Foster",Debit Card,Robertstad,2
+713,2025-04-10 17:52:35.388233,422.48,Health,Insurance,"White, Carrillo and Johns",Wallet,North Matthew,2
+714,2025-04-08 12:10:55.956309,336.05,Entertainment,Concerts,Jordan-Flowers,Debit Card,Lake Lisa,4
+715,2025-01-28 03:34:15.236683,212.71,Health,Insurance,Howard LLC,Wallet,Lake Michealstad,2
+716,2024-10-17 16:35:54.702596,795.47,Utilities,Internet,Price and Sons,Wallet,North Kyle,3
+717,2024-06-26 07:06:33.086143,198.55,Shopping,Clothing,"Smith, Brown and Johnson",UPI,Rachelport,2
+718,2025-02-21 23:08:17.573053,78.64,Food,Restaurants,Bailey-Garner,Debit Card,West Jasonburgh,2
+719,2024-08-28 00:02:06.433803,460.97,Food,Restaurants,Williams LLC,Credit Card,Ashleyfort,3
+720,2024-09-12 04:33:22.709158,170.32,Utilities,Electricity,Bush and Sons,Cash,West Bryanhaven,5
+721,2025-03-07 18:10:06.806547,372.83,Entertainment,Games,Fernandez and Sons,UPI,Scottside,3
+722,2024-11-16 22:34:08.508981,987.13,Entertainment,Games,Hanson Group,UPI,Michaelland,1
+723,2025-03-24 16:23:10.306977,656.42,Health,Clinic,Jordan Group,Cash,Maureenburgh,1
+724,2024-06-05 22:43:34.243586,999.38,Shopping,Home Goods,"Fitzgerald, Ross and Patton",UPI,Jenkinshaven,4
+725,2024-12-25 16:54:52.229891,666.72,Food,Restaurants,"Henderson, Richardson and Andersen",UPI,Kristenberg,2
+726,2025-04-19 01:08:37.012421,974.52,Entertainment,Concerts,Griffith and Sons,Credit Card,Johnville,5
+727,2024-10-20 18:37:08.004120,123.48,Health,Pharmacy,Roberts-Cook,Cash,West Dustin,4
+728,2024-08-12 16:07:51.720675,48.01,Transport,Fuel,Lopez PLC,Cash,Port James,3
+729,2024-12-06 15:03:17.691795,221.03,Entertainment,Movies,Warren Ltd,Debit Card,Angiestad,3
+730,2025-02-27 19:06:48.089024,377.24,Food,Fast Food,Cooke Group,Cash,Lake Jackiehaven,5
+731,2024-07-11 12:57:17.042411,802.89,Shopping,Home Goods,Schneider and Sons,Credit Card,New Benjaminshire,5
+732,2025-04-10 10:00:52.941573,319.75,Health,Pharmacy,Vega-Krause,Wallet,Aprilland,3
+733,2025-03-16 09:50:39.909361,519.27,Entertainment,Games,"Watkins, Taylor and Griffin",Cash,Patriciafurt,1
+734,2025-04-04 01:17:09.417819,53.12,Transport,Uber,"Chan, Cain and Williams",Debit Card,Davidstad,2
+735,2025-03-05 22:30:06.486235,375.27,Transport,Bus,Gray and Sons,Cash,Christopherhaven,3
+736,2024-08-17 18:48:00.813745,545.01,Shopping,Clothing,Perez Group,Debit Card,Port Brenda,1
+737,2024-08-10 15:15:02.690275,201.26,Health,Insurance,"Lewis, Andrews and Sanders",Debit Card,North Traciborough,5
+738,2024-09-19 18:28:45.881346,931.33,Entertainment,Concerts,Richardson-Johnson,Wallet,Hayesmouth,3
+739,2025-02-16 09:29:55.147111,565.24,Shopping,Electronics,Bennett PLC,Wallet,Manningfurt,1
+740,2025-03-13 20:21:33.881371,919.99,Food,Groceries,"Miller, Guerra and Lane",Cash,Christophershire,1
+741,2024-12-13 17:16:22.094716,926.03,Food,Restaurants,Barrera Group,Cash,Paulside,4
+742,2024-12-22 14:14:45.274805,730.98,Entertainment,Concerts,"Allen, Valentine and Johnson",UPI,Johnston,4
+743,2024-09-16 18:12:59.702610,788.93,Food,Groceries,Cross-Stephenson,Cash,East Kathybury,3
+744,2024-06-11 22:24:35.079204,936.86,Shopping,Clothing,"Dyer, Johnson and Casey",Wallet,Johnhaven,2
+745,2024-12-19 00:10:30.914800,515.96,Utilities,Internet,Booth-Warren,Wallet,Lake Stephanieland,4
+746,2024-11-09 17:03:22.813618,73.51,Utilities,Internet,"Watkins, Bass and Ibarra",Cash,Johnsonton,4
+747,2024-07-05 19:20:20.020070,276.58,Transport,Bus,"Arroyo, Sutton and Conner",Wallet,North Paul,4
+748,2024-10-15 07:53:17.662154,175.29,Shopping,Clothing,Roberts-Mendoza,Debit Card,Smithstad,1
+749,2024-05-22 02:20:44.887622,784.75,Food,Fast Food,"Mann, Jensen and Walker",Wallet,North Billyview,3
+750,2025-02-12 08:14:11.498736,804.22,Health,Clinic,Scott-Wolfe,Debit Card,West Eric,1
+751,2024-10-02 11:07:09.434014,388.93,Shopping,Home Goods,"Gomez, Perkins and Chambers",Debit Card,Wilkinsonborough,1
+752,2024-06-02 03:30:05.063603,459.02,Transport,Fuel,Terrell PLC,Debit Card,Kevinburgh,5
+753,2024-11-23 06:08:11.945043,337.13,Food,Groceries,"Thomas, Martinez and Hardin",Wallet,New Zachary,4
+754,2024-09-29 08:25:36.090448,758.33,Transport,Fuel,Jackson Ltd,UPI,Reyesfurt,4
+755,2024-07-02 09:15:27.908040,859.0,Utilities,Electricity,Lyons-Olsen,Cash,Peggyville,1
+756,2024-08-25 16:49:50.073460,825.06,Utilities,Internet,Garza Group,Credit Card,Mackton,5
+757,2024-08-18 00:01:22.176050,569.79,Health,Clinic,"Brooks, Dunlap and Marquez",Credit Card,Crystalmouth,1
+758,2024-09-03 05:25:39.317003,665.61,Entertainment,Concerts,"House, Rodriguez and Clark",Wallet,Port Benjamin,2
+759,2024-05-21 15:11:34.714348,475.95,Food,Groceries,Weber LLC,Cash,Daniellefort,4
+760,2024-11-27 11:07:29.448668,374.86,Food,Groceries,Coleman-Evans,Debit Card,Port Briantown,5
+761,2024-06-19 16:45:47.795160,706.32,Transport,Train,Bullock-Ramirez,UPI,South Brendaburgh,1
+762,2025-05-10 13:23:06.734507,103.53,Entertainment,Games,"Henry, Brooks and Lane",UPI,Hernandezborough,3
+763,2024-07-03 02:12:40.167023,693.96,Shopping,Clothing,Moody and Sons,Wallet,Hoffmanside,3
+764,2025-03-18 00:23:18.579121,855.74,Shopping,Home Goods,Mclean LLC,Credit Card,North Jakefurt,4
+765,2025-05-10 16:30:38.873590,429.84,Entertainment,Movies,Flores-Gay,UPI,Loganborough,1
+766,2024-05-29 20:19:07.578115,341.19,Entertainment,Concerts,Turner LLC,Credit Card,Stoneshire,5
+767,2024-09-17 21:21:07.142424,661.85,Entertainment,Concerts,"Salinas, Owens and Ramos",Credit Card,Robertsshire,5
+768,2024-08-09 09:47:27.905305,950.77,Entertainment,Movies,Vaughn-Williamson,Credit Card,Alexanderton,1
+769,2025-01-27 21:22:59.205766,263.32,Food,Fast Food,"Hill, Martin and Goodwin",UPI,New Anthonyshire,1
+770,2025-02-23 04:42:20.602775,275.37,Food,Restaurants,"Huber, Todd and Harmon",Credit Card,Ericchester,1
+771,2024-06-23 11:20:17.291898,96.82,Entertainment,Movies,Rodriguez LLC,Wallet,Patrickberg,4
+772,2024-09-25 00:47:21.393350,710.21,Entertainment,Movies,Foster Inc,Debit Card,East Cameronmouth,2
+773,2024-08-09 02:08:20.604192,826.16,Food,Restaurants,"Sanchez, Pierce and Rios",UPI,South Andrew,2
+774,2025-04-13 17:22:55.973767,310.38,Transport,Fuel,Silva Ltd,UPI,Snowport,5
+775,2024-06-27 23:59:14.754042,641.75,Entertainment,Games,Gardner Ltd,UPI,Nathanchester,4
+776,2025-05-04 22:47:58.803720,570.6,Entertainment,Games,Hernandez Inc,Wallet,Port Michealshire,4
+777,2024-05-26 17:33:49.337824,13.28,Shopping,Clothing,"Washington, Clark and King",Wallet,East Jamesside,3
+778,2025-05-03 09:55:50.973264,382.71,Food,Groceries,Robinson-Brewer,UPI,West Judy,2
+779,2024-08-22 23:38:29.325165,891.72,Transport,Bus,"Simpson, Gross and Austin",Debit Card,Joanneview,1
+780,2024-10-08 17:16:56.197837,795.55,Utilities,Electricity,Gomez Group,Credit Card,North Krista,2
+781,2025-04-10 10:42:57.945056,238.73,Entertainment,Concerts,Tyler-Harris,Debit Card,Robersonhaven,1
+782,2024-09-24 09:24:08.812159,109.81,Entertainment,Movies,"Mcgee, Perez and Fox",Cash,Georgeshire,5
+783,2025-03-02 09:35:47.742055,516.37,Shopping,Clothing,"Phelps, Gibson and Cummings",Debit Card,Matthewhaven,1
+784,2025-02-23 00:24:49.582578,493.53,Transport,Train,"Baker, Bowen and Smith",Credit Card,North Zachary,4
+785,2024-08-01 20:15:01.168701,946.03,Shopping,Electronics,"Chavez, Weiss and Palmer",UPI,West Chadton,4
+786,2024-11-19 02:23:05.311370,225.39,Shopping,Electronics,"Wilson, Miller and Clements",Cash,Mitchellland,2
+787,2025-01-06 07:49:49.924315,62.84,Transport,Uber,Hernandez-Williams,Wallet,Victoriaview,5
+788,2024-06-13 19:25:36.736417,36.04,Health,Pharmacy,"Le, Smith and Wu",Cash,South Anitastad,3
+789,2024-06-18 01:03:01.692547,741.49,Transport,Fuel,Alvarado-Gates,Credit Card,Freemanberg,2
+790,2024-05-28 17:29:49.213442,367.29,Food,Restaurants,Gonzalez-Mullins,Credit Card,South Scottport,1
+791,2025-03-14 16:56:22.459707,920.91,Health,Pharmacy,"Owen, Morris and Perry",UPI,Lake Tylerport,5
+792,2024-08-18 00:42:59.502707,516.96,Shopping,Clothing,Evans LLC,Debit Card,Monroeport,2
+793,2025-02-10 01:47:46.463480,807.56,Shopping,Electronics,Beasley-Nelson,Credit Card,Buckleyhaven,5
+794,2024-10-08 21:03:04.158233,110.53,Shopping,Electronics,Benton PLC,Credit Card,South Michaelhaven,5
+795,2024-08-28 19:54:40.979529,553.23,Utilities,Internet,Miller Ltd,Debit Card,South Andreashire,2
+796,2024-06-02 18:47:57.312587,253.72,Entertainment,Movies,Reynolds Inc,UPI,Zacharyhaven,1
+797,2024-12-08 18:12:33.741698,545.24,Transport,Train,"Lee, Mathis and Bell",Wallet,East Virginiaborough,1
+798,2024-12-30 03:10:48.113656,270.9,Health,Insurance,Cuevas and Sons,Wallet,North Daniel,5
+799,2025-03-22 15:50:26.201182,818.84,Food,Fast Food,Barker Group,Wallet,East Pattyshire,5
+800,2024-08-02 08:13:52.784823,325.47,Entertainment,Movies,"Hamilton, Wilson and Young",Cash,Cobbfurt,1
+801,2025-02-01 06:43:46.147624,975.68,Food,Restaurants,Chavez-Ellis,Wallet,Aguirrehaven,4
+802,2025-02-28 01:12:45.421386,235.27,Utilities,Internet,Hoffman-Nelson,Wallet,New Carlos,1
+803,2024-06-05 16:01:16.525093,943.02,Food,Groceries,"Bond, Brown and Aguilar",Wallet,Nealville,2
+804,2024-12-13 03:40:09.515701,715.41,Utilities,Electricity,"Meyer, Jones and Palmer",Cash,Jacobsside,4
+805,2024-06-23 13:15:39.310026,641.71,Transport,Train,"Wiggins, Mcneil and Chase",Cash,West Samuelchester,5
+806,2024-07-31 20:51:56.684243,384.87,Utilities,Internet,Peterson Ltd,Wallet,Brendaland,3
+807,2024-11-21 14:45:42.919287,296.21,Utilities,Electricity,"Howard, Stephens and Schwartz",Credit Card,New Mauriceton,2
+808,2024-10-05 02:53:12.999620,258.77,Food,Groceries,Rhodes-Santiago,Wallet,West Stuartton,4
+809,2024-12-11 13:53:02.218420,55.51,Utilities,Electricity,"Brown, Frye and Anderson",Debit Card,Reyesberg,4
+810,2024-12-27 01:26:49.138475,533.98,Utilities,Electricity,Lopez-Gordon,Debit Card,Port Christopher,5
+811,2024-07-23 00:45:09.898847,316.84,Food,Groceries,Berger Group,UPI,West Williamton,5
+812,2024-11-02 08:35:04.471375,459.12,Entertainment,Concerts,"Humphrey, Thornton and Phelps",Wallet,Rachaelburgh,5
+813,2024-05-31 23:08:24.514856,876.93,Transport,Fuel,Phillips LLC,Debit Card,East Pamela,5
+814,2025-03-04 21:57:03.307399,855.57,Transport,Train,"Mcmillan, Dean and Gregory",Wallet,Kerrville,1
+815,2025-03-01 07:33:39.876964,849.36,Transport,Train,"Hughes, Rose and Gregory",UPI,Gardnerside,4
+816,2024-08-23 15:52:55.413802,995.13,Food,Groceries,Dyer PLC,Cash,Wardland,5
+817,2024-07-23 16:34:12.983052,111.64,Health,Pharmacy,Cole Ltd,Credit Card,Dayport,3
+818,2024-08-24 00:19:31.623963,163.89,Health,Insurance,"Taylor, Obrien and Graham",UPI,Marcustown,4
+819,2024-11-18 05:18:37.965421,676.3,Health,Insurance,Morrison-Calderon,Credit Card,Andersonshire,2
+820,2024-10-01 16:25:27.893450,337.87,Health,Clinic,"Santos, Ballard and Greene",Wallet,New Laurafort,4
+821,2024-09-17 06:02:40.269348,118.17,Shopping,Electronics,Oneal Group,Cash,New Deborahchester,3
+822,2025-04-05 22:29:02.655958,699.55,Utilities,Internet,"French, Ramirez and Conner",Wallet,South Derekburgh,5
+823,2024-09-28 17:31:02.412575,75.34,Entertainment,Games,Watts-Diaz,UPI,East Tonya,3
+824,2025-02-12 14:14:14.637097,574.65,Entertainment,Concerts,Anderson-Howell,UPI,Lake Michael,3
+825,2025-04-23 14:20:38.766138,409.15,Transport,Bus,"Adams, Wilson and Reed",Cash,Ortizview,2
+826,2024-10-06 19:28:41.737101,62.9,Food,Groceries,Torres-Kemp,Debit Card,Christinaport,5
+827,2025-04-19 16:44:21.622208,774.48,Food,Groceries,Rogers Group,Wallet,South Rebeccahaven,2
+828,2024-10-01 02:26:39.954587,847.06,Health,Insurance,Lam-Mcmillan,UPI,Port Sarah,5
+829,2024-12-12 06:34:16.283291,958.99,Utilities,Internet,Miller-Bautista,Debit Card,Sosaborough,3
+830,2024-08-07 08:23:06.962058,178.93,Utilities,Electricity,Harrington-Garcia,Debit Card,Ashleyberg,2
+831,2025-03-06 08:26:31.917916,334.61,Utilities,Electricity,Bowers-Morris,Wallet,Brettshire,5
+832,2024-10-31 02:22:40.590264,930.59,Entertainment,Concerts,Arnold Group,Credit Card,Lake Madison,4
+833,2025-01-23 16:28:53.185368,362.27,Health,Pharmacy,Watkins-Herrera,Cash,Kathystad,4
+834,2024-07-04 17:11:51.071041,590.59,Health,Insurance,"Meyer, Anderson and Howard",Cash,Royton,2
+835,2025-04-01 09:12:07.665400,989.11,Health,Insurance,"Ayers, Martin and Hudson",Wallet,Cortezland,2
+836,2024-11-22 11:21:25.813927,218.61,Utilities,Water,"Ellis, Lane and Evans",Wallet,Parsonsberg,5
+837,2025-04-21 13:00:52.641313,695.8,Transport,Train,Weiss Ltd,Debit Card,Leonardfurt,2
+838,2024-08-31 15:20:23.058405,767.02,Food,Restaurants,Good PLC,Credit Card,Stevensonland,2
+839,2025-03-30 05:28:51.079430,505.72,Transport,Bus,Lopez-Burgess,Credit Card,Port Amy,1
+840,2024-11-11 02:46:34.901819,412.6,Utilities,Water,Sullivan-Campbell,Credit Card,Holmesshire,5
+841,2025-04-09 18:41:52.471420,396.51,Shopping,Electronics,Callahan PLC,Wallet,Amberburgh,3
+842,2024-10-13 12:17:53.837009,391.39,Transport,Train,"Myers, Graham and Roberts",Cash,Port Tracyton,1
+843,2024-08-20 20:55:13.780620,799.79,Entertainment,Movies,"Dougherty, Acosta and Jones",Credit Card,Matthewberg,4
+844,2024-12-20 02:05:37.833091,791.13,Shopping,Clothing,Brooks Ltd,Credit Card,North Karen,4
+845,2024-12-22 06:55:38.490311,707.76,Shopping,Electronics,Murphy Inc,Cash,Allenshire,5
+846,2024-11-25 19:40:29.319852,207.77,Utilities,Internet,Jacobs-Jones,UPI,Olsonmouth,2
+847,2025-04-17 09:54:26.446274,651.36,Entertainment,Movies,Stevenson-Ramirez,Credit Card,Port Emilyfort,4
+848,2024-06-08 12:22:05.230685,963.08,Utilities,Electricity,Johnson-Hernandez,Wallet,South Tylerchester,5
+849,2024-09-21 19:07:15.559691,556.21,Transport,Fuel,Pope-Garcia,Cash,Port Cameron,4
+850,2025-03-21 05:28:36.024580,345.86,Health,Pharmacy,"Mccarthy, Patel and Weaver",Debit Card,Danielport,4
+851,2024-12-27 08:07:39.040181,391.25,Entertainment,Concerts,Walters-Williams,Credit Card,Port Jane,3
+852,2024-09-05 15:51:12.413764,173.24,Transport,Uber,"Strong, Humphrey and Smith",UPI,Amandafort,2
+853,2024-07-20 16:15:11.302813,318.17,Transport,Uber,Moore-Garner,Cash,Ryanside,1
+854,2025-05-14 10:55:15.646927,816.72,Health,Insurance,"Kelly, Gomez and Perkins",Cash,East Gina,4
+855,2024-07-01 18:44:23.840699,892.95,Food,Fast Food,Dudley-Browning,Credit Card,South Jonathanshire,5
+856,2024-10-04 13:22:59.483405,637.2,Food,Fast Food,Rice Ltd,Cash,Kurtburgh,2
+857,2024-07-04 02:26:10.440294,10.63,Utilities,Internet,Wright-Wong,Wallet,East Sherry,2
+858,2025-02-17 08:19:32.404928,383.4,Entertainment,Movies,Chapman-Hawkins,Credit Card,Monicaville,1
+859,2025-04-04 03:05:05.090525,596.12,Utilities,Electricity,Simmons and Sons,Cash,Taraberg,2
+860,2024-07-23 04:51:59.202362,221.12,Utilities,Internet,"Hansen, Martin and Davis",Wallet,North Susanview,3
+861,2025-05-07 01:11:37.443887,190.38,Utilities,Water,Davis-Nguyen,Debit Card,Brianaland,1
+862,2025-01-29 00:09:46.634402,465.5,Shopping,Clothing,Vang-Wagner,Cash,West Ericchester,4
+863,2024-07-09 18:14:32.774967,908.82,Transport,Uber,"Lawson, Morrison and White",UPI,Lake Juanside,3
+864,2024-09-10 17:18:12.431297,35.52,Food,Fast Food,Mckinney LLC,Credit Card,Harrisport,2
+865,2024-11-27 11:18:30.362381,953.17,Health,Clinic,"Gomez, Farrell and Wells",Debit Card,Shawnmouth,3
+866,2024-12-06 23:48:27.626706,343.57,Shopping,Clothing,"Charles, Williams and Thomas",Wallet,Joshuaville,1
+867,2024-07-28 05:07:04.400216,364.72,Transport,Train,Moore Group,Wallet,South Meagan,4
+868,2025-03-12 17:29:09.214369,893.14,Food,Fast Food,Lee-Mckee,Debit Card,West Charlesland,4
+869,2025-03-29 03:56:57.303754,886.1,Transport,Train,Patterson-Edwards,Debit Card,Lloydbury,3
+870,2024-09-23 17:51:31.832025,262.13,Utilities,Electricity,Sexton-Whitney,Debit Card,North Richardburgh,1
+871,2024-08-07 10:33:16.853696,925.2,Utilities,Water,Martin-Garcia,Debit Card,North Michaeltown,2
+872,2025-02-25 11:52:45.785713,399.88,Transport,Uber,Fuentes-Burns,Debit Card,East Rachelhaven,2
+873,2024-12-31 14:27:20.270228,87.36,Utilities,Water,"Hernandez, Anderson and Craig",UPI,Port Travisborough,1
+874,2024-10-15 23:41:26.953961,622.89,Health,Pharmacy,Nash PLC,UPI,Buckchester,5
+875,2025-02-17 11:08:44.546333,43.83,Health,Clinic,"Lopez, Leach and Gibson",Cash,Walkerfort,3
+876,2024-05-26 04:59:08.015489,588.77,Shopping,Clothing,Davis-Smith,Cash,Danielborough,4
+877,2024-12-23 17:17:47.188744,288.95,Transport,Uber,Bennett PLC,Credit Card,South Nicoleville,1
+878,2024-09-15 18:57:14.163491,960.22,Entertainment,Concerts,"Rice, Carr and Welch",Cash,Stewartmouth,1
+879,2024-12-22 11:32:37.319338,613.39,Transport,Uber,"Swanson, Rogers and Novak",UPI,Melissabury,2
+880,2025-05-19 12:18:13.938854,617.95,Entertainment,Movies,Warren PLC,Wallet,West David,3
+881,2025-04-17 01:13:59.415623,388.87,Utilities,Internet,"Smith, Alvarez and Nelson",Wallet,Port Hayleytown,2
+882,2024-12-03 12:14:28.174933,825.57,Shopping,Home Goods,Mclaughlin Ltd,UPI,West Troyhaven,3
+883,2025-03-16 14:12:29.182385,324.43,Shopping,Clothing,"Hansen, Davies and Miller",Wallet,Port Manuel,5
+884,2024-10-20 12:00:39.638093,87.46,Entertainment,Concerts,"Williams, Chambers and Myers",Wallet,Davidstad,1
+885,2024-05-27 17:20:20.658041,33.58,Utilities,Electricity,Delgado Inc,Credit Card,Hernandezborough,1
+886,2025-04-07 23:34:42.726850,787.96,Utilities,Internet,"Gonzalez, Burgess and Lawson",Wallet,Nicholsonberg,4
+887,2025-02-03 02:14:44.647381,598.09,Transport,Uber,Jordan PLC,Wallet,Kellyton,1
+888,2025-03-16 23:15:22.817327,453.87,Health,Insurance,Johnson LLC,Cash,Vanessabury,3
+889,2024-12-23 02:27:16.447992,605.2,Transport,Fuel,Ruiz-Duncan,Debit Card,Torrestown,1
+890,2024-10-02 19:29:32.580746,287.85,Transport,Fuel,"Jones, Austin and Fitzgerald",UPI,Frankville,1
+891,2025-04-08 18:38:10.226790,242.2,Utilities,Electricity,Patterson LLC,Credit Card,Port Kelseyberg,3
+892,2025-01-04 03:22:44.333634,825.09,Entertainment,Movies,"Hernandez, Salinas and Butler",Credit Card,Sandraville,4
+893,2024-11-04 19:54:32.753593,60.41,Entertainment,Games,"Hutchinson, Kim and Smith",Cash,New Jonathan,3
+894,2024-08-30 22:13:57.495914,24.06,Transport,Bus,Bolton Group,Debit Card,West Eric,1
+895,2024-07-31 19:33:09.822059,705.89,Entertainment,Movies,"Bryant, Carpenter and Thomas",UPI,Melissastad,3
+896,2025-02-01 07:44:55.771720,159.15,Utilities,Internet,Hensley Group,Credit Card,New Laura,4
+897,2025-03-19 16:15:12.143132,769.72,Food,Groceries,"Goodwin, Padilla and Jones",Debit Card,Ericmouth,4
+898,2024-12-09 05:07:04.297807,125.99,Entertainment,Movies,Holden-Francis,Debit Card,Darrellton,5
+899,2024-05-31 23:37:20.281756,666.99,Shopping,Electronics,"Jordan, Riggs and Snow",Cash,Johnsonport,4
+900,2024-06-27 09:22:24.460041,240.86,Utilities,Internet,Francis and Sons,Wallet,South Emily,2
+901,2025-02-28 05:15:51.211661,350.03,Utilities,Internet,Johnson-Smith,Wallet,Jamesview,2
+902,2025-05-12 09:34:48.307720,290.27,Shopping,Clothing,"Lewis, Stewart and Smith",UPI,Lake Victoriaberg,4
+903,2024-07-22 22:03:07.776700,31.81,Transport,Bus,Pratt Ltd,UPI,Johntown,5
+904,2024-07-12 13:24:14.971924,800.1,Entertainment,Games,"Mccarthy, Murphy and Khan",Credit Card,Spearsfort,4
+905,2024-06-07 19:36:49.280941,157.83,Utilities,Electricity,Green Inc,UPI,East Theresa,4
+906,2024-06-10 16:19:45.936335,576.29,Food,Groceries,"Pena, Collins and Brown",Credit Card,Codychester,2
+907,2024-10-12 19:53:01.208589,25.85,Transport,Train,Lloyd PLC,UPI,Marshallburgh,2
+908,2025-01-06 17:20:49.026108,245.26,Shopping,Electronics,"George, Archer and Rose",Debit Card,South Chadland,2
+909,2024-07-20 03:20:27.860352,443.77,Entertainment,Movies,Peters-Hill,Wallet,South Frederick,1
+910,2025-04-02 02:11:59.735674,286.24,Shopping,Home Goods,Newton-Simpson,Debit Card,Lesliemouth,3
+911,2025-03-06 06:45:23.728277,245.95,Food,Fast Food,Medina LLC,Cash,Davidmouth,5
+912,2024-08-14 22:41:03.355726,197.03,Utilities,Internet,"Yang, Morris and Alexander",Wallet,Lake Brenda,4
+913,2024-06-10 11:27:52.762530,85.57,Health,Insurance,Martinez PLC,Debit Card,Jenniferbury,3
+914,2024-06-29 06:53:12.439052,682.93,Utilities,Internet,Ward-Goodwin,Wallet,Perezville,5
+915,2025-01-10 14:22:41.402443,219.32,Transport,Uber,Nelson-Soto,Debit Card,Port Juliefort,3
+916,2025-01-31 14:55:10.738612,374.23,Transport,Train,"Moore, Thompson and Jones",UPI,Thompsonburgh,5
+917,2024-08-28 16:12:44.511850,542.72,Shopping,Electronics,"Alvarado, Mahoney and Valdez",Cash,East Duane,5
+918,2025-03-01 17:21:34.875923,470.49,Shopping,Clothing,Knox-Smith,Credit Card,Danielleberg,4
+919,2024-08-06 10:26:33.249381,82.02,Health,Clinic,Wade Ltd,Wallet,Port Annetteberg,2
+920,2024-06-07 15:25:59.847480,536.43,Transport,Uber,Johnson LLC,Debit Card,Nguyenshire,4
+921,2024-07-31 07:05:05.143069,530.95,Entertainment,Concerts,"Huff, Walker and Schwartz",Wallet,South Tamara,5
+922,2025-01-23 08:42:20.123334,80.46,Shopping,Home Goods,Johnson-Maldonado,Credit Card,North James,3
+923,2024-06-25 05:12:47.362264,154.25,Utilities,Electricity,Allen LLC,UPI,Port Christineview,4
+924,2024-05-26 14:33:47.214344,404.08,Shopping,Clothing,"Kemp, Ward and Johnson",UPI,North Carolyn,1
+925,2025-04-19 09:11:33.434340,521.7,Shopping,Home Goods,"Cisneros, Bell and Torres",Debit Card,South Morganburgh,3
+926,2024-11-05 18:52:39.298734,801.13,Health,Insurance,Dickson Group,Wallet,Kaylaton,2
+927,2025-03-22 20:32:59.620022,278.66,Transport,Fuel,Mills and Sons,Wallet,Carolynside,4
+928,2024-08-12 22:19:19.753702,172.22,Shopping,Home Goods,"Perkins, Fuller and Chen",Debit Card,Lake Shelby,4
+929,2024-08-15 20:09:37.853486,722.55,Utilities,Water,Castaneda Inc,Cash,Thomasberg,5
+930,2024-07-07 19:04:26.817854,906.87,Transport,Uber,Jones-Gomez,Credit Card,South Davidmouth,4
+931,2024-10-21 08:24:27.928221,160.54,Food,Restaurants,Romero Inc,Credit Card,Josephborough,1
+932,2025-04-28 15:24:50.987920,24.5,Utilities,Internet,"Smith, Williams and Nelson",UPI,Randyfurt,3
+933,2024-08-12 09:42:39.947997,789.37,Transport,Uber,Jensen Ltd,Debit Card,Sydneymouth,5
+934,2024-07-14 11:09:11.869131,717.03,Utilities,Water,Smith and Sons,Credit Card,Casetown,4
+935,2025-01-25 06:31:57.259803,264.31,Food,Fast Food,Price Group,Debit Card,Frazierhaven,4
+936,2025-02-12 02:28:07.401151,997.89,Shopping,Home Goods,"Cox, Wilson and Powell",UPI,Ericberg,1
+937,2025-02-10 11:41:51.427337,667.95,Transport,Train,Erickson Ltd,Debit Card,Reginaville,3
+938,2024-11-05 16:25:33.361405,350.03,Entertainment,Games,Vance PLC,UPI,New Christytown,2
+939,2025-03-01 10:50:20.943030,501.66,Entertainment,Games,Page-Martinez,Wallet,Rubenton,5
+940,2024-06-16 02:50:27.054551,84.16,Entertainment,Movies,Miller PLC,Wallet,Eduardotown,4
+941,2024-05-31 17:27:39.223712,331.52,Entertainment,Concerts,Ray-Wise,Debit Card,Andrewborough,4
+942,2024-10-17 22:53:37.176038,219.6,Utilities,Electricity,Collins LLC,Wallet,South Brittanyfort,3
+943,2024-06-05 23:50:57.419908,504.16,Food,Groceries,Phillips LLC,Credit Card,South Rubenshire,4
+944,2024-07-30 20:45:48.936318,492.22,Entertainment,Games,Carney-Richard,Wallet,East Carlaburgh,4
+945,2024-09-05 06:40:23.831627,848.94,Utilities,Water,"Walters, Leblanc and Powers",Debit Card,East Brittany,4
+946,2024-08-15 13:32:54.935433,751.66,Health,Clinic,"Moore, Arroyo and Williams",Cash,Lake Carolland,4
+947,2024-11-21 20:20:55.898526,81.38,Utilities,Water,Brennan-Santiago,UPI,Rodriguezview,4
+948,2025-03-20 03:18:14.335786,240.06,Health,Pharmacy,"Hale, Horn and Willis",Credit Card,East Mary,3
+949,2025-03-01 12:24:49.223697,343.47,Food,Groceries,"Alvarez, Bennett and Smith",Wallet,Careyfurt,2
+950,2025-01-28 09:37:06.757468,948.36,Health,Pharmacy,"Frank, Gardner and Sims",Debit Card,Robertbury,1
+951,2024-11-06 21:08:37.209885,45.72,Health,Clinic,"Hansen, Murray and Luna",Wallet,Mathisborough,5
+952,2024-08-25 16:58:11.892806,895.89,Entertainment,Games,Carrillo and Sons,UPI,Rileymouth,5
+953,2025-04-17 21:58:29.382226,551.61,Utilities,Electricity,"Perry, Downs and Sanders",Cash,Matthewbury,3
+954,2024-05-20 18:23:50.431506,33.9,Shopping,Home Goods,Mcintyre LLC,UPI,Jamesville,4
+955,2025-03-12 10:49:18.191666,95.63,Food,Groceries,"Copeland, Grant and Delgado",Cash,Robertville,3
+956,2024-12-30 15:56:12.099939,138.01,Entertainment,Games,"Burnett, Mcdaniel and Little",Wallet,Port Kendra,1
+957,2024-10-15 21:55:28.917936,42.37,Entertainment,Movies,Mccoy-Black,Credit Card,Rodriguezborough,3
+958,2025-02-11 22:11:10.726568,926.0,Food,Groceries,Wade-Payne,Cash,Lake Anthony,2
+959,2024-08-17 09:47:00.231464,86.32,Entertainment,Games,"Warner, Golden and Quinn",Credit Card,Arianafurt,4
+960,2025-03-19 18:52:27.977750,579.98,Utilities,Water,Anderson Group,Cash,Thomasstad,2
+961,2024-08-19 19:32:10.218494,724.21,Health,Insurance,Nelson-Webb,UPI,East Ashleyville,4
+962,2024-09-26 23:17:11.633627,379.15,Entertainment,Concerts,Mills LLC,Debit Card,Paulburgh,2
+963,2025-04-23 10:55:47.558866,155.68,Shopping,Clothing,Rivers PLC,Credit Card,East Jaimeville,5
+964,2025-04-10 14:07:40.298490,169.46,Food,Restaurants,"Thompson, Turner and Gonzalez",Credit Card,East Linda,2
+965,2024-12-13 06:00:49.949443,63.54,Food,Restaurants,"Bryant, Harris and Clark",UPI,New Tonya,3
+966,2024-11-22 04:11:15.853009,124.9,Shopping,Clothing,"Aguilar, Wise and Williams",Wallet,Port Patricia,1
+967,2025-02-28 18:15:18.873960,669.72,Entertainment,Games,Lee-Wright,Debit Card,Garciamouth,1
+968,2025-03-20 02:28:26.314819,900.81,Transport,Bus,"Martin, Bradley and Calderon",UPI,West Corytown,5
+969,2025-04-19 19:25:26.499053,925.75,Shopping,Electronics,Robinson Inc,UPI,East Lindahaven,5
+970,2024-06-10 16:55:23.851448,277.8,Health,Insurance,Vega-Richmond,Wallet,North Vanessa,1
+971,2024-08-14 06:22:42.095024,195.92,Shopping,Home Goods,"Jenkins, Perez and Rogers",Debit Card,Cabreraport,5
+972,2025-01-18 17:57:23.405798,856.27,Health,Insurance,Hudson Group,Cash,North Marc,5
+973,2024-05-23 17:30:40.403616,800.43,Utilities,Water,"Thomas, Stafford and Goodman",Credit Card,Justinberg,1
+974,2024-12-31 18:55:21.113739,468.31,Shopping,Clothing,"Higgins, Holland and Hunter",Credit Card,Port Dennishaven,4
+975,2025-04-29 21:52:09.179076,822.98,Transport,Uber,Floyd Group,Wallet,East Michael,1
+976,2025-02-03 08:00:29.714532,192.49,Transport,Fuel,Miller-Martin,UPI,South Justinfurt,4
+977,2024-05-23 09:26:17.568709,710.51,Shopping,Home Goods,"Pearson, Jones and Cantu",Debit Card,Shannonport,5
+978,2025-04-06 12:25:56.023916,713.17,Entertainment,Games,Murphy Ltd,Wallet,West Jessica,3
+979,2024-08-01 12:04:52.140365,970.19,Entertainment,Movies,Morris-Dunlap,Cash,West Edwardmouth,5
+980,2025-04-17 09:04:44.879066,530.88,Utilities,Internet,Miller-Perry,Wallet,South Patrick,2
+981,2025-01-29 04:09:02.435113,562.98,Shopping,Clothing,"Schwartz, James and Sutton",Debit Card,Port Danielle,5
+982,2024-07-23 03:48:44.608023,690.82,Shopping,Electronics,"Sullivan, Mccarthy and Harrington",Cash,Beverlybury,4
+983,2024-05-30 06:49:51.940502,85.51,Transport,Uber,Patterson Ltd,Debit Card,Lake Alexandra,4
+984,2024-12-04 16:12:55.347928,481.68,Transport,Train,Miller PLC,Credit Card,West William,2
+985,2025-04-02 05:35:42.424570,932.85,Food,Groceries,"Nicholson, Peterson and Smith",Wallet,Wardchester,4
+986,2025-01-16 11:24:16.548921,312.58,Entertainment,Games,"Rodgers, Herrera and Hinton",Credit Card,Frederickstad,3
+987,2024-06-20 03:18:55.731935,262.2,Utilities,Electricity,Roberts LLC,UPI,South Roy,2
+988,2025-03-12 23:57:04.408669,222.74,Entertainment,Concerts,"Jefferson, Jackson and Herrera",Wallet,Josephtown,2
+989,2024-11-24 10:27:14.848605,587.24,Health,Insurance,"Johnson, Stevens and Stein",Cash,Cameronmouth,5
+990,2024-08-29 13:36:12.175496,377.51,Health,Pharmacy,Lopez Inc,Cash,Amymouth,5
+991,2024-08-24 07:52:07.172748,426.24,Transport,Train,Smith-James,Wallet,Jameston,2
+992,2025-01-14 20:58:19.895151,897.2,Shopping,Clothing,Davis-Cruz,Debit Card,Mayoburgh,2
+993,2024-12-15 13:50:13.183875,287.99,Entertainment,Concerts,Long and Sons,Debit Card,Reginaview,2
+994,2024-11-02 18:08:24.670364,174.16,Transport,Uber,"Gibson, Wells and Marshall",UPI,Jenniferberg,1
+995,2024-09-30 01:52:49.740399,5.82,Utilities,Internet,James-Phillips,Cash,Shannonshire,3
+996,2024-10-02 18:50:52.239540,943.57,Utilities,Internet,Bullock Ltd,Cash,North Michael,4
+997,2025-03-19 23:54:28.167281,619.42,Utilities,Electricity,Logan and Sons,UPI,East Christine,1
+998,2024-10-14 01:04:12.617339,87.6,Utilities,Water,"Jones, Ruiz and Anderson",Wallet,North Benjaminmouth,1
+999,2024-07-03 16:56:45.829110,154.78,Entertainment,Games,"Garcia, Jackson and Molina",Cash,Fieldsborough,1
+1000,2024-10-19 23:09:34.578074,284.51,Shopping,Clothing,Doyle Group,Credit Card,Port Audrey,4
+1001,2024-12-18 17:32:02.314839,445.91,Shopping,Electronics,"Saunders, Berg and Miller",Credit Card,Klineton,4
+1002,2025-04-05 08:16:25.031771,489.06,Entertainment,Movies,Mathews and Sons,Debit Card,Banksside,3
+1003,2025-04-27 13:00:38.626536,285.77,Health,Clinic,Shepherd Group,UPI,East Brianaton,2
+1004,2025-01-02 13:41:42.240644,298.88,Transport,Fuel,Wyatt Ltd,Credit Card,East Hector,5
+1005,2024-07-01 08:50:27.631118,382.62,Entertainment,Concerts,Yang-Griffin,Debit Card,Fordshire,4
+1006,2024-09-17 01:34:08.455943,314.37,Shopping,Clothing,"Lee, Smith and Velez",Debit Card,East Joshua,2
+1007,2024-06-16 11:26:31.805200,640.31,Transport,Train,Mejia-Cannon,UPI,New Wendyburgh,5
+1008,2024-06-12 20:43:10.535836,823.86,Health,Insurance,"Bell, Rodriguez and Cunningham",Debit Card,Patriciafurt,2
+1009,2025-05-09 00:58:55.336595,76.77,Shopping,Home Goods,"Hill, Dalton and Jacobs",Wallet,Melissaborough,4
+1010,2024-10-11 13:51:22.368517,303.22,Transport,Uber,"Peterson, Love and Rosario",Wallet,Barbaraland,4
+1011,2024-06-23 16:29:56.293252,303.76,Shopping,Electronics,Mccoy Inc,UPI,Johnsonshire,2
+1012,2025-05-11 14:29:47.113895,897.01,Entertainment,Games,Williams LLC,Cash,North Reneeborough,1
+1013,2024-12-15 21:48:41.833603,23.99,Transport,Uber,Mccarthy-Scott,Cash,New William,4
+1014,2024-12-06 22:28:57.183298,776.36,Utilities,Water,Miller-Hanson,Wallet,Huntberg,4
+1015,2024-10-23 16:13:15.051652,37.98,Utilities,Internet,Boyd Ltd,UPI,Andrewmouth,3
+1016,2024-08-11 23:42:25.041346,199.02,Utilities,Water,Morales and Sons,Wallet,Wrightmouth,5
+1017,2024-11-27 06:23:35.983080,134.58,Food,Fast Food,"Parks, Pace and Wiley",Credit Card,Port James,1
+1018,2024-09-25 10:30:03.986376,162.23,Health,Clinic,David Inc,Wallet,East Brittany,3
+1019,2024-10-10 04:48:32.216961,383.81,Utilities,Internet,"Sanders, Gutierrez and Patterson",Debit Card,Port Barbara,3
+1020,2024-06-26 12:32:18.360347,33.52,Health,Clinic,Pierce-Velasquez,Cash,Nathanside,1
+1021,2024-07-08 11:09:02.492671,894.08,Shopping,Clothing,Fleming-Herring,Credit Card,Kathleenfort,3
+1022,2025-04-22 07:10:21.823922,49.66,Entertainment,Concerts,Johnson and Sons,Debit Card,Estradamouth,1
+1023,2024-10-20 16:06:20.589724,31.42,Entertainment,Games,"Parks, Jones and Davis",Cash,Lukeburgh,5
+1024,2025-01-22 12:37:15.427094,302.46,Entertainment,Games,"White, Butler and Esparza",Debit Card,Lake Tristan,5
+1025,2024-12-13 21:39:18.616196,136.43,Health,Clinic,Yoder-Jones,Credit Card,Freemanland,1
+1026,2025-05-07 02:13:34.396714,915.86,Transport,Fuel,Garcia and Sons,Credit Card,Brandonville,2
+1027,2025-02-22 05:23:56.178509,20.32,Transport,Train,Winters Group,Cash,East Emilyfurt,5
+1028,2024-08-08 08:39:11.421102,810.37,Transport,Bus,"Stevens, Lane and Maxwell",Credit Card,Williamborough,4
+1029,2024-12-20 12:57:42.101690,945.43,Food,Restaurants,Lee Ltd,UPI,North Nathanielborough,2
+1030,2025-04-04 05:28:36.030033,301.76,Food,Restaurants,Wang Group,Credit Card,East Timothystad,3
+1031,2025-03-16 17:14:23.287613,71.32,Utilities,Water,Rodriguez LLC,Debit Card,Morganville,4
+1032,2024-07-26 17:07:03.040964,436.78,Transport,Train,West Inc,Wallet,West Joseshire,4
+1033,2024-07-14 09:40:10.572944,653.2,Transport,Bus,"Price, Johnson and Jones",UPI,North Andrewstad,5
+1034,2024-09-28 01:04:13.357638,74.62,Transport,Uber,Baird and Sons,UPI,Carsonland,5
+1035,2025-05-19 06:59:45.707420,149.15,Utilities,Electricity,Love-Wright,Wallet,New Tiffanyburgh,1
+1036,2024-06-21 01:13:31.961895,537.73,Shopping,Home Goods,Rodriguez-Buchanan,Debit Card,Mccormickville,2
+1037,2025-03-17 10:58:22.470139,340.06,Utilities,Electricity,Monroe and Sons,Debit Card,New Lawrencetown,5
+1038,2025-03-02 04:53:09.700215,578.32,Shopping,Home Goods,Spencer Group,Cash,Lake Richardside,1
+1039,2025-04-13 17:48:58.225323,134.71,Transport,Bus,Phillips-Leach,Cash,South Robertmouth,1
+1040,2024-11-07 20:52:37.549590,259.93,Shopping,Home Goods,Baker-Cooper,Credit Card,West Jeffreymouth,5
+1041,2024-12-30 00:39:04.058262,307.66,Utilities,Internet,Moses-Daniel,Wallet,Wardhaven,5
+1042,2025-02-06 09:27:39.849948,990.67,Utilities,Water,Johnson and Sons,UPI,Haleborough,3
+1043,2025-01-27 11:34:39.908773,341.46,Health,Clinic,"Abbott, Mitchell and Stewart",Cash,Davidland,4
+1044,2024-08-19 06:26:58.524333,396.36,Health,Clinic,Moran-Martin,Debit Card,Lake Coreystad,4
+1045,2025-02-14 01:11:55.885776,419.36,Health,Clinic,Golden-Sawyer,Debit Card,Cohenville,4
+1046,2024-07-14 12:47:15.284746,809.63,Health,Pharmacy,"Rocha, Tucker and Wolf",UPI,Fitzgeraldton,1
+1047,2024-07-30 19:38:19.849867,972.3,Food,Fast Food,"Evans, Kidd and Nelson",Wallet,Markton,1
+1048,2024-12-14 01:29:15.564397,264.66,Transport,Fuel,Oliver Group,Debit Card,New Jessicabury,2
+1049,2024-07-24 11:02:57.733794,640.95,Utilities,Electricity,Silva LLC,UPI,West Jamiebury,3
+1050,2024-12-10 12:09:02.502326,460.7,Shopping,Home Goods,Martinez PLC,Wallet,Lake Daleburgh,4
+1051,2024-07-22 22:58:08.137093,470.52,Shopping,Electronics,Allison-Williams,Wallet,West Stephanieville,4
+1052,2024-08-02 10:24:59.428125,628.26,Entertainment,Movies,Parker Inc,Debit Card,Lake Karlaside,1
+1053,2025-02-27 00:41:02.996343,106.67,Health,Clinic,"Hansen, Cannon and Hampton",Debit Card,Marcborough,2
+1054,2024-09-01 03:54:16.468389,618.17,Transport,Uber,"English, Duran and Rivas",Credit Card,Phillipsberg,5
+1055,2024-07-23 02:33:09.009845,618.7,Transport,Fuel,"Watson, Macdonald and Griffith",Debit Card,Douglasshire,4
+1056,2025-05-03 18:40:50.222545,354.88,Entertainment,Movies,"Miller, Huerta and Blankenship",Credit Card,Lake Brian,2
+1057,2024-06-30 11:39:27.845952,203.1,Transport,Fuel,West-Johnson,UPI,South Michaelberg,1
+1058,2024-08-03 07:35:03.491720,318.5,Shopping,Electronics,"Garza, Cox and Moreno",Credit Card,West Rebecca,2
+1059,2024-05-26 16:02:12.997874,334.28,Shopping,Clothing,Terrell PLC,Cash,East Danielport,4
+1060,2024-07-11 07:22:19.974745,956.36,Food,Fast Food,"Zamora, Jackson and Pacheco",Wallet,Port Brianton,5
+1061,2024-10-21 09:00:11.626306,612.1,Food,Groceries,Weiss Group,Wallet,Gonzalesborough,2
+1062,2024-05-27 00:33:00.047487,202.99,Health,Insurance,Miller LLC,Debit Card,Port Nicholasland,4
+1063,2025-04-19 02:50:54.078573,145.1,Food,Restaurants,Avila LLC,UPI,Stephaniemouth,4
+1064,2024-08-14 23:20:28.128778,440.9,Utilities,Water,"Kim, Wilson and Lester",Wallet,Scottstad,3
+1065,2025-02-01 01:12:17.304490,635.73,Transport,Uber,Olsen Group,Cash,Ryanhaven,1
+1066,2024-12-08 07:16:10.236153,924.03,Health,Pharmacy,Morales PLC,UPI,Lake Sarah,1
+1067,2024-09-01 21:17:11.357553,780.85,Transport,Train,Mendoza-Rodriguez,Cash,North Douglaston,2
+1068,2024-08-11 08:49:47.225448,916.02,Entertainment,Games,Alexander-Stewart,Debit Card,Howardview,5
+1069,2025-02-02 21:58:39.362170,403.87,Entertainment,Games,"Bishop, Duke and Lewis",Wallet,South Darrell,5
+1070,2025-03-31 10:04:57.660834,506.67,Health,Pharmacy,Torres-Davidson,Wallet,East Andreborough,4
+1071,2024-12-19 18:26:00.066684,378.93,Transport,Train,"Vargas, Cole and Sosa",Credit Card,Morrisport,5
+1072,2024-07-27 00:16:45.457083,124.95,Health,Pharmacy,Russell LLC,Credit Card,South Stephenshire,2
+1073,2024-05-31 16:09:37.820416,759.47,Transport,Train,Morales-Holmes,Debit Card,Rowlandfurt,4
+1074,2025-03-19 11:23:01.480236,817.89,Food,Fast Food,Nguyen-Beard,UPI,Tammystad,4
+1075,2025-03-28 17:48:23.131254,251.66,Food,Restaurants,Moses-Short,Debit Card,New Annettechester,1
+1076,2025-03-18 23:38:18.329328,188.85,Transport,Fuel,Taylor Ltd,Wallet,New Marissa,3
+1077,2024-09-09 11:23:22.005071,911.2,Transport,Fuel,Roberts Ltd,Debit Card,Sarahview,1
+1078,2024-11-24 06:10:03.579615,723.35,Health,Clinic,"Blair, Smith and Leblanc",Wallet,Lake Robert,3
+1079,2025-01-06 03:44:55.678344,635.29,Shopping,Home Goods,King Ltd,UPI,West Fernando,4
+1080,2024-06-21 11:40:30.592112,580.71,Shopping,Clothing,"Carlson, Smith and Walton",Debit Card,Sandersport,2
+1081,2025-02-06 17:29:19.447413,252.59,Food,Groceries,Andrews-Wong,Wallet,South Jordan,2
+1082,2024-06-18 02:48:23.741822,413.72,Food,Fast Food,Murphy Group,UPI,West Ricardoview,1
+1083,2025-02-01 06:34:25.052894,934.66,Entertainment,Games,Wells Group,Credit Card,North Gregoryshire,5
+1084,2024-11-02 17:54:20.997142,832.74,Health,Pharmacy,"Patterson, Leonard and Spencer",Debit Card,New Carmenville,3
+1085,2024-06-16 03:37:32.899377,195.74,Utilities,Water,Snyder-Wilson,Cash,Stewartmouth,4
+1086,2025-05-05 19:42:57.332902,517.46,Health,Insurance,Clark-Woodward,Credit Card,Port Jessica,5
+1087,2025-05-16 14:56:59.633399,113.88,Transport,Train,Mays Ltd,Credit Card,Lake Kennethfort,1
+1088,2024-05-25 04:05:38.440774,222.64,Utilities,Electricity,"Tran, Vincent and Stokes",UPI,Samuelberg,2
+1089,2024-05-21 07:09:17.020329,634.24,Food,Fast Food,"Schultz, Stone and Hodges",Cash,Port Todd,2
+1090,2024-12-22 18:23:46.012455,23.93,Entertainment,Concerts,"Martin, Hopkins and Gonzalez",Credit Card,Lake Zachary,5
+1091,2025-04-01 18:59:23.723546,826.87,Entertainment,Concerts,Hall PLC,UPI,Colinport,5
+1092,2024-06-26 21:41:08.434787,65.85,Shopping,Electronics,White-Ramirez,UPI,New Juanstad,2
+1093,2025-01-05 05:57:18.987633,183.62,Entertainment,Movies,Taylor PLC,Credit Card,Port Andrea,4
+1094,2024-05-27 09:57:22.455723,532.16,Transport,Bus,Clark Ltd,UPI,Kaiserchester,2
+1095,2025-03-18 14:32:32.666119,946.58,Food,Fast Food,"Johnson, Jefferson and Gonzales",Wallet,Barrettland,5
+1096,2025-02-11 13:52:00.755780,966.38,Entertainment,Games,Morgan Ltd,Cash,Baxterfort,1
+1097,2025-03-24 10:25:00.354868,466.41,Transport,Uber,Edwards-Hayes,Credit Card,North Erikatown,1
+1098,2024-07-29 21:08:07.363467,955.86,Entertainment,Movies,"Morales, Davis and Haynes",UPI,Davisport,4
+1099,2025-05-01 09:07:06.768547,572.92,Health,Insurance,Parker-Martinez,Wallet,Davisview,3
+1100,2025-01-17 15:44:16.399256,741.6,Health,Pharmacy,"Ramirez, Cooper and Rojas",Credit Card,Lake Denise,4
+1101,2025-04-25 12:22:08.759022,62.59,Shopping,Clothing,"Hernandez, Cummings and Townsend",UPI,East John,4
+1102,2025-02-03 00:55:12.592120,541.13,Shopping,Home Goods,"Castro, Reynolds and Newman",Debit Card,New Rubenville,4
+1103,2024-07-29 16:05:21.853901,757.71,Entertainment,Concerts,Allen-Brown,UPI,Daybury,5
+1104,2025-02-11 17:56:56.405430,394.22,Utilities,Internet,Roberts-Henry,UPI,Bryantside,2
+1105,2024-11-16 15:34:10.782757,290.49,Utilities,Electricity,Schneider PLC,Debit Card,Jonathanchester,1
+1106,2024-09-23 16:35:33.508297,387.38,Health,Pharmacy,Patterson PLC,UPI,East Gary,5
+1107,2025-03-12 05:34:25.832424,648.02,Food,Groceries,Meyer PLC,Credit Card,New Robertshire,1
+1108,2024-10-18 01:07:25.904857,141.8,Shopping,Electronics,Clarke-Bennett,Cash,Port Dillonport,5
+1109,2025-02-22 20:51:49.370044,11.87,Food,Groceries,"Rowe, Jones and Goodman",Credit Card,Travisport,5
+1110,2024-05-30 14:40:17.679293,492.3,Entertainment,Movies,Farrell LLC,UPI,Theresaborough,4
+1111,2024-07-07 03:12:34.625959,740.18,Shopping,Clothing,"Smith, Bowen and Simon",Credit Card,North Joshua,3
+1112,2024-11-25 14:03:47.990875,345.39,Entertainment,Movies,Fry-Walker,Cash,West Natalieport,5
+1113,2024-10-26 19:10:27.254843,786.23,Entertainment,Games,Roth PLC,Credit Card,Briannafort,5
+1114,2024-12-10 12:24:07.687447,387.95,Health,Pharmacy,Henry Ltd,Credit Card,Yvetteborough,5
+1115,2024-09-05 04:47:22.695451,601.37,Utilities,Internet,"Cooper, Wang and Phillips",Credit Card,Lake Brandonland,5
+1116,2024-09-22 20:07:00.427091,496.5,Food,Groceries,"Henry, Woods and Jones",Wallet,Johnsonborough,5
+1117,2024-10-20 10:30:25.642876,465.74,Shopping,Electronics,"Ayala, Miller and Weiss",Wallet,Ricardotown,2
+1118,2025-04-19 10:11:07.502458,584.58,Transport,Bus,Carter-Davis,UPI,South Alexander,1
+1119,2024-11-14 06:50:06.967777,395.23,Entertainment,Movies,Edwards PLC,Cash,New Oscarhaven,1
+1120,2024-12-03 15:38:28.197177,309.75,Entertainment,Movies,Harris and Sons,UPI,North Chrisfort,2
+1121,2025-03-25 01:45:46.024467,215.8,Food,Fast Food,Fitzgerald Group,Cash,Morrisonburgh,2
+1122,2025-03-03 07:14:01.134527,436.76,Transport,Fuel,Johnson Inc,Credit Card,West Justin,2
+1123,2025-04-20 13:17:44.111349,333.54,Transport,Uber,"Campbell, Hernandez and Mitchell",Wallet,South Anthonytown,3
+1124,2024-07-03 15:49:12.294150,140.12,Entertainment,Movies,Brown-Martinez,Wallet,East Micheleville,4
+1125,2024-10-10 22:28:38.087312,179.32,Transport,Uber,Rodriguez-Weaver,Credit Card,Andrewburgh,2
+1126,2025-01-04 16:48:04.295890,155.92,Health,Clinic,"Collins, Pitts and Riggs",Cash,Lake Michael,5
+1127,2025-05-01 03:51:05.906334,98.25,Utilities,Electricity,"Todd, Baker and Savage",Debit Card,South Eddietown,4
+1128,2024-12-23 14:12:22.144965,691.93,Utilities,Electricity,"Rhodes, Thornton and Graves",Cash,Morganbury,5
+1129,2024-09-18 07:17:22.297313,506.93,Health,Clinic,Cohen and Sons,Credit Card,North Cody,2
+1130,2024-07-29 12:47:45.033267,469.6,Food,Groceries,Ruiz-Carpenter,Wallet,Michaelborough,2
+1131,2024-06-11 11:48:51.630478,136.69,Utilities,Electricity,Savage-Vaughn,Credit Card,Ericport,4
+1132,2024-08-03 12:59:07.992899,878.19,Utilities,Internet,"Garcia, Long and Orr",UPI,Port Markville,5
+1133,2025-04-21 01:18:34.156645,668.75,Entertainment,Games,Cruz-Henderson,Wallet,New Stuart,5
+1134,2025-01-26 07:50:56.369008,812.99,Transport,Uber,Huang PLC,Debit Card,Marshallmouth,3
+1135,2024-07-24 18:50:38.916980,36.34,Health,Insurance,Morris and Sons,UPI,Port Kathrynland,1
+1136,2024-06-04 04:21:17.535195,181.42,Entertainment,Games,Norton and Sons,Credit Card,Matthewhaven,1
+1137,2024-09-30 08:40:04.511577,619.86,Health,Insurance,Lee-Mcclain,UPI,Odombury,3
+1138,2024-11-27 00:19:51.530101,63.03,Food,Restaurants,Miller Inc,UPI,New Sharon,3
+1139,2024-09-11 03:54:05.006291,556.74,Transport,Uber,Thomas-Lewis,Wallet,North Justin,1
+1140,2025-02-06 16:05:14.034771,842.27,Shopping,Electronics,Tran-Silva,Debit Card,Marcuston,3
+1141,2024-10-19 15:01:49.113826,904.77,Food,Fast Food,Skinner and Sons,Credit Card,Campbellland,1
+1142,2024-08-30 16:42:22.338753,36.25,Utilities,Water,"Frederick, Vasquez and Russo",UPI,Sergiotown,3
+1143,2024-08-13 12:14:54.333794,432.99,Shopping,Clothing,Franco-Sandoval,Wallet,Chrismouth,5
+1144,2024-09-13 20:38:30.183842,803.56,Utilities,Electricity,Ibarra Group,Wallet,South Carrie,1
+1145,2024-09-14 00:27:23.927801,278.87,Shopping,Electronics,"Davis, Davis and Garrett",UPI,South Ambershire,5
+1146,2024-05-23 04:26:00.519580,274.66,Food,Fast Food,Lopez Group,Wallet,North Stephanieshire,5
+1147,2025-04-27 22:22:40.215388,528.02,Transport,Fuel,Johnson and Sons,Credit Card,South Katiechester,4
+1148,2025-01-18 14:12:35.908370,494.75,Utilities,Internet,"Wilson, Stewart and Perez",Debit Card,South Seanton,3
+1149,2024-10-18 13:45:14.762609,610.29,Entertainment,Games,White-Sullivan,Debit Card,Melissabury,2
+1150,2025-02-05 17:16:03.909948,768.73,Entertainment,Games,Huang Ltd,UPI,New Raymond,3
+1151,2024-06-17 06:56:47.592480,948.55,Food,Restaurants,"Lowe, Oneal and Grant",Debit Card,Shannonview,5
+1152,2024-06-15 18:16:33.083558,111.14,Health,Insurance,Fuller-Pierce,Debit Card,Robinsonfort,3
+1153,2025-05-03 08:27:18.737842,18.78,Food,Groceries,Lopez-Herrera,Wallet,North Danielberg,5
+1154,2025-03-24 16:32:41.388651,134.72,Food,Restaurants,Campbell PLC,Credit Card,Michaelberg,4
+1155,2024-09-15 13:45:43.690202,424.84,Utilities,Internet,Phelps-Hale,UPI,South Anthony,1
+1156,2024-10-19 20:22:19.829057,492.86,Utilities,Electricity,Raymond-Koch,Debit Card,East Amandaland,1
+1157,2025-02-02 17:39:02.091699,213.73,Shopping,Electronics,"Crosby, Gonzalez and Haas",UPI,New Susan,4
+1158,2025-01-31 18:39:45.020903,699.03,Entertainment,Games,Lyons-Cox,Credit Card,East Michael,3
+1159,2025-05-02 16:26:58.816865,788.48,Food,Restaurants,Castro Group,UPI,Alecborough,1
+1160,2024-10-12 07:55:07.348787,647.1,Utilities,Internet,Harris and Sons,Debit Card,Cookmouth,3
+1161,2024-10-31 03:38:09.892272,612.66,Health,Pharmacy,Martin Group,Credit Card,Andersonville,5
+1162,2024-07-25 20:48:37.387857,580.61,Food,Restaurants,Hawkins-Johnson,UPI,Angelaberg,1
+1163,2025-03-15 23:37:16.124701,705.26,Utilities,Electricity,"Murphy, Price and Becker",Wallet,South Rachelville,5
+1164,2025-01-01 14:28:43.430770,399.95,Food,Groceries,Guerra Ltd,Debit Card,East Yolanda,3
+1165,2025-02-08 11:34:59.308033,883.2,Shopping,Electronics,Johnson Inc,Wallet,Kennethshire,4
+1166,2024-06-26 07:31:33.819397,105.35,Shopping,Clothing,"Weiss, Herrera and Mckee",Wallet,Port Katherineburgh,1
+1167,2024-06-02 19:57:46.375238,361.27,Utilities,Internet,"Simpson, Hughes and Ramirez",UPI,Mooneyburgh,2
+1168,2024-10-08 01:55:26.733102,915.98,Food,Restaurants,"Chang, Blackwell and Brown",Debit Card,Port Michele,3
+1169,2024-11-24 21:03:51.480196,410.72,Entertainment,Games,Morrison-Foster,Wallet,Rodriguezside,4
+1170,2025-05-18 21:31:13.161912,453.08,Utilities,Electricity,"Wilson, Clark and Brown",Credit Card,Lake Darrellville,1
+1171,2024-10-26 14:50:29.050729,853.6,Food,Groceries,"Brown, Cox and Lam",Wallet,Craigport,2
+1172,2024-06-26 19:48:56.725600,501.14,Food,Groceries,Garcia-Baldwin,UPI,New Amy,2
+1173,2024-10-20 14:00:24.810373,522.42,Utilities,Electricity,Gonzalez-Lam,Debit Card,Juliemouth,5
+1174,2024-07-24 08:18:43.574967,305.05,Shopping,Home Goods,Mccall-Hammond,Wallet,East Jodishire,5
+1175,2024-06-13 18:22:09.408344,331.54,Health,Pharmacy,"Johnston, Frey and Obrien",Credit Card,East Shannon,3
+1176,2024-07-09 15:08:35.377474,128.38,Shopping,Electronics,Brandt PLC,Wallet,Christinemouth,1
+1177,2024-06-12 07:09:12.261830,466.35,Health,Insurance,"Briggs, Hughes and Singh",UPI,North Sharonville,5
+1178,2025-01-17 15:18:19.857330,711.37,Food,Fast Food,Rose Inc,UPI,Port Josephhaven,4
+1179,2025-04-01 23:08:17.555074,598.63,Health,Pharmacy,Perry Inc,UPI,Port Jessefort,5
+1180,2024-12-02 22:07:34.058864,231.3,Utilities,Internet,Vaughn Group,Cash,Port Anthony,5
+1181,2025-02-25 03:44:31.553749,803.32,Food,Restaurants,Harper LLC,UPI,Michaelfort,5
+1182,2025-05-03 19:34:15.871075,560.63,Shopping,Home Goods,Hobbs and Sons,Debit Card,Velasquezborough,5
+1183,2025-05-12 14:18:48.761448,328.43,Entertainment,Concerts,"Cook, Moreno and Fox",UPI,Fordmouth,1
+1184,2025-01-29 06:00:10.990485,592.25,Food,Fast Food,"Miller, Costa and Smith",Debit Card,Meganburgh,3
+1185,2024-09-28 16:34:21.612570,62.34,Shopping,Clothing,Freeman and Sons,Cash,West Michael,2
+1186,2024-06-22 10:45:57.984792,41.13,Transport,Bus,Wilson-Howard,Debit Card,Scotttown,5
+1187,2024-09-05 18:18:45.231347,863.36,Utilities,Water,"Rodgers, Summers and Walton",Wallet,Kristenberg,2
+1188,2024-10-13 08:23:04.422256,246.09,Food,Restaurants,Ruiz Inc,Debit Card,South Deniseside,2
+1189,2024-06-20 19:25:32.075531,432.63,Transport,Train,"Alexander, Caldwell and Johnson",Debit Card,Aaronborough,3
+1190,2024-07-09 05:54:06.256125,426.41,Transport,Bus,Mendoza PLC,Debit Card,Howardmouth,4
+1191,2025-03-28 07:21:27.236956,139.86,Utilities,Electricity,"White, Solomon and Blair",Debit Card,Moorebury,1
+1192,2024-07-28 03:13:13.703354,614.82,Shopping,Electronics,"Petersen, Marshall and Conley",Cash,Morganview,4
+1193,2025-02-03 13:22:09.610597,358.85,Transport,Uber,Lane PLC,UPI,Ericaville,2
+1194,2024-10-11 11:16:41.388054,173.05,Food,Fast Food,Coleman-Lee,UPI,Cookbury,3
+1195,2024-11-23 18:00:44.401272,163.85,Utilities,Electricity,Rhodes Group,UPI,Port Lisa,5
+1196,2024-09-02 09:07:44.167515,641.33,Entertainment,Movies,"Rodriguez, Boone and Garcia",Wallet,New Amanda,1
+1197,2025-01-31 08:40:51.200882,776.78,Entertainment,Games,Gomez Group,Credit Card,Marystad,2
+1198,2024-12-28 12:59:00.934114,246.42,Food,Groceries,Hatfield Ltd,UPI,Brownhaven,5
+1199,2024-09-01 19:21:14.529168,334.85,Health,Pharmacy,Rodriguez-Williams,Debit Card,New Sean,2
+1200,2024-10-15 03:57:53.853750,86.48,Health,Clinic,Wilson PLC,Cash,Lake Moniquefort,4
+1201,2025-03-17 22:21:20.544397,120.62,Shopping,Clothing,Brown-Diaz,Wallet,Port Carlos,4
+1202,2024-07-16 09:45:40.406157,888.86,Health,Insurance,Murray-Mitchell,Wallet,Fordshire,2
+1203,2024-08-23 15:56:05.961375,880.67,Food,Fast Food,"Lowe, Garcia and Brown",Wallet,Lake Troyland,5
+1204,2024-11-20 05:22:35.761633,386.74,Utilities,Internet,Rivera-Mcdonald,UPI,Reynoldsfort,5
+1205,2024-06-18 07:17:05.592735,898.02,Food,Restaurants,Perez PLC,Cash,Blankenshipchester,2
+1206,2024-06-25 16:11:46.774178,69.62,Shopping,Electronics,Lambert Group,Debit Card,Valerietown,5
+1207,2024-05-21 03:51:08.939156,462.45,Health,Pharmacy,Peterson Inc,Wallet,Juliestad,3
+1208,2025-01-22 08:45:25.812357,200.25,Shopping,Home Goods,"Vega, Carpenter and Miller",Credit Card,East Timothyfurt,5
+1209,2024-09-12 15:55:32.136918,400.51,Shopping,Electronics,Reyes LLC,Debit Card,Michaelchester,1
+1210,2024-05-28 19:41:40.426937,817.28,Transport,Uber,"Harris, Hess and Wright",Credit Card,South Kelly,3
+1211,2024-12-18 08:18:14.949097,633.01,Utilities,Electricity,Garrett-Lambert,Wallet,Jeremiahtown,4
+1212,2025-01-04 01:59:11.391214,397.82,Shopping,Home Goods,Powell-Livingston,Debit Card,South Cassandra,3
+1213,2024-11-13 01:36:52.734539,964.52,Health,Clinic,Norris-Coleman,Credit Card,Leemouth,2
+1214,2024-11-26 13:07:12.637189,909.56,Food,Fast Food,Paul-Taylor,UPI,Billyville,5
+1215,2025-03-17 06:56:01.511174,89.94,Utilities,Electricity,Ferguson Inc,Debit Card,Shannonfort,1
+1216,2024-06-14 12:56:07.043233,980.9,Food,Fast Food,Williams-Wu,Cash,Carterstad,5
+1217,2024-09-02 13:21:53.447308,280.94,Shopping,Electronics,Cooper-Becker,Debit Card,Hollyborough,2
+1218,2025-04-17 19:45:00.759400,987.12,Food,Fast Food,Wilson-Randolph,UPI,Taraside,5
+1219,2024-06-13 03:21:31.339631,370.67,Shopping,Clothing,Simmons-Blevins,Wallet,South James,1
+1220,2024-09-08 11:10:26.836869,622.84,Food,Fast Food,Griffin LLC,Cash,North Amy,2
+1221,2024-07-29 02:50:16.005733,609.49,Health,Insurance,Martinez-Morris,Wallet,West Lisa,5
+1222,2025-04-13 07:15:47.565695,483.68,Health,Clinic,"Murray, Holt and Conway",Debit Card,Melissamouth,4
+1223,2025-03-21 00:29:27.305595,203.3,Entertainment,Games,"Clark, Ward and Everett",Debit Card,South Amanda,3
+1224,2024-11-07 09:46:40.129779,14.7,Entertainment,Movies,"Valenzuela, Love and Montoya",Wallet,Muellermouth,3
+1225,2024-07-14 10:31:00.822490,658.17,Health,Clinic,Stokes Group,Debit Card,Port Rachelbury,3
+1226,2025-02-04 06:47:08.961100,896.7,Health,Insurance,Martin Group,Debit Card,Reginaldton,4
+1227,2024-11-09 02:53:44.862593,996.82,Food,Groceries,"Erickson, Turner and Campbell",Credit Card,Davidmouth,3
+1228,2025-01-25 14:35:39.398525,711.95,Entertainment,Games,"Clark, Davis and Bell",Cash,East Kathymouth,5
+1229,2024-11-07 13:46:01.188678,261.12,Food,Fast Food,Simpson-Nelson,Wallet,Rodriguezfort,1
+1230,2024-06-01 21:11:31.976614,526.53,Utilities,Internet,Allen Group,UPI,New Susanberg,2
+1231,2024-07-12 09:14:27.118502,438.47,Health,Pharmacy,Wilson-Clark,Wallet,Heatherberg,4
+1232,2025-01-01 07:20:32.367478,497.12,Food,Groceries,Perez LLC,Cash,Lake Paul,3
+1233,2024-12-09 12:03:22.577077,519.85,Food,Groceries,"Ross, Vaughn and Short",Credit Card,Elizabethland,1
+1234,2024-09-30 01:55:56.179878,403.98,Entertainment,Concerts,"Johnson, Mitchell and Martin",Credit Card,Crawfordton,1
+1235,2025-01-21 01:45:18.443570,730.74,Utilities,Water,Shelton Ltd,Wallet,Ronaldside,3
+1236,2025-03-27 21:03:38.158327,415.26,Shopping,Clothing,Malone-Kramer,Cash,Kentfort,4
+1237,2024-05-31 06:26:51.529544,12.24,Transport,Fuel,Wilson Group,Credit Card,Martinezton,5
+1238,2024-10-01 18:55:53.274670,644.26,Shopping,Electronics,Soto PLC,UPI,Ramirezmouth,2
+1239,2024-09-12 04:21:23.815329,909.39,Health,Clinic,Bullock-Wright,Cash,Roseview,4
+1240,2024-10-16 12:03:16.614936,954.93,Utilities,Water,Hill-Chen,Wallet,Port Kathleenfort,3
+1241,2024-06-21 11:40:48.608308,639.21,Entertainment,Concerts,Harris PLC,Debit Card,Barnetttown,1
+1242,2024-11-08 13:12:18.914253,739.77,Shopping,Electronics,"Clark, Henderson and Rodriguez",Cash,East Waynehaven,3
+1243,2025-03-30 18:20:45.315318,564.32,Entertainment,Games,Jones PLC,Cash,Shawnbury,1
+1244,2025-02-04 03:08:47.679989,794.57,Food,Restaurants,Knapp-Lee,Debit Card,South Jeffrey,4
+1245,2024-08-29 16:02:09.843072,44.44,Shopping,Electronics,"Carter, Lawrence and Clark",Credit Card,East Jasonfort,1
+1246,2024-06-19 20:58:20.795500,222.56,Health,Insurance,Little-Evans,Credit Card,South Jerry,1
+1247,2025-02-27 05:30:08.573920,812.04,Entertainment,Movies,"Cardenas, Cooper and Valencia",Wallet,East Robintown,5
+1248,2024-06-18 10:33:20.085411,932.11,Food,Groceries,Davis LLC,Cash,Jamesborough,3
+1249,2024-07-12 14:28:19.924602,176.49,Shopping,Clothing,"Page, Alvarez and Watson",UPI,Lake Shawn,4
+1250,2024-12-15 15:51:18.875273,41.88,Shopping,Clothing,Rodriguez-Torres,Credit Card,North Carolinemouth,1
+1251,2024-11-07 23:07:00.740690,763.35,Food,Restaurants,Bauer Ltd,Cash,Ryanport,3
+1252,2024-11-29 05:29:57.426720,858.83,Utilities,Electricity,Barrera-Walsh,Debit Card,Guzmanchester,5
+1253,2025-01-17 20:03:56.610203,230.3,Food,Restaurants,Perry-Holland,UPI,Amandaville,1
+1254,2025-02-07 23:24:29.987820,789.49,Utilities,Water,Vasquez-Mcdonald,Credit Card,Thorntonton,1
+1255,2024-10-19 23:24:51.223433,706.31,Health,Pharmacy,Clark-Garcia,Debit Card,South Jessicachester,3
+1256,2025-01-29 19:31:25.465560,475.13,Health,Clinic,"Brown, Castillo and Murphy",UPI,Singhfort,3
+1257,2025-03-25 05:06:46.187644,930.57,Entertainment,Movies,"Johnson, Warner and Kim",Wallet,Harrismouth,4
+1258,2024-08-07 17:25:28.877064,203.2,Food,Restaurants,Buck-Patterson,Credit Card,Torresfort,3
+1259,2024-12-27 09:13:20.006379,786.55,Shopping,Home Goods,"Hinton, Calderon and Mosley",Credit Card,North Kyleshire,2
+1260,2024-07-05 00:25:06.219045,217.5,Food,Fast Food,Byrd-Reed,Wallet,Tiffanybury,5
+1261,2024-07-30 14:58:03.652385,254.36,Health,Clinic,Moore Group,Cash,Lake Kelsey,2
+1262,2025-02-23 12:28:49.730116,996.4,Utilities,Water,Spears-Roberts,Credit Card,East Gregory,1
+1263,2025-03-04 18:17:02.497686,698.13,Food,Fast Food,Ingram Ltd,Credit Card,South Nathanielburgh,3
+1264,2024-09-23 19:21:55.772483,436.14,Shopping,Electronics,Graham-Fuller,Credit Card,West Brentburgh,2
+1265,2024-09-08 21:27:12.676740,495.91,Food,Groceries,"Blankenship, Harding and Brown",Wallet,North Gloriastad,3
+1266,2024-11-26 15:53:15.170107,962.78,Transport,Train,"Dalton, Hernandez and Fischer",Credit Card,Charlesside,5
+1267,2024-10-13 20:55:39.896627,328.56,Transport,Bus,Adams Ltd,Debit Card,South Jerry,5
+1268,2025-05-20 00:07:56.713826,16.18,Shopping,Electronics,Jones-Cooper,Credit Card,East Hailey,4
+1269,2024-11-23 08:51:15.660264,478.54,Health,Pharmacy,Herrera Group,Debit Card,East Caitlinview,2
+1270,2024-07-27 08:52:34.565400,123.01,Transport,Bus,"Ruiz, Chavez and Jones",Wallet,Jacobsburgh,1
+1271,2024-06-04 18:26:06.370228,94.98,Shopping,Home Goods,Summers Inc,Debit Card,New Alexandramouth,2
+1272,2025-04-26 22:28:45.285421,287.96,Transport,Fuel,Soto Group,Credit Card,Port Paul,2
+1273,2024-08-21 08:09:18.111178,165.31,Transport,Bus,Hart-Turner,Credit Card,Russellside,3
+1274,2024-09-25 20:09:00.546933,497.88,Utilities,Internet,"Rice, Kelly and Vargas",UPI,Sydneyland,1
+1275,2025-03-17 21:47:56.384128,402.8,Health,Clinic,Arellano and Sons,Cash,West Shelley,5
+1276,2024-10-13 02:58:22.817060,626.26,Entertainment,Movies,Salas LLC,Credit Card,Mariahmouth,3
+1277,2024-06-11 19:35:29.054345,139.16,Transport,Train,Hobbs-Taylor,Credit Card,Lake Johnberg,2
+1278,2025-02-14 21:11:09.627061,9.97,Shopping,Electronics,Dawson Ltd,UPI,Reedtown,4
+1279,2024-11-12 01:33:13.842774,305.64,Shopping,Home Goods,Ewing Group,Wallet,West Shannonborough,3
+1280,2024-10-14 20:24:56.381549,270.98,Health,Insurance,Carpenter and Sons,Debit Card,Contrerashaven,5
+1281,2024-08-16 20:22:06.559309,765.58,Utilities,Water,"Robinson, Doyle and Fisher",Cash,West Beth,4
+1282,2025-01-02 22:41:32.753958,773.06,Shopping,Electronics,"Schultz, Stevens and Thornton",UPI,North Calvinborough,1
+1283,2024-11-20 04:08:57.334857,827.35,Transport,Uber,Haney Inc,Wallet,Christyside,2
+1284,2024-08-18 09:17:27.127015,706.73,Health,Clinic,"Clay, Bowers and Duncan",Wallet,Lake Michael,1
+1285,2024-10-30 13:30:58.008895,750.29,Entertainment,Concerts,"Ferguson, Bruce and Brooks",Debit Card,Kennethview,5
+1286,2024-08-06 07:07:33.932148,439.16,Entertainment,Concerts,"Hunter, Long and Sharp",Cash,Karinaton,3
+1287,2024-07-11 19:00:24.634286,793.51,Transport,Fuel,Cortez and Sons,Cash,North Andrew,4
+1288,2024-07-24 08:49:09.967952,588.24,Food,Groceries,Weber-Harris,Cash,Raymondmouth,5
+1289,2024-12-01 21:06:40.105955,928.23,Food,Groceries,"Lopez, Hanson and Lee",Wallet,Tracystad,5
+1290,2024-08-08 08:32:56.890198,383.9,Entertainment,Games,"Powers, Kim and Kirk",Cash,New Jonathonborough,2
+1291,2024-08-05 19:37:08.128499,570.35,Transport,Fuel,Trujillo LLC,UPI,Matthewstown,1
+1292,2024-08-05 17:07:44.359393,857.99,Health,Pharmacy,Fields-Pearson,Credit Card,South Brenda,2
+1293,2024-08-17 04:15:34.763338,104.12,Utilities,Internet,Brown and Sons,UPI,North Emily,4
+1294,2024-06-18 11:38:29.718919,790.04,Transport,Uber,"Lee, Lewis and Perez",Debit Card,Anthonymouth,5
+1295,2025-02-12 05:32:05.727027,255.27,Food,Fast Food,"Spencer, Sanchez and Ward",Wallet,South Kyleside,1
+1296,2024-05-26 23:34:22.712984,723.23,Shopping,Home Goods,Cook and Sons,Wallet,Brittanyside,2
+1297,2024-08-01 20:20:53.139560,372.77,Transport,Uber,Johnson Inc,Credit Card,North Bradleyland,4
+1298,2024-09-16 23:22:55.348129,325.98,Shopping,Home Goods,Hernandez Ltd,Credit Card,Charlestown,3
+1299,2024-07-27 08:32:43.587190,243.51,Food,Fast Food,Rhodes Group,Wallet,Port Mariaton,1
+1300,2025-05-20 01:28:09.977149,666.76,Shopping,Home Goods,Day Group,Debit Card,Cooperburgh,1
+1301,2025-02-23 13:49:00.042749,692.69,Health,Clinic,Schneider LLC,Debit Card,Lake Michaelbury,1
+1302,2025-01-30 18:05:50.689290,153.25,Food,Groceries,Green-Townsend,Debit Card,Markstad,1
+1303,2024-06-05 00:12:39.044322,65.1,Shopping,Electronics,"Rivera, Garza and Warren",Credit Card,Marktown,5
+1304,2024-12-07 06:38:08.390507,215.5,Shopping,Electronics,Mora and Sons,Credit Card,Cunninghamchester,2
+1305,2025-04-20 01:31:11.598331,712.84,Utilities,Internet,"Wilson, Young and Jackson",UPI,Davisport,5
+1306,2025-03-28 17:55:07.410141,917.78,Utilities,Water,"Nixon, Lopez and Herring",Debit Card,Gonzalezton,1
+1307,2024-06-06 07:49:05.044732,976.95,Transport,Fuel,"Murphy, Bell and Lewis",Debit Card,Port Richardville,3
+1308,2025-02-17 23:03:03.433312,801.59,Shopping,Clothing,"Moody, Buck and Pearson",Cash,Millerstad,4
+1309,2025-03-16 02:22:26.980904,788.51,Food,Fast Food,Burns-Meza,Cash,Lake Kathrynchester,1
+1310,2025-03-19 09:52:07.457810,647.79,Utilities,Water,"Foster, James and Holmes",Wallet,Carrollfort,5
+1311,2025-01-27 22:55:34.590398,215.6,Utilities,Electricity,Anderson LLC,Wallet,Port Joshua,2
+1312,2024-08-26 12:03:15.751091,376.59,Utilities,Electricity,Gray-Ortega,UPI,Websterbury,4
+1313,2024-09-23 22:50:30.868012,113.22,Utilities,Internet,Wolf-Hall,Wallet,Fleminghaven,5
+1314,2024-08-31 12:56:25.898530,455.25,Utilities,Internet,"Mcgee, Ashley and Harrington",Debit Card,Juanmouth,1
+1315,2024-07-05 15:57:31.912154,152.12,Food,Restaurants,"Johnson, Dorsey and Mitchell",Wallet,Port Jenniferchester,2
+1316,2024-10-25 04:27:50.082322,637.33,Transport,Bus,"Nguyen, Parker and Torres",Credit Card,Kaylaberg,5
+1317,2025-02-14 02:36:06.769741,818.83,Health,Insurance,Guzman Inc,Credit Card,Lopezport,1
+1318,2025-03-08 21:15:54.449658,595.83,Food,Groceries,"Miller, Cross and Robinson",Credit Card,Robertside,5
+1319,2024-09-10 04:44:18.757780,80.59,Shopping,Home Goods,"Jackson, Thomas and Brooks",Cash,Charlesberg,4
+1320,2025-02-13 08:36:48.133809,387.21,Shopping,Home Goods,Campbell Group,Wallet,South Michellemouth,5
+1321,2025-01-08 18:55:24.807236,285.9,Food,Fast Food,Perez LLC,Debit Card,East William,5
+1322,2025-04-18 15:41:16.378973,373.9,Utilities,Electricity,Jensen LLC,UPI,Craigtown,5
+1323,2024-09-13 05:29:57.083282,110.22,Shopping,Home Goods,"Williams, Floyd and Williams",UPI,Palmerfort,5
+1324,2025-02-02 10:53:32.108901,815.2,Entertainment,Games,Morris-Yang,Debit Card,Port Aaronchester,1
+1325,2025-04-02 17:02:34.711179,349.9,Health,Insurance,Cervantes-Mitchell,Cash,Brittanyborough,5
+1326,2025-01-07 04:31:03.292561,944.55,Shopping,Clothing,Gonzalez Ltd,Credit Card,Sarahview,5
+1327,2025-02-21 20:05:01.952885,85.77,Food,Fast Food,"Perez, Evans and Flowers",UPI,Lake Jennifer,3
+1328,2024-05-21 06:18:24.318459,852.98,Shopping,Clothing,Carroll-Mitchell,UPI,Johnsonmouth,3
+1329,2024-12-27 14:49:40.980439,49.27,Transport,Fuel,Norris LLC,Credit Card,Cochranville,5
+1330,2024-10-17 12:53:44.122695,240.06,Entertainment,Games,"Stafford, Johnson and Barnes",Credit Card,Port Dakota,1
+1331,2024-05-26 13:43:28.835161,749.33,Shopping,Electronics,Padilla-Randall,Cash,East Anita,3
+1332,2024-07-04 09:29:18.036126,635.61,Transport,Train,Bender-Mitchell,Debit Card,South Kim,5
+1333,2025-01-30 03:34:33.250812,660.25,Health,Clinic,Lindsey Inc,Cash,Lake Andrew,2
+1334,2025-02-25 04:19:05.598880,10.93,Entertainment,Movies,Cooper PLC,Cash,Bakerhaven,5
+1335,2024-10-30 15:11:22.058558,915.87,Entertainment,Movies,Moreno-Williams,Cash,Kennethport,4
+1336,2025-03-31 21:20:44.535208,772.26,Entertainment,Games,Perez-Herrera,Cash,Johnsonborough,1
+1337,2024-12-17 16:56:35.781314,503.27,Entertainment,Games,Robinson Group,Wallet,Allisonmouth,3
+1338,2025-03-14 23:04:49.116150,828.97,Utilities,Internet,"Hines, Scott and Johnson",UPI,Adamfort,4
+1339,2025-01-27 16:56:12.803234,506.37,Health,Pharmacy,Davenport PLC,Cash,East Amymouth,1
+1340,2024-06-22 00:26:09.134877,878.48,Utilities,Water,"Carpenter, Roman and Davis",Debit Card,Garciashire,3
+1341,2024-07-10 00:30:07.993256,221.59,Utilities,Electricity,Edwards and Sons,Wallet,West Ericstad,5
+1342,2025-02-19 11:24:06.227290,906.51,Entertainment,Games,"Gonzalez, Miller and Green",Cash,Erikaview,4
+1343,2024-08-10 18:06:29.154643,873.02,Utilities,Internet,Palmer-Martin,Credit Card,North Seantown,1
+1344,2025-04-12 12:03:46.034164,686.87,Transport,Uber,Yoder-Bass,Cash,Melissaburgh,4
+1345,2024-12-18 07:59:43.617464,869.88,Food,Restaurants,"Schneider, Holland and Kim",UPI,Robertshire,3
+1346,2024-05-22 21:10:48.895082,824.69,Food,Restaurants,Chen-Mahoney,Debit Card,Mackmouth,3
+1347,2024-11-25 19:53:38.875868,23.84,Health,Clinic,"Burnett, Horton and Kirk",Cash,South Jerome,2
+1348,2025-02-22 05:26:00.118131,719.1,Utilities,Electricity,Moody Group,Credit Card,South Neil,3
+1349,2024-11-26 07:50:12.100983,26.05,Entertainment,Games,Dennis-Moore,Debit Card,Jacobmouth,2
+1350,2024-06-27 21:31:23.585646,163.27,Utilities,Electricity,Lopez Group,Cash,West Kyle,3
+1351,2024-07-26 03:48:07.452887,413.04,Health,Pharmacy,Lee Inc,Credit Card,Coxburgh,5
+1352,2025-05-20 02:14:00.868642,707.76,Health,Pharmacy,Walker-Hernandez,UPI,East Shawn,5
+1353,2025-03-19 21:20:59.458076,671.86,Food,Restaurants,"Sullivan, Kirk and Ray",UPI,East Mary,1
+1354,2025-01-21 17:01:02.697175,233.17,Shopping,Clothing,Johnson-Gordon,UPI,West Brianview,2
+1355,2025-02-09 04:00:14.881904,104.61,Shopping,Home Goods,Harvey Group,Cash,Sanchezside,2
+1356,2024-07-19 11:44:21.050381,678.73,Utilities,Water,Stevens-Baker,Cash,Olsonton,1
+1357,2024-09-13 03:03:39.810755,164.02,Health,Pharmacy,Parsons Inc,UPI,Ellisberg,2
+1358,2024-11-02 09:56:20.219187,800.66,Entertainment,Concerts,"Morales, Silva and Smith",Credit Card,Marcmouth,2
+1359,2024-09-02 06:10:06.160872,789.13,Food,Groceries,Walton LLC,Cash,Millsfort,1
+1360,2025-02-08 05:26:45.458388,780.8,Shopping,Home Goods,Evans-Harrison,Wallet,Michelletown,3
+1361,2024-09-10 14:48:36.238458,388.98,Utilities,Electricity,"Roberson, Tate and Rowe",Credit Card,Wayneton,5
+1362,2024-10-02 09:57:45.886838,157.54,Food,Restaurants,Scott-Thompson,Cash,Perezhaven,5
+1363,2024-08-20 07:21:29.938867,698.09,Utilities,Water,Barrett-Mills,Wallet,New Robert,3
+1364,2024-08-10 06:26:02.754118,479.46,Entertainment,Movies,Kim-Mcdonald,Wallet,Lake David,4
+1365,2024-07-15 11:05:08.312019,763.47,Transport,Train,"Palmer, Carpenter and Parker",Cash,Elizabethchester,3
+1366,2024-08-19 19:48:25.310965,287.59,Shopping,Home Goods,Osborn-Stone,Cash,New Sierra,1
+1367,2024-12-29 15:23:25.708782,761.61,Shopping,Home Goods,Frazier Ltd,Cash,Ryantown,5
+1368,2024-12-04 09:57:37.145212,851.42,Food,Groceries,Schmidt-Ryan,Credit Card,Haasfurt,2
+1369,2025-03-01 11:14:16.082168,893.16,Health,Clinic,"Willis, Howe and Davis",Cash,Wilsonville,1
+1370,2024-09-28 06:59:12.730981,521.63,Utilities,Water,Jones Ltd,Wallet,North Suzanne,2
+1371,2024-12-24 21:46:28.145716,102.03,Shopping,Clothing,Mcgrath-Myers,Credit Card,New Amandastad,1
+1372,2024-07-19 03:17:12.348619,432.07,Transport,Uber,Delgado-Roberts,Debit Card,Charlesborough,4
+1373,2024-07-17 06:34:07.971116,686.12,Health,Insurance,Watson PLC,Cash,Lopezland,3
+1374,2024-09-30 07:07:14.953319,676.04,Shopping,Home Goods,Armstrong-Morales,UPI,Port Michaelside,5
+1375,2024-07-06 18:02:37.159301,442.32,Food,Restaurants,Wang-Reyes,Debit Card,Robinsonmouth,3
+1376,2024-08-08 11:37:01.508482,614.03,Entertainment,Movies,"Padilla, Gibson and Williams",UPI,Lake Scott,5
+1377,2024-10-04 12:58:34.868116,786.56,Entertainment,Concerts,Alvarado-Gibson,Debit Card,Kramertown,5
+1378,2024-12-11 12:52:38.776525,707.36,Entertainment,Movies,Ward-Jackson,Cash,South Eduardochester,1
+1379,2024-11-05 20:20:28.619136,715.5,Utilities,Electricity,Lewis Group,Wallet,Henryport,5
+1380,2025-04-10 09:10:19.024145,701.98,Utilities,Internet,"Barnes, Davis and Powell",Debit Card,Leblancstad,3
+1381,2024-08-15 16:20:50.614879,291.16,Health,Pharmacy,Davis-George,Wallet,North Peterhaven,2
+1382,2024-06-04 19:35:24.088937,818.36,Food,Restaurants,Faulkner Inc,Credit Card,Williamsshire,5
+1383,2024-09-29 20:28:10.918050,685.97,Shopping,Clothing,"Jacobs, Vargas and Alvarez",Cash,South Jamesview,5
+1384,2024-12-28 09:40:06.353114,695.95,Health,Clinic,Ramirez Group,UPI,Lake Kevin,2
+1385,2025-01-30 16:41:43.480756,800.52,Entertainment,Games,Trevino and Sons,UPI,West Kylie,3
+1386,2024-10-14 11:52:22.039594,438.56,Shopping,Home Goods,Ryan and Sons,Cash,Lake Dwayneview,3
+1387,2025-04-14 01:38:04.149814,60.28,Food,Restaurants,"Mcdonald, Hines and Carr",Cash,New Melissafort,3
+1388,2025-05-03 09:25:58.969918,986.57,Food,Fast Food,"Wilson, Brown and Thornton",Cash,New Carrieland,2
+1389,2025-04-10 16:05:08.385103,634.99,Entertainment,Games,Murray and Sons,Wallet,South Janet,4
+1390,2024-05-28 13:54:36.891650,48.66,Utilities,Electricity,Thomas-Burns,Wallet,South Lisaton,5
+1391,2024-10-19 07:00:19.990755,797.85,Health,Insurance,Davis PLC,Debit Card,New Stephanie,5
+1392,2025-02-18 14:38:54.933375,750.43,Transport,Uber,Romero-Houston,Credit Card,New Johnfort,1
+1393,2024-07-02 02:08:12.094457,662.0,Food,Restaurants,"Shaffer, Doyle and Hart",Cash,Huntermouth,4
+1394,2025-04-08 01:28:39.472807,186.97,Transport,Uber,Thompson and Sons,Credit Card,West Ian,3
+1395,2025-05-09 12:24:03.918909,419.35,Health,Clinic,"Bailey, Reynolds and Nguyen",UPI,West Craig,1
+1396,2024-12-20 20:07:46.839395,602.56,Transport,Fuel,Peterson Ltd,Credit Card,Lake Jeffreyport,3
+1397,2025-05-17 07:20:50.490306,261.47,Health,Insurance,Harper-Dillon,UPI,Haroldshire,3
+1398,2024-09-06 09:58:37.242493,561.89,Transport,Bus,Gonzales PLC,Debit Card,Smithhaven,4
+1399,2025-01-31 20:30:38.034901,504.56,Entertainment,Concerts,Freeman-Bender,Debit Card,North Melinda,4
+1400,2024-10-31 14:23:56.664714,737.39,Food,Groceries,Taylor Ltd,Credit Card,Davisfurt,4
+1401,2024-12-16 15:28:36.268122,183.56,Shopping,Electronics,"Klein, Wilson and Vasquez",Wallet,Robertchester,2
+1402,2024-08-31 14:33:25.037532,410.47,Health,Pharmacy,"Hodges, Simon and Stewart",Debit Card,New Matthew,1
+1403,2025-02-20 10:07:55.402882,859.9,Food,Groceries,Delgado-Frey,UPI,Carolynport,4
+1404,2025-03-03 00:12:49.180952,82.33,Entertainment,Games,Martin PLC,Wallet,Claytonshire,4
+1405,2024-08-18 20:54:05.759964,745.65,Utilities,Water,Dorsey Ltd,UPI,New Alexandria,4
+1406,2024-10-23 15:35:18.789364,315.27,Transport,Bus,Wagner and Sons,Debit Card,Cindyland,1
+1407,2024-09-19 09:23:58.361515,588.61,Health,Insurance,White-Lane,Credit Card,Jamesbury,4
+1408,2024-12-14 05:16:36.145576,336.14,Utilities,Water,Johnson-Rodriguez,Cash,Lake Katherine,5
+1409,2024-08-17 16:53:54.992077,78.91,Health,Pharmacy,Duncan-Adams,Cash,West Brendaside,5
+1410,2024-11-13 23:17:16.835547,8.36,Transport,Fuel,Davis Group,Wallet,West Christopher,4
+1411,2024-09-01 00:23:20.913989,809.74,Entertainment,Games,Stein-Kim,Credit Card,Brendamouth,4
+1412,2024-11-14 14:00:04.349218,166.87,Food,Restaurants,Weaver-Carlson,Credit Card,Smithbury,5
+1413,2024-10-03 02:38:18.272425,599.95,Shopping,Electronics,Wilson-Mcgee,Cash,North Cynthiahaven,1
+1414,2025-04-15 04:41:59.561385,134.99,Food,Fast Food,Griffith Group,Wallet,Shermantown,3
+1415,2025-05-14 04:14:44.807240,582.52,Utilities,Internet,Vargas-Floyd,Cash,New Courtneymouth,5
+1416,2025-02-12 13:33:51.877117,739.69,Entertainment,Concerts,Guerrero LLC,Cash,Juanborough,3
+1417,2024-11-17 11:42:46.504369,385.26,Transport,Bus,Mcguire Inc,Credit Card,Port Richardview,2
+1418,2025-03-12 19:36:30.852642,330.5,Utilities,Internet,Hall-Franklin,Wallet,Port Jasonhaven,1
+1419,2024-10-21 04:30:35.932595,124.96,Health,Clinic,"Jimenez, Hays and Harris",Wallet,West Billy,2
+1420,2024-07-11 20:04:43.177637,557.44,Health,Insurance,"Mercer, Smith and Romero",Credit Card,Lake Benjamin,5
+1421,2024-07-02 06:09:47.365062,204.44,Utilities,Electricity,Ramsey PLC,Wallet,Lake Markview,4
+1422,2024-10-31 13:11:07.683601,506.48,Transport,Train,Lin-Martin,Debit Card,New Angela,2
+1423,2024-09-16 08:58:06.154154,792.93,Food,Restaurants,Black-Roth,Debit Card,New Lauraberg,1
+1424,2025-01-12 06:33:18.879288,610.01,Shopping,Electronics,Diaz Group,Cash,East Carrie,5
+1425,2024-09-19 00:08:11.894818,136.67,Transport,Uber,Randall-Douglas,Wallet,Jenniferview,1
+1426,2024-06-10 14:11:43.072426,83.89,Shopping,Clothing,Park PLC,Credit Card,Bellborough,3
+1427,2025-04-14 18:30:14.834163,164.01,Transport,Train,Vaughn-Webb,Credit Card,Melissaville,1
+1428,2024-07-06 22:37:45.849594,494.41,Health,Pharmacy,Stephens Group,UPI,Christianshire,3
+1429,2025-01-13 02:51:00.843847,46.3,Utilities,Electricity,Holland-Green,Cash,Angelabury,5
+1430,2025-02-21 08:09:55.451719,238.05,Shopping,Clothing,Hawkins and Sons,Cash,West Susanmouth,2
+1431,2025-02-02 11:58:28.822344,566.69,Health,Insurance,Hurley Ltd,UPI,Brownstad,4
+1432,2024-06-06 11:03:27.360679,807.19,Entertainment,Movies,Kramer and Sons,Wallet,Mitchellport,5
+1433,2024-12-11 10:13:53.677362,361.74,Transport,Train,Cooper Group,Wallet,Kristenville,3
+1434,2024-11-20 06:26:46.566268,452.14,Shopping,Home Goods,"Perez, Lopez and Freeman",UPI,New Cindyfurt,1
+1435,2025-03-22 22:31:26.900094,586.43,Health,Insurance,Cooke LLC,UPI,Port Carloston,1
+1436,2024-06-03 21:10:42.457895,380.93,Utilities,Water,Dixon Group,Wallet,Nicholasmouth,1
+1437,2024-08-14 21:08:32.481252,971.0,Shopping,Home Goods,Allen-Griffin,Debit Card,East Annville,3
+1438,2024-12-13 22:53:53.153137,544.65,Transport,Uber,Lopez Inc,Debit Card,North Allison,3
+1439,2024-11-14 21:06:07.846383,660.31,Entertainment,Games,Clark-Johnson,UPI,Guerrerohaven,3
+1440,2025-04-26 05:19:59.205172,438.32,Shopping,Home Goods,Cook Inc,Wallet,Gonzalezfurt,1
+1441,2024-09-04 20:11:58.569895,151.61,Entertainment,Movies,Wright-Gregory,Cash,Coffeyside,2
+1442,2024-09-07 23:32:28.841992,848.38,Shopping,Electronics,Hebert Group,Wallet,Cruzchester,5
+1443,2024-08-18 03:31:12.448160,18.26,Health,Pharmacy,Patton-Wright,Cash,Kellytown,5
+1444,2024-09-08 06:15:27.802872,901.48,Utilities,Water,Ortega-Stephens,UPI,Allisontown,5
+1445,2024-07-31 03:08:58.598118,143.67,Shopping,Home Goods,Solis-Lewis,Wallet,Port Bradleytown,2
+1446,2024-09-29 04:57:39.892988,426.45,Entertainment,Movies,Love-Richards,UPI,New Brendan,2
+1447,2025-01-25 09:57:43.518309,591.19,Utilities,Internet,Wallace Ltd,Wallet,Pamburgh,4
+1448,2024-10-08 01:59:59.523207,287.45,Shopping,Electronics,Carney-Jones,Wallet,Whitestad,1
+1449,2024-07-11 10:09:05.150883,753.62,Shopping,Home Goods,Sullivan-Moore,Credit Card,Lake Michael,2
+1450,2024-10-09 23:13:27.755691,839.19,Food,Groceries,Velasquez PLC,UPI,Rogersfort,1
+1451,2025-01-20 07:24:44.060460,177.08,Utilities,Electricity,"Yu, Trevino and Sawyer",Credit Card,South Michellemouth,4
+1452,2025-03-15 18:41:21.691511,505.18,Shopping,Clothing,Rodriguez-Mckinney,UPI,Theresashire,3
+1453,2025-03-27 02:09:46.379151,647.75,Transport,Fuel,"Gray, Watson and Brown",Cash,Port Nicholas,1
+1454,2025-04-23 05:27:03.068001,5.41,Transport,Fuel,"Wilson, Larson and Frazier",Credit Card,Kylehaven,2
+1455,2024-12-23 14:15:59.837004,503.43,Shopping,Clothing,Williams-Walker,Credit Card,West Amandaside,2
+1456,2024-07-13 08:35:29.421813,312.68,Utilities,Internet,"Savage, Brooks and Hutchinson",Credit Card,East Jerryside,1
+1457,2025-02-27 20:53:01.583586,809.04,Shopping,Electronics,"Palmer, Sullivan and Brady",Wallet,Port Bethanychester,2
+1458,2024-06-05 20:24:33.245945,305.2,Entertainment,Concerts,"Williams, Wright and Branch",UPI,Port Markfurt,5
+1459,2025-04-07 03:13:52.878976,506.03,Transport,Bus,Smith-Vargas,Cash,West Laura,1
+1460,2024-10-31 05:24:49.756149,617.69,Health,Pharmacy,Arias Ltd,Cash,West James,1
+1461,2025-03-27 04:08:59.112945,973.12,Utilities,Electricity,Holloway-Smith,Cash,North Michael,1
+1462,2024-11-09 06:51:59.418553,292.07,Entertainment,Games,Jones Ltd,Debit Card,New Brianstad,5
+1463,2024-06-09 11:38:16.561771,118.25,Entertainment,Movies,Nelson-Phillips,Wallet,East Brian,2
+1464,2025-05-05 14:12:58.286535,820.64,Shopping,Home Goods,"Daniels, Pugh and Stein",Debit Card,Lake Tina,1
+1465,2025-05-11 02:48:27.527972,258.39,Food,Fast Food,Jensen-Jones,UPI,Port Jenniferchester,2
+1466,2024-09-12 17:19:25.435042,758.05,Entertainment,Concerts,Bray Inc,Cash,West Christopherchester,3
+1467,2025-03-11 14:46:24.185274,112.37,Health,Pharmacy,Nichols Group,Wallet,North Rebeccaberg,3
+1468,2024-06-11 07:46:12.415869,693.14,Utilities,Water,"Patel, Bates and Howard",Credit Card,Calvinstad,1
+1469,2025-04-01 18:56:29.655199,940.68,Shopping,Home Goods,"Smith, Foster and Rhodes",Wallet,North Paige,2
+1470,2024-07-28 17:36:10.821520,6.9,Health,Clinic,Smith LLC,Cash,Stephenstad,5
+1471,2025-02-22 19:16:03.108600,478.97,Entertainment,Games,Vargas PLC,Wallet,Walkerfort,1
+1472,2024-11-20 02:21:01.290609,590.88,Transport,Bus,Welch-Manning,Credit Card,Ricardochester,4
+1473,2024-11-01 21:56:26.104088,979.88,Transport,Uber,Johnson PLC,Wallet,Port Carrie,5
+1474,2024-08-19 02:03:43.558665,117.0,Transport,Uber,"Humphrey, Stark and Cox",UPI,Tylerview,3
+1475,2024-11-02 01:14:10.185673,981.59,Utilities,Electricity,Fernandez-Gray,Debit Card,Paulland,2
+1476,2025-01-02 10:41:42.814417,671.45,Health,Clinic,"Johnson, Cooper and Matthews",Credit Card,North Ashley,1
+1477,2025-05-14 21:57:19.348395,439.9,Utilities,Internet,Allen-Sharp,Cash,Cookberg,5
+1478,2025-03-09 17:45:25.371309,281.78,Food,Restaurants,Rodriguez LLC,Debit Card,Paulhaven,2
+1479,2025-02-18 20:22:09.274681,984.53,Transport,Train,"Thompson, Smith and Thomas",Credit Card,Fletchermouth,4
+1480,2024-07-16 00:48:44.099463,949.52,Transport,Uber,Campbell-Landry,Credit Card,West Sarah,2
+1481,2025-02-10 03:15:30.439382,443.14,Food,Fast Food,Smith Inc,Debit Card,Mccormickton,4
+1482,2025-04-26 23:02:23.431938,498.61,Food,Fast Food,"Bush, Lane and Herrera",Credit Card,Janetstad,2
+1483,2024-12-09 06:21:43.465306,36.24,Utilities,Internet,Davis PLC,Wallet,Lake William,5
+1484,2024-09-23 05:05:38.483913,56.14,Health,Clinic,"Wilson, Sullivan and Cox",Cash,Woodside,5
+1485,2024-10-30 08:50:50.051280,396.05,Shopping,Electronics,"Johnson, Cook and Acosta",Debit Card,Seantown,4
+1486,2024-06-13 04:02:24.561142,647.49,Shopping,Home Goods,Smith-Cook,Cash,North Darinville,3
+1487,2024-11-11 15:16:41.609770,900.44,Health,Clinic,Jackson LLC,UPI,North Darius,1
+1488,2024-10-09 14:36:02.598478,311.2,Entertainment,Concerts,Olson Group,Cash,Lake Ryan,3
+1489,2025-01-24 21:39:46.075991,224.41,Food,Fast Food,"Garcia, Gray and Sanders",UPI,Arnoldberg,4
+1490,2025-02-26 16:10:49.152089,169.86,Health,Clinic,Ramos-Sandoval,Debit Card,Chavezburgh,2
+1491,2025-01-09 01:58:44.114196,155.26,Food,Restaurants,"Guerrero, Martinez and Huff",Wallet,Port Heathershire,3
+1492,2025-03-30 12:58:41.067029,671.95,Utilities,Water,"Anderson, Dixon and Lawson",Cash,Lake Denisestad,2
+1493,2025-04-02 02:11:59.314058,565.57,Shopping,Home Goods,Gonzalez Ltd,Credit Card,South Rachelberg,5
+1494,2025-02-14 06:22:28.104942,826.97,Shopping,Electronics,"Tapia, Santana and Williams",Wallet,New Wendyport,1
+1495,2024-12-04 16:38:46.282064,892.98,Utilities,Internet,"Lee, Scott and Cruz",UPI,West Stephanieside,3
+1496,2024-12-22 07:57:14.450303,335.32,Entertainment,Movies,Roberts Group,Credit Card,South Sarahchester,1
+1497,2025-03-13 18:59:05.602782,398.24,Transport,Uber,Martinez Inc,Wallet,Taylorshire,1
+1498,2025-01-23 12:32:24.040157,853.71,Transport,Bus,"Garcia, Williams and Rodgers",Cash,Rodrigueztown,2
+1499,2025-01-10 19:31:23.376699,536.19,Shopping,Clothing,Nguyen-Williams,Credit Card,Robinsonfurt,2
+1500,2024-05-28 01:44:51.822025,929.74,Health,Pharmacy,Peters-Wilson,UPI,Davidborough,4
+1501,2024-11-08 02:19:37.260275,240.48,Shopping,Electronics,Price Inc,Wallet,East Bill,4
+1502,2024-07-24 17:15:52.502653,635.07,Shopping,Clothing,"Perez, Weaver and Smith",UPI,South Javier,4
+1503,2024-10-31 11:15:01.811954,933.96,Health,Pharmacy,"Whitaker, Miller and Peters",UPI,Lake Susanside,3
+1504,2024-11-25 11:20:21.561887,925.51,Food,Fast Food,Ramirez Ltd,Credit Card,Richardberg,1
+1505,2024-12-19 14:04:56.483854,99.4,Entertainment,Concerts,Steele-Lewis,Wallet,North Joshuaborough,3
+1506,2024-07-19 12:28:59.950727,44.42,Health,Pharmacy,Clark LLC,Debit Card,North Lauren,1
+1507,2025-02-02 17:19:16.921116,402.77,Shopping,Electronics,"Gonzalez, Rodgers and Wong",Wallet,Port Kevin,3
+1508,2024-12-12 02:30:53.300792,197.93,Transport,Bus,Reid Inc,UPI,Amandaport,5
+1509,2024-06-03 11:33:13.824656,278.39,Utilities,Internet,Williams Inc,UPI,Connershire,2
+1510,2025-02-27 17:31:14.508719,451.28,Shopping,Home Goods,Mckay LLC,UPI,South Jenny,1
+1511,2024-10-01 03:08:13.960025,937.34,Transport,Train,Oliver-Daniels,Cash,Pittsbury,1
+1512,2024-07-18 18:43:25.418571,895.07,Utilities,Internet,Roy Group,Wallet,Andreamouth,3
+1513,2024-06-14 05:56:42.741760,9.74,Entertainment,Concerts,"Martinez, Murray and Jones",UPI,North Alexander,4
+1514,2024-07-18 04:47:31.727472,36.58,Health,Insurance,King and Sons,Debit Card,South Gabriella,1
+1515,2024-11-13 09:34:34.264233,959.51,Health,Clinic,Reed and Sons,Wallet,Lake Ashleyland,3
+1516,2024-07-04 05:24:51.184522,421.48,Shopping,Home Goods,Pruitt-Martinez,UPI,Lake Andrewbury,1
+1517,2024-11-28 20:38:12.002530,853.5,Health,Clinic,"Ferguson, Bailey and Wiggins",Debit Card,Turnerport,4
+1518,2024-10-09 23:05:08.153790,907.38,Shopping,Electronics,"Nelson, Lee and Haas",Credit Card,Smithside,3
+1519,2025-03-26 12:44:17.496429,376.85,Transport,Bus,Ramirez and Sons,Credit Card,Hollyhaven,2
+1520,2024-10-28 14:55:40.816149,612.02,Shopping,Home Goods,Huffman-Brown,UPI,Thomasville,2
+1521,2024-11-12 10:56:31.438201,666.71,Food,Fast Food,"Crawford, Kim and Maxwell",UPI,New Trevor,1
+1522,2024-09-05 04:12:39.205316,588.66,Entertainment,Concerts,Jones PLC,Credit Card,New Anna,3
+1523,2024-11-24 19:11:41.877203,938.55,Transport,Bus,Fischer Ltd,Credit Card,Jessicamouth,4
+1524,2024-11-23 12:05:32.158719,731.5,Transport,Bus,"Lane, Meadows and Kelly",Credit Card,Loganfurt,4
+1525,2025-04-09 16:45:48.299998,837.51,Shopping,Home Goods,Burgess Ltd,UPI,South Joseside,2
+1526,2024-06-13 02:59:43.282122,519.71,Entertainment,Games,Pugh Ltd,Cash,Wrightbury,1
+1527,2025-04-19 12:36:06.652389,429.15,Utilities,Internet,"Harris, Kelley and Holt",Wallet,Patrickborough,4
+1528,2025-04-09 16:47:49.418896,566.98,Entertainment,Concerts,"Gonzalez, Wilson and Johnson",Wallet,Murilloland,1
+1529,2024-08-14 13:30:46.932685,339.95,Health,Clinic,Carroll Group,UPI,South Marilyn,5
+1530,2025-01-06 22:28:52.667830,802.62,Shopping,Home Goods,Vargas and Sons,Cash,Lake Richardborough,4
+1531,2024-12-06 09:12:13.232736,322.84,Shopping,Electronics,Ruiz PLC,Credit Card,Sanchezmouth,2
+1532,2025-04-20 12:21:15.365063,833.92,Transport,Train,Stevens-Howard,Debit Card,South Devin,4
+1533,2024-06-23 06:55:38.710728,809.29,Transport,Uber,Garcia-Hill,UPI,Stephanieton,4
+1534,2024-05-31 07:23:48.744552,345.38,Shopping,Clothing,Martinez-Cox,UPI,New Nicholasfurt,3
+1535,2024-12-28 09:35:00.913826,273.95,Food,Fast Food,"Roach, Patel and Mcclain",Wallet,Antonioborough,1
+1536,2024-10-20 10:39:19.177000,596.52,Utilities,Internet,Herrera-Ryan,Wallet,Port Sharonfurt,4
+1537,2025-01-25 16:04:13.764413,935.67,Entertainment,Movies,Carpenter and Sons,UPI,West Christopher,3
+1538,2025-03-31 16:21:25.864037,708.24,Entertainment,Concerts,Gomez-Mcintyre,Wallet,Navarroland,1
+1539,2024-11-25 10:33:35.045965,430.12,Entertainment,Games,Anderson-Davis,Debit Card,Valdezfurt,2
+1540,2025-03-17 13:53:46.678076,53.2,Health,Clinic,Weaver and Sons,Wallet,North Gregoryton,1
+1541,2025-03-23 11:43:37.931399,181.2,Entertainment,Games,Rodriguez-Foster,Credit Card,Romeroburgh,2
+1542,2024-11-16 17:57:53.754830,94.2,Shopping,Clothing,Spears-Perry,Debit Card,North Erikhaven,3
+1543,2024-12-17 20:23:50.366470,351.82,Health,Clinic,"Ingram, Jenkins and Huff",UPI,Amandaside,3
+1544,2024-07-11 05:14:10.114400,429.33,Shopping,Home Goods,"Martinez, Zamora and Wilson",Credit Card,East Rubenshire,3
+1545,2025-04-29 00:20:52.950747,832.47,Utilities,Electricity,"Kerr, Garrett and Hudson",Cash,New Donaldmouth,4
+1546,2024-05-23 21:32:12.190594,321.94,Entertainment,Games,Jackson-Jordan,Credit Card,Williamsbury,2
+1547,2024-09-05 18:58:47.381326,333.98,Utilities,Electricity,Flores-Shaw,Wallet,Lake Jasonport,1
+1548,2025-01-28 18:01:21.469975,15.26,Health,Insurance,Hobbs PLC,Credit Card,New Zachary,3
+1549,2025-05-20 12:23:58.499528,409.46,Utilities,Electricity,Rhodes LLC,Debit Card,Port Juan,5
+1550,2024-06-03 04:04:19.208421,439.16,Food,Restaurants,"Roberson, Hunter and Howard",Credit Card,Wallacestad,1
+1551,2025-02-28 02:55:30.871432,545.99,Utilities,Internet,Peters LLC,Cash,East Megantown,1
+1552,2024-11-04 08:08:07.521401,510.38,Utilities,Water,Yu and Sons,Wallet,West Johnmouth,4
+1553,2024-06-04 04:27:16.873588,760.82,Food,Restaurants,"Bullock, Sanchez and Anthony",UPI,Lyonsfurt,3
+1554,2024-07-16 23:26:14.829973,669.28,Shopping,Home Goods,Vincent-Taylor,Cash,Millerland,2
+1555,2024-05-26 18:58:05.952515,663.87,Utilities,Internet,"Pearson, Hernandez and Mason",UPI,West Rachel,2
+1556,2024-09-27 22:35:56.494508,816.67,Health,Insurance,Smith Ltd,UPI,South Jacobville,1
+1557,2024-07-16 10:12:36.998336,331.42,Entertainment,Concerts,"Davis, Brown and Miller",Debit Card,Zavalaside,4
+1558,2024-11-29 17:53:28.983557,139.59,Health,Clinic,Patel-Davidson,Wallet,Port Alanside,5
+1559,2025-04-12 05:23:16.637100,412.22,Entertainment,Concerts,Mcdaniel-Wall,Cash,East Aaron,4
+1560,2024-06-03 21:44:17.351508,721.36,Transport,Fuel,"Mullins, Simpson and Morgan",Credit Card,Reyesland,1
+1561,2024-08-28 22:51:13.432480,52.0,Shopping,Home Goods,Sullivan-Day,UPI,Anthonystad,5
+1562,2024-09-27 11:22:20.468228,974.85,Food,Groceries,"Berry, Garcia and Griffith",Credit Card,Lake Toddton,2
+1563,2025-02-22 19:37:21.113285,548.37,Utilities,Internet,Bullock PLC,Wallet,South Eddie,2
+1564,2025-04-06 20:38:09.188947,698.65,Health,Pharmacy,Ramirez-Bauer,Cash,Markfurt,5
+1565,2025-04-09 11:47:12.840096,425.12,Food,Fast Food,"Sanchez, Davis and Brown",Wallet,Turnerborough,5
+1566,2024-12-19 06:59:21.476357,967.55,Utilities,Electricity,Lowe-Gross,Cash,South Alexis,4
+1567,2024-08-16 00:03:36.071081,627.33,Health,Insurance,"Martin, Garcia and Anthony",Cash,Lake Mariaberg,1
+1568,2024-09-10 05:55:26.136704,464.64,Utilities,Electricity,"Edwards, Shields and Ramirez",Cash,Lake Joeburgh,2
+1569,2024-09-30 18:59:30.629925,622.14,Food,Groceries,Santos-Lester,Cash,Oliviaborough,5
+1570,2025-02-17 18:57:07.776949,839.04,Entertainment,Games,Bell Group,Debit Card,Bradfordmouth,1
+1571,2024-06-14 00:19:50.624806,724.51,Health,Clinic,Lopez PLC,UPI,Aguilarberg,5
+1572,2024-12-09 07:09:39.350689,320.25,Entertainment,Movies,Bryant-Carson,UPI,North Jesusmouth,2
+1573,2024-08-31 20:15:07.932778,52.4,Entertainment,Concerts,Gomez-Hines,Debit Card,Jamesside,5
+1574,2025-04-13 05:24:10.947782,637.72,Entertainment,Movies,Gutierrez Group,Credit Card,Mitchellfurt,5
+1575,2024-07-29 08:03:46.289173,398.56,Food,Groceries,Hoffman-Liu,UPI,Johnton,5
+1576,2024-08-31 23:10:40.290504,477.33,Health,Insurance,Nguyen-Huff,Credit Card,North Jason,2
+1577,2024-09-04 02:21:42.821321,464.73,Transport,Train,Anderson-Gonzales,Wallet,Mcfarlandshire,2
+1578,2025-03-29 09:37:07.078139,898.18,Utilities,Water,Taylor and Sons,UPI,New Michelle,4
+1579,2024-09-14 23:57:03.597872,933.57,Entertainment,Games,White-Kemp,Wallet,Hillbury,2
+1580,2025-03-29 14:28:23.266666,478.21,Health,Pharmacy,Martinez-Diaz,Debit Card,Port Erica,3
+1581,2025-04-15 04:20:38.073971,662.95,Entertainment,Games,"Murphy, Patton and Wilson",Cash,Davidview,2
+1582,2024-08-16 15:43:18.870679,895.83,Transport,Uber,Atkins PLC,Debit Card,Melvinshire,2
+1583,2025-03-03 09:17:34.304465,107.34,Entertainment,Games,"Knox, Ochoa and Jacobs",Cash,Douglasstad,3
+1584,2025-04-07 17:49:30.781569,781.8,Entertainment,Games,Watts Inc,UPI,Port Rachelberg,4
+1585,2025-04-06 11:15:03.420142,620.63,Health,Pharmacy,Freeman PLC,UPI,North Joshuamouth,2
+1586,2025-05-03 04:40:06.313985,717.1,Food,Fast Food,Santiago-Massey,UPI,Lake Sarahburgh,2
+1587,2025-01-12 06:43:03.408849,242.15,Food,Restaurants,"Schmitt, Ochoa and Lang",Credit Card,Lopezland,3
+1588,2025-04-06 02:53:43.684845,463.41,Shopping,Home Goods,Davis-Bright,UPI,Lewisberg,5
+1589,2024-06-24 13:43:45.756325,298.85,Entertainment,Games,Stein-Kramer,UPI,Seanbury,5
+1590,2024-09-17 19:27:09.759202,808.39,Utilities,Water,Sanchez-Hawkins,Wallet,Kruegerhaven,3
+1591,2025-03-20 16:02:42.951512,457.44,Shopping,Home Goods,Case-Fitzpatrick,Credit Card,Romeroberg,4
+1592,2024-12-06 05:32:56.947230,774.2,Utilities,Water,"Miller, Thomas and Levine",Debit Card,North Gregoryhaven,2
+1593,2024-11-20 11:15:35.220809,331.45,Food,Fast Food,Mason PLC,Cash,Francisland,5
+1594,2024-09-01 14:49:42.667425,740.64,Food,Fast Food,"Johnson, Miller and Smith",Debit Card,Ricardoburgh,4
+1595,2024-12-02 21:19:32.537183,116.86,Food,Restaurants,Simmons-Smith,Wallet,New Stephanie,3
+1596,2025-04-21 13:50:27.427767,83.87,Utilities,Water,Moreno PLC,Debit Card,South Richard,1
+1597,2025-03-23 01:23:55.065924,81.75,Entertainment,Games,Sanchez-Johnson,Wallet,Robertbury,5
+1598,2025-03-09 02:28:51.472499,106.0,Transport,Train,Richards Group,Credit Card,Michaelchester,2
+1599,2024-12-24 08:21:37.762423,582.62,Shopping,Home Goods,Mckinney PLC,UPI,Jasonland,5
+1600,2025-02-16 11:54:51.457916,615.34,Utilities,Water,Brown and Sons,Wallet,Shaneville,4
+1601,2025-04-17 14:52:58.495987,832.6,Health,Clinic,Malone PLC,Wallet,Myersburgh,4
+1602,2025-02-24 05:44:46.087708,832.26,Shopping,Home Goods,Reeves-Melton,UPI,Isaiahstad,4
+1603,2025-04-09 09:25:24.084382,151.13,Entertainment,Concerts,"King, Jackson and Mathis",Cash,Lake Anna,5
+1604,2024-06-29 00:32:20.913806,965.11,Utilities,Water,"Walsh, Kaufman and Parrish",Cash,Castillohaven,2
+1605,2024-06-03 12:52:52.076433,126.75,Utilities,Electricity,Scott-Brown,Cash,East Anthonyville,1
+1606,2024-10-10 02:56:53.194499,917.95,Transport,Bus,Nelson and Sons,Cash,West Charles,1
+1607,2025-04-23 18:38:24.826652,688.95,Health,Pharmacy,"Bender, Williams and Wells",Debit Card,North Samuel,3
+1608,2024-06-03 07:42:49.197694,307.53,Shopping,Home Goods,Banks-Franklin,Debit Card,Savagestad,4
+1609,2024-06-20 05:58:53.743168,997.2,Shopping,Clothing,Fitzgerald-Davis,Debit Card,Lake Leon,2
+1610,2024-10-16 20:53:48.995090,314.88,Shopping,Home Goods,Hunt and Sons,Cash,Leachshire,4
+1611,2024-08-26 16:05:01.025422,962.66,Transport,Bus,Garcia-Ward,Cash,Mistychester,5
+1612,2024-10-28 11:10:59.366263,903.36,Utilities,Electricity,"Shepherd, Wilson and Kennedy",Wallet,East Terri,5
+1613,2025-02-27 20:20:18.507133,54.33,Food,Restaurants,Lee-Gay,Wallet,Campbellport,2
+1614,2024-07-24 11:59:41.085957,626.69,Transport,Bus,Taylor-Morris,UPI,Byrdberg,2
+1615,2024-11-10 08:40:49.061717,316.17,Shopping,Clothing,King Ltd,UPI,Ronaldview,1
+1616,2024-09-28 20:10:26.074586,630.67,Entertainment,Movies,Copeland-Mitchell,Wallet,East Brittney,2
+1617,2025-04-18 09:42:59.997250,764.65,Transport,Fuel,Moreno-Lewis,Debit Card,Keithview,3
+1618,2024-08-19 18:36:11.102189,979.92,Shopping,Home Goods,"Medina, Banks and Todd",Debit Card,Natalieberg,1
+1619,2025-02-01 16:05:00.820202,970.2,Shopping,Home Goods,Vang-Bradley,Cash,Hansonburgh,5
+1620,2024-12-15 17:45:35.757330,556.09,Transport,Bus,"Gordon, Williams and Shepherd",Wallet,Reneeborough,4
+1621,2024-11-12 23:43:24.581108,387.49,Transport,Uber,Austin LLC,Debit Card,Stephanieborough,5
+1622,2024-11-04 01:55:48.356111,16.24,Utilities,Water,Smith Group,Cash,Santosland,5
+1623,2024-12-19 22:50:37.479510,212.28,Health,Clinic,Hill LLC,Cash,Grahamberg,2
+1624,2024-07-06 18:42:24.496629,165.37,Food,Groceries,"White, Hanson and Mitchell",UPI,Jamesbury,3
+1625,2024-10-11 02:32:19.795487,950.9,Transport,Train,"Ramos, Brooks and Thomas",UPI,Cookside,3
+1626,2025-02-26 01:21:34.252466,557.39,Shopping,Home Goods,"Davis, Whitehead and Hart",Debit Card,Kirbymouth,2
+1627,2024-06-02 00:47:00.891422,93.75,Entertainment,Movies,Wilson-Luna,Debit Card,Orozcomouth,3
+1628,2025-03-20 10:30:01.207815,631.9,Entertainment,Movies,Scott-Diaz,Debit Card,Lake Tinabury,3
+1629,2024-09-07 08:39:31.087891,683.26,Food,Restaurants,"Lopez, Jenkins and Boyd",Debit Card,West Jennifer,5
+1630,2025-04-04 19:08:59.896883,307.87,Utilities,Water,Anderson-Le,Cash,South Jamesborough,5
+1631,2024-11-19 07:34:31.118778,18.07,Entertainment,Movies,Thomas-Terry,Credit Card,South Caroline,2
+1632,2024-09-06 16:34:46.948304,694.48,Shopping,Clothing,Gray-Oliver,Debit Card,Jesusfort,4
+1633,2024-10-23 18:31:56.193763,516.1,Shopping,Clothing,"Roman, Myers and Chang",Credit Card,Nicholsshire,5
+1634,2025-04-14 09:41:34.238539,48.0,Transport,Fuel,Petty-Figueroa,UPI,North Jessicastad,4
+1635,2024-11-09 20:48:40.761860,919.84,Utilities,Water,Nguyen-Kerr,Debit Card,Tiffanyberg,5
+1636,2024-06-30 02:32:06.760664,134.13,Utilities,Water,Harrell-Massey,Credit Card,Brownchester,2
+1637,2025-03-31 12:23:15.222226,710.5,Entertainment,Games,Huffman PLC,Cash,Hughesport,3
+1638,2024-10-18 10:35:19.861750,407.31,Utilities,Electricity,Dennis-Hughes,UPI,East Gail,3
+1639,2024-05-30 15:56:05.732978,265.08,Entertainment,Concerts,Rodriguez-Johnson,UPI,North Jesse,2
+1640,2025-01-19 06:11:14.091913,843.5,Entertainment,Movies,"Curtis, Sullivan and Cross",Wallet,Port Aaronstad,5
+1641,2024-12-15 18:22:11.269438,606.99,Entertainment,Games,Baldwin-Gordon,UPI,Tonyastad,4
+1642,2025-01-15 16:31:20.164552,533.58,Entertainment,Games,Williams-Gates,Credit Card,Lake Lynnland,3
+1643,2024-08-07 22:22:21.012477,690.91,Food,Restaurants,Williams PLC,Cash,Smithton,3
+1644,2024-06-05 03:36:23.209372,993.04,Shopping,Clothing,"Yu, Chung and Jones",Cash,East Jorge,5
+1645,2024-09-30 19:00:16.970472,44.58,Transport,Fuel,Chandler PLC,Cash,Port Jamie,3
+1646,2024-09-27 23:27:35.811978,704.57,Health,Pharmacy,"Davis, Scott and Thornton",Credit Card,West Charles,2
+1647,2024-10-19 10:05:39.305779,572.19,Shopping,Home Goods,"Williams, Johnson and Adams",Wallet,Roseport,3
+1648,2024-06-21 17:47:12.892728,869.42,Health,Insurance,Figueroa-Graham,Credit Card,South Michelleberg,5
+1649,2024-11-08 15:46:02.311728,97.46,Transport,Uber,Ortiz PLC,UPI,Lake Katie,1
+1650,2024-10-16 08:53:16.805198,185.13,Health,Insurance,"Garcia, Evans and Butler",UPI,Schneidertown,1
+1651,2024-10-15 19:04:01.220183,630.24,Food,Restaurants,Brown Group,Cash,Rhodesmouth,5
+1652,2025-04-11 22:38:18.293506,898.91,Utilities,Water,Hansen-Sullivan,Cash,New Jeffrey,5
+1653,2024-09-05 21:19:57.740929,221.3,Transport,Train,Williamson-Reilly,Debit Card,Williamston,3
+1654,2024-09-18 18:17:56.741553,224.41,Health,Clinic,Burns-Nguyen,Credit Card,East Keith,4
+1655,2024-06-30 11:16:21.041808,320.47,Entertainment,Concerts,Skinner Ltd,Debit Card,South Jeffreymouth,3
+1656,2024-06-04 07:16:56.158523,913.06,Utilities,Water,"Rodriguez, Nelson and Massey",Cash,North Pamela,3
+1657,2024-12-09 21:11:44.563663,422.21,Utilities,Electricity,Jennings Inc,Cash,Lake Christinashire,3
+1658,2024-08-30 07:45:47.594774,624.82,Food,Groceries,Munoz Ltd,Cash,New Anthony,4
+1659,2025-01-28 12:23:12.528196,418.21,Transport,Bus,Wells-Vang,Wallet,Morrisborough,4
+1660,2024-09-04 12:48:37.567112,937.16,Entertainment,Games,Daniels LLC,Debit Card,Rosehaven,4
+1661,2024-06-19 08:24:51.883341,665.03,Utilities,Water,"Wood, Potter and Davis",Debit Card,New Codyville,5
+1662,2024-07-31 23:02:50.246413,360.8,Food,Fast Food,"Winters, Walsh and Lane",UPI,New Tristan,1
+1663,2025-01-24 17:58:53.284141,597.27,Utilities,Internet,"Williams, Andersen and Murray",Wallet,North Connie,1
+1664,2024-06-05 10:58:20.799116,127.13,Shopping,Clothing,"Weber, Reyes and Smith",Cash,Port Nathan,5
+1665,2025-05-07 09:46:23.868489,64.33,Entertainment,Concerts,"Clark, Graves and Esparza",Credit Card,North Danieltown,5
+1666,2024-06-30 03:19:19.791558,874.96,Food,Restaurants,"Byrd, Larson and Mills",Wallet,Christophershire,5
+1667,2024-09-06 09:27:00.500948,576.8,Entertainment,Movies,Walls LLC,Debit Card,East Christopher,2
+1668,2025-04-18 09:41:57.850837,860.41,Utilities,Water,"Payne, Hancock and Gonzalez",Wallet,Donaldshire,4
+1669,2025-03-08 00:18:25.554792,45.4,Health,Insurance,Watson Inc,Credit Card,West Michael,2
+1670,2025-02-08 00:34:54.825857,958.98,Utilities,Water,Carter and Sons,Credit Card,North Manuelbury,4
+1671,2024-10-17 20:58:52.578610,799.42,Entertainment,Games,"Harris, Potter and Daniels",Credit Card,New Garybury,3
+1672,2024-08-31 00:46:15.770835,94.17,Entertainment,Movies,Lewis-Pierce,Debit Card,Carterbury,4
+1673,2024-10-15 17:47:15.431772,986.43,Entertainment,Concerts,Butler and Sons,Credit Card,Fullerport,3
+1674,2024-08-28 16:06:33.213129,312.05,Food,Fast Food,Cochran-Adams,UPI,Joshualand,3
+1675,2025-04-12 02:19:00.722035,842.02,Food,Restaurants,Williams-Hinton,UPI,South Nathanside,3
+1676,2025-05-17 17:56:20.301210,757.43,Health,Insurance,"Davis, Davis and Quinn",Wallet,Port Stephanieside,4
+1677,2024-12-15 02:43:10.064709,646.75,Food,Groceries,"Jenkins, Bush and Holloway",UPI,West Melissaside,1
+1678,2025-02-07 20:40:22.744226,244.42,Shopping,Electronics,Murray-Navarro,UPI,Terryland,5
+1679,2024-10-20 04:20:54.046535,913.98,Shopping,Clothing,Smith Group,UPI,Michaelchester,5
+1680,2024-10-12 06:52:36.308722,746.49,Food,Fast Food,"Franklin, Munoz and Phillips",Cash,Gloverhaven,2
+1681,2024-11-26 07:15:00.795803,995.36,Utilities,Water,Smith Inc,Debit Card,Clarketown,5
+1682,2024-07-23 01:06:37.544878,921.86,Utilities,Internet,Livingston-Baker,UPI,Port Katherine,4
+1683,2025-02-21 06:58:17.602650,916.32,Entertainment,Movies,Duncan Group,Credit Card,Langbury,1
+1684,2025-02-14 22:09:08.027173,488.57,Shopping,Home Goods,Norton Group,UPI,Georgechester,5
+1685,2025-01-16 04:27:02.609601,372.77,Transport,Fuel,Jimenez PLC,Wallet,Garyville,2
+1686,2024-12-20 01:59:49.602260,664.41,Utilities,Electricity,Davis-Burton,Wallet,Carrollmouth,5
+1687,2024-06-25 19:27:00.042729,947.8,Entertainment,Concerts,Henson PLC,UPI,Port Steventon,5
+1688,2024-06-16 08:40:01.220361,470.42,Food,Groceries,Diaz and Sons,Debit Card,Lake Tylerfurt,1
+1689,2025-02-17 09:01:36.750474,699.73,Entertainment,Games,Black-Jenkins,Cash,New Oscar,4
+1690,2024-05-30 12:55:26.612364,861.18,Shopping,Home Goods,"Richardson, Davis and Vega",UPI,New Brian,1
+1691,2024-10-03 04:09:52.125733,669.69,Health,Clinic,"Todd, Braun and Pierce",Debit Card,Andrewmouth,4
+1692,2024-10-17 15:39:19.911260,557.43,Utilities,Water,"White, Sims and Love",Credit Card,Stephenfurt,3
+1693,2025-02-16 17:41:49.461428,480.36,Transport,Bus,Hopkins LLC,Cash,West Mathewfort,5
+1694,2024-11-11 14:39:00.169893,137.48,Entertainment,Games,"Price, Jenkins and Lopez",Wallet,West Courtney,2
+1695,2024-12-09 11:50:56.047146,286.08,Health,Clinic,Barber Group,UPI,North Tinaland,2
+1696,2024-08-11 13:30:06.117964,681.89,Transport,Train,"Casey, Mathis and King",UPI,North Jill,5
+1697,2024-06-06 17:12:28.023334,851.16,Transport,Train,Hernandez-Miller,Wallet,Port Maryfort,5
+1698,2024-08-01 23:13:39.738047,990.71,Entertainment,Games,Perez-Archer,Credit Card,New Rebeccaport,3
+1699,2024-05-27 17:07:22.904341,718.13,Health,Clinic,"Ward, Avila and Buck",Debit Card,East Kevin,2
+1700,2024-09-24 16:26:14.344622,201.16,Utilities,Internet,Page-Meyer,Wallet,New Markbury,4
+1701,2024-11-07 01:52:16.083509,271.01,Entertainment,Games,Castaneda PLC,Credit Card,Haynesland,1
+1702,2025-01-05 15:21:21.708335,215.36,Entertainment,Concerts,Walker LLC,UPI,North Johnathan,3
+1703,2024-10-19 14:15:14.899863,943.23,Utilities,Internet,"Wang, Mcguire and Jimenez",Cash,Lovetown,5
+1704,2025-02-12 22:51:53.653701,90.77,Transport,Fuel,Pacheco Inc,Debit Card,North Cassidyport,2
+1705,2024-10-15 22:10:25.020693,815.61,Utilities,Water,"Moore, Fischer and Howard",UPI,East Dannyfurt,4
+1706,2024-09-24 09:29:55.813261,777.3,Health,Clinic,Baker Inc,Wallet,South Nathan,2
+1707,2024-08-10 22:36:44.087958,348.38,Utilities,Water,"Phillips, Ellis and Webb",Debit Card,North Troy,4
+1708,2024-07-18 09:21:01.599342,817.58,Utilities,Water,Shepherd Inc,Credit Card,Chandlerfort,4
+1709,2024-09-18 15:43:22.408393,645.63,Health,Pharmacy,"Trujillo, Snyder and Tucker",Cash,East Andrew,4
+1710,2024-08-07 04:11:00.059490,569.25,Transport,Fuel,Hernandez PLC,UPI,Guzmanport,4
+1711,2024-12-27 05:11:10.814577,901.94,Utilities,Water,Kirby-Galloway,Debit Card,Jonathantown,2
+1712,2025-01-21 17:58:28.808452,73.29,Shopping,Electronics,King PLC,Cash,South Jasonton,5
+1713,2024-12-01 23:16:25.725438,297.63,Shopping,Electronics,Douglas-Jones,Credit Card,North Lori,3
+1714,2024-07-14 13:07:05.670078,81.71,Food,Fast Food,Tucker-Duncan,Debit Card,Lake Lucas,1
+1715,2024-05-24 10:40:34.275694,401.19,Transport,Bus,Martin-Campbell,Debit Card,Franklinfurt,2
+1716,2024-12-19 19:30:49.963554,772.73,Utilities,Electricity,Bell Ltd,UPI,New Jamesberg,3
+1717,2024-08-06 15:27:26.048737,729.63,Entertainment,Movies,Cabrera-Calderon,UPI,South Travis,5
+1718,2024-07-04 16:37:42.254042,381.66,Food,Groceries,"Swanson, Morgan and Rojas",Cash,Port Savannahberg,5
+1719,2024-09-09 17:12:55.711468,738.88,Health,Clinic,Randolph Group,UPI,Richardfurt,5
+1720,2025-02-05 09:46:04.608076,22.6,Shopping,Clothing,Hoffman-Maldonado,Cash,Danielsbury,1
+1721,2024-10-07 16:46:37.760616,617.01,Entertainment,Concerts,Gray-Alvarado,UPI,North Ashley,5
+1722,2025-02-26 05:12:44.177287,108.38,Transport,Fuel,Mason and Sons,UPI,Crossbury,1
+1723,2025-05-03 06:07:54.619896,823.35,Transport,Train,Quinn-Smith,Wallet,East Russell,5
+1724,2024-11-28 11:43:58.534732,471.07,Entertainment,Movies,"Carson, Allen and Spears",UPI,Laurenport,1
+1725,2024-06-15 22:22:35.336159,622.91,Food,Groceries,Webster-Hobbs,UPI,Brewerburgh,2
+1726,2024-07-20 19:12:57.227518,176.59,Shopping,Electronics,Hernandez LLC,Debit Card,East Sarah,3
+1727,2024-06-15 17:44:28.726919,214.63,Entertainment,Concerts,Phillips-Williams,Credit Card,Lake Tylershire,1
+1728,2025-02-24 09:22:02.425121,903.73,Food,Fast Food,Harris and Sons,Cash,Lake Jasonville,3
+1729,2024-07-07 05:48:02.923084,762.09,Utilities,Internet,"Davis, Morrison and Conner",Debit Card,Waltersville,3
+1730,2025-05-14 20:04:10.692122,127.58,Utilities,Internet,Dixon PLC,UPI,Rachelborough,4
+1731,2024-12-02 22:25:32.597308,712.44,Health,Clinic,Ramsey PLC,UPI,Wrightstad,3
+1732,2024-06-10 05:14:11.409954,880.53,Health,Clinic,"Parker, Hill and Tyler",Debit Card,Andrewbury,3
+1733,2024-07-09 17:41:23.533036,75.28,Utilities,Electricity,"Moore, Roy and Dickerson",Wallet,West Markchester,4
+1734,2024-07-13 14:52:42.713454,173.86,Shopping,Electronics,Liu-Woods,Debit Card,Wellsshire,2
+1735,2024-12-25 21:40:07.925194,311.06,Utilities,Internet,"Wilson, Campos and Evans",Cash,Port Allenchester,3
+1736,2024-11-20 14:25:55.765007,557.42,Health,Clinic,Davis Group,Credit Card,West Waynefort,3
+1737,2024-10-17 08:14:52.300012,656.33,Transport,Fuel,Hale-Calhoun,Credit Card,North Patrick,5
+1738,2024-08-12 09:23:14.421914,954.31,Food,Restaurants,Johnson and Sons,Credit Card,Benjaminland,3
+1739,2024-11-29 13:05:14.390445,444.3,Utilities,Electricity,Fry-Logan,Debit Card,Port Christopherborough,3
+1740,2025-05-10 14:09:31.058108,696.05,Food,Restaurants,Curtis LLC,Credit Card,Ruthshire,1
+1741,2024-08-13 21:30:10.068129,921.62,Entertainment,Concerts,Duncan PLC,Cash,Micheleberg,1
+1742,2025-01-08 13:26:45.631591,782.77,Food,Restaurants,Mccarthy-Taylor,UPI,East Scottberg,5
+1743,2025-05-16 14:20:09.626980,232.48,Food,Fast Food,Malone-Miller,Wallet,Matthewsmouth,1
+1744,2024-10-18 11:37:51.348584,192.6,Entertainment,Concerts,Eaton-Young,Cash,West Brucehaven,4
+1745,2024-07-19 16:07:51.684230,941.68,Entertainment,Movies,Bailey LLC,Debit Card,Port Samanthafort,4
+1746,2024-10-24 23:26:42.469546,727.52,Utilities,Water,Harrington LLC,Credit Card,Nealside,1
+1747,2024-10-20 07:22:06.659706,382.89,Entertainment,Games,York Inc,Wallet,South Tara,1
+1748,2025-05-04 12:18:13.372700,694.87,Utilities,Water,Marshall-Garza,Credit Card,Andradeport,3
+1749,2024-11-17 06:53:43.488958,693.46,Shopping,Home Goods,Wright Group,Cash,North Morgan,1
+1750,2025-01-08 03:43:51.087732,171.05,Shopping,Home Goods,"Henry, Smith and Greene",Cash,Danielsville,3
+1751,2024-06-30 15:03:42.861017,623.51,Entertainment,Concerts,Ford PLC,UPI,Shannontown,1
+1752,2024-12-23 07:47:08.860779,987.75,Entertainment,Games,Lester Ltd,Credit Card,East Tiffany,5
+1753,2024-11-16 03:42:07.635031,196.08,Food,Restaurants,Shaffer-Dennis,Cash,Coletown,5
+1754,2025-02-01 08:13:35.527650,83.61,Food,Restaurants,Singh-Miller,Credit Card,Port Alicia,3
+1755,2024-08-30 10:37:38.825235,342.56,Shopping,Home Goods,"Sanders, Wood and David",Wallet,West Samuelfurt,5
+1756,2025-05-02 01:33:10.253680,318.39,Food,Groceries,"Crosby, Mathis and Morrison",UPI,Jeremychester,5
+1757,2025-01-21 21:03:33.359030,618.63,Utilities,Electricity,Patterson-Singh,UPI,Ericborough,2
+1758,2025-05-14 08:54:05.536756,801.02,Health,Pharmacy,"Williams, Little and Fisher",Debit Card,Lake Jamesstad,5
+1759,2024-08-16 13:55:33.270778,243.99,Transport,Bus,"Walls, Blair and Banks",Credit Card,Port Tara,5
+1760,2025-04-26 02:13:57.277673,276.63,Health,Insurance,Miller-Williams,Cash,New Ryanchester,3
+1761,2025-02-20 17:46:29.188032,667.66,Entertainment,Concerts,Brown-Rogers,Credit Card,Hillchester,4
+1762,2024-10-25 23:53:07.436988,211.82,Food,Restaurants,"Lee, Gray and Aguilar",Debit Card,West Mason,3
+1763,2025-04-27 02:08:37.499918,185.86,Shopping,Home Goods,Fleming-Adams,Wallet,Paulside,2
+1764,2024-06-29 13:36:15.597533,68.13,Shopping,Home Goods,"Cooper, Bryant and Sexton",Credit Card,Johnsonville,3
+1765,2024-10-03 21:51:08.951976,363.29,Utilities,Water,Curtis LLC,Credit Card,Reynoldstown,2
+1766,2024-06-09 02:56:36.757205,221.29,Shopping,Clothing,"Brandt, Stanley and Smith",Debit Card,Lesliemouth,5
+1767,2024-10-19 12:09:05.619793,697.82,Transport,Bus,Gordon Group,Wallet,West Kimbury,1
+1768,2025-03-02 10:31:24.804840,173.9,Utilities,Internet,"Wilson, Ware and Phillips",Credit Card,North Bradleyton,2
+1769,2024-07-30 23:30:58.531539,109.8,Entertainment,Movies,"Lee, Reid and Cannon",Wallet,North Kimberlyburgh,5
+1770,2024-12-16 17:03:29.851297,279.0,Shopping,Clothing,Miller-Osborne,Cash,Amberton,1
+1771,2024-12-06 00:16:53.575249,992.91,Shopping,Clothing,Hurst-Evans,Debit Card,Port Samuelmouth,2
+1772,2024-07-22 03:27:29.741963,923.28,Transport,Train,Morrow-Hubbard,Debit Card,South Jamie,5
+1773,2025-03-22 13:52:48.420701,29.13,Food,Groceries,"Mccormick, Ward and Faulkner",Wallet,Williefort,1
+1774,2024-08-19 11:48:50.850622,754.09,Entertainment,Concerts,Navarro Group,Debit Card,New Jamieberg,2
+1775,2025-01-30 19:39:46.411656,37.37,Shopping,Electronics,"Baker, Newton and Howard",Wallet,Stevenland,5
+1776,2025-01-21 17:04:18.355360,870.0,Health,Clinic,"Jensen, Pugh and Valencia",Credit Card,Adamhaven,4
+1777,2025-05-05 21:39:52.663692,174.43,Transport,Train,Webb Inc,Credit Card,Lake Michael,3
+1778,2025-04-07 20:55:27.195038,165.06,Utilities,Internet,Harvey-Tucker,Wallet,West Christineton,3
+1779,2024-06-19 11:30:49.055640,65.88,Utilities,Water,"Wagner, Yates and Garcia",Debit Card,Vegashire,2
+1780,2025-03-07 02:34:31.805496,45.84,Utilities,Water,Rhodes LLC,Debit Card,Scottport,2
+1781,2024-06-12 02:49:16.250587,828.93,Food,Fast Food,Hurley-Floyd,UPI,Diazville,4
+1782,2024-05-23 02:59:50.690278,93.22,Food,Groceries,Williamson-Duncan,UPI,New Michaelborough,3
+1783,2024-08-23 15:09:16.330137,266.82,Transport,Train,Munoz Group,UPI,Kimberlyview,4
+1784,2025-04-30 18:45:33.189804,225.75,Entertainment,Movies,Carpenter Group,UPI,Floresside,2
+1785,2024-11-30 20:47:27.535209,127.99,Health,Clinic,Romero-Melton,Wallet,Port Gregory,1
+1786,2024-06-09 18:04:29.653927,785.68,Utilities,Water,Kennedy Inc,Credit Card,Hebertchester,1
+1787,2025-01-31 01:07:48.737371,221.72,Shopping,Electronics,"Shea, Jackson and Miller",Debit Card,West Jill,1
+1788,2025-05-03 12:33:16.583251,334.45,Entertainment,Games,Alvarado LLC,Credit Card,New Erikfurt,5
+1789,2024-08-18 03:18:58.504699,450.4,Shopping,Electronics,Montgomery PLC,Wallet,Kennethland,5
+1790,2024-07-07 07:17:50.749007,716.0,Utilities,Water,"Fry, Horton and Morris",UPI,Aaronborough,1
+1791,2024-08-15 08:19:49.334395,167.77,Food,Groceries,Flores PLC,Wallet,Lake Kristystad,5
+1792,2025-03-20 09:59:00.205532,339.48,Health,Clinic,Holmes Ltd,Debit Card,North Hector,2
+1793,2024-08-31 18:05:02.096877,225.16,Entertainment,Concerts,Austin Group,Credit Card,Lisachester,1
+1794,2024-08-30 16:48:48.535580,66.14,Food,Groceries,Smith Group,Wallet,South Charles,2
+1795,2024-08-20 02:00:17.722644,16.88,Shopping,Home Goods,Vasquez-Goodwin,UPI,Warrenborough,3
+1796,2024-11-03 10:46:23.737581,501.91,Utilities,Internet,"Malone, Paul and Castillo",Debit Card,Garrettmouth,2
+1797,2024-05-21 11:14:15.539130,531.32,Transport,Train,"Bean, Ward and Wells",Debit Card,South Juanmouth,1
+1798,2025-04-05 06:35:33.279919,503.3,Shopping,Home Goods,Vega-Barnett,UPI,Jenniferbury,5
+1799,2025-04-21 02:10:58.961825,30.83,Shopping,Electronics,"Holmes, Cooper and Lopez",Credit Card,Richardside,5
+1800,2025-04-26 23:21:13.458530,800.83,Shopping,Clothing,"Whitehead, Benson and Duncan",Wallet,South Michealton,5
+1801,2024-09-22 07:34:06.105697,60.7,Utilities,Internet,Bradshaw and Sons,Cash,Stevenchester,2
+1802,2024-10-30 00:57:04.799371,582.29,Food,Groceries,Williams-Carson,Cash,Hamiltonshire,2
+1803,2025-02-21 01:09:40.364659,689.21,Health,Insurance,Smith and Sons,Wallet,Lake Brian,4
+1804,2025-01-19 00:59:42.332964,196.29,Utilities,Electricity,"Clark, Rivera and Clayton",Credit Card,East Jeremiah,1
+1805,2024-08-07 06:48:57.057873,903.95,Health,Pharmacy,Mccall-Cole,Cash,Anthonyport,2
+1806,2025-02-09 21:34:53.773084,482.83,Transport,Fuel,Haley Group,UPI,North Aarontown,4
+1807,2024-10-15 15:14:04.399480,961.2,Transport,Train,Patrick-Pierce,Credit Card,Knappshire,5
+1808,2025-02-28 02:38:38.238958,309.38,Shopping,Electronics,Rice-Thomas,Debit Card,Martinport,4
+1809,2025-04-18 18:57:08.473707,256.23,Utilities,Water,"Cole, Rivers and Brooks",Credit Card,New Allen,5
+1810,2024-06-01 12:29:19.628186,490.73,Shopping,Clothing,Miller PLC,UPI,South Brendaborough,3
+1811,2024-08-01 09:27:08.044719,520.06,Health,Pharmacy,Smith-Bishop,Credit Card,Robertfort,3
+1812,2024-12-27 16:02:35.140551,374.09,Health,Pharmacy,Mejia-Sloan,Cash,Lake Melissa,2
+1813,2024-08-06 11:16:43.337485,412.73,Utilities,Water,"Chen, Craig and Castillo",Wallet,North Christinemouth,1
+1814,2025-03-01 22:57:55.650946,164.58,Health,Pharmacy,"Nguyen, Neal and Ross",Cash,North Carlhaven,5
+1815,2025-05-12 03:07:34.806621,741.58,Transport,Fuel,Davis-Fleming,Cash,Philipview,4
+1816,2025-05-05 09:38:26.937202,553.11,Shopping,Clothing,"Campbell, Williams and Turner",Credit Card,Brendafort,5
+1817,2025-02-07 05:38:36.145344,51.53,Entertainment,Concerts,"Richards, Martinez and Nelson",UPI,South Keithmouth,3
+1818,2024-11-23 21:04:10.738110,340.37,Food,Fast Food,Wright-Silva,Credit Card,New Jose,5
+1819,2025-02-09 22:54:26.449285,102.89,Health,Pharmacy,"Ferguson, Sparks and Wilson",Wallet,Calebhaven,5
+1820,2025-02-17 19:13:50.064403,404.22,Transport,Bus,"Williams, Davis and Sullivan",Credit Card,Lake Nicholastown,1
+1821,2024-10-15 06:54:31.356746,336.02,Entertainment,Concerts,"Ford, Brown and Reyes",Wallet,New Nicholasshire,5
+1822,2024-12-10 06:17:32.936403,220.29,Utilities,Electricity,Ward-Vasquez,Debit Card,New Christinechester,2
+1823,2024-10-08 17:10:45.930115,414.08,Utilities,Electricity,Garcia Group,Cash,Mariemouth,3
+1824,2024-10-14 15:22:05.747596,962.25,Health,Clinic,"Blackwell, White and Mullins",Debit Card,Hillchester,3
+1825,2024-12-08 01:53:58.754405,901.71,Utilities,Internet,Lester Ltd,Debit Card,Ericaland,3
+1826,2024-09-28 19:34:07.477714,750.32,Health,Clinic,Moon LLC,Debit Card,Sandramouth,3
+1827,2024-09-22 08:57:24.876136,720.19,Shopping,Home Goods,Ellison-Richards,Debit Card,West Rhondaton,4
+1828,2024-06-10 12:13:43.054471,7.88,Entertainment,Movies,Miller-Harris,Credit Card,Port Davidville,1
+1829,2025-01-04 12:08:46.826521,772.9,Entertainment,Concerts,Griffin Ltd,Wallet,Carlborough,3
+1830,2025-01-07 15:32:41.609215,959.59,Entertainment,Games,Martinez Inc,Debit Card,Sarahaven,5
+1831,2024-12-10 11:35:06.547812,832.24,Transport,Uber,"Wilson, Salazar and Anderson",Credit Card,Ianland,3
+1832,2024-08-07 00:24:56.460882,443.07,Food,Restaurants,"Alvarado, Johnson and Sanchez",UPI,Port Angela,3
+1833,2025-02-02 01:38:21.694883,952.75,Shopping,Home Goods,"Morris, Rivera and Austin",Wallet,Edwardchester,3
+1834,2025-01-27 02:50:59.702937,380.57,Shopping,Clothing,Johnson LLC,UPI,West Allen,1
+1835,2024-07-22 05:39:48.880774,736.25,Shopping,Clothing,Harmon Inc,UPI,Brandonbury,2
+1836,2025-04-08 01:56:49.495719,438.72,Transport,Bus,Huynh Ltd,Debit Card,Erictown,1
+1837,2024-06-29 09:29:03.491488,531.52,Entertainment,Concerts,Hebert-Sullivan,Wallet,Coreymouth,2
+1838,2024-10-24 10:32:51.330694,50.98,Shopping,Electronics,Martin Group,Credit Card,Donnaside,2
+1839,2025-02-03 00:49:09.111685,119.37,Utilities,Internet,"Mccullough, Anderson and Guzman",Credit Card,North Jessica,4
+1840,2024-05-25 02:06:24.970448,979.05,Utilities,Water,"Skinner, Pugh and Johnston",Debit Card,Williamton,5
+1841,2024-08-22 22:48:42.341375,532.28,Shopping,Electronics,Duke-Chase,Credit Card,Carlatown,1
+1842,2025-03-31 09:19:44.160891,810.32,Entertainment,Movies,"Pena, Foster and Ward",UPI,Kinghaven,1
+1843,2025-04-23 23:38:24.463844,426.93,Entertainment,Games,"Juarez, Ford and Williams",Cash,Hebertborough,3
+1844,2024-06-03 23:42:53.749477,937.64,Food,Fast Food,Arias-Clarke,Wallet,Robertview,2
+1845,2024-08-20 08:45:34.551649,997.27,Entertainment,Movies,Harper Inc,Credit Card,Lake Brookeborough,1
+1846,2024-06-28 03:09:35.967648,415.5,Shopping,Electronics,Mitchell-Wade,Cash,Sototon,2
+1847,2025-05-12 23:27:44.269809,458.6,Utilities,Internet,Chen PLC,Debit Card,Elizabethhaven,4
+1848,2025-01-30 10:20:45.992217,739.29,Transport,Fuel,Nunez Group,UPI,Port Brian,1
+1849,2024-12-07 03:34:41.220938,798.69,Food,Restaurants,"Ruiz, Rosario and Scott",Wallet,Cassieburgh,2
+1850,2024-06-18 01:00:55.943973,136.51,Shopping,Home Goods,Mills Ltd,UPI,Jasonfurt,2
+1851,2025-01-15 01:48:03.070903,571.35,Food,Restaurants,"Armstrong, Morris and Tran",Wallet,North Stevenborough,4
+1852,2024-06-09 01:20:58.366188,296.6,Entertainment,Movies,Thomas-Robinson,Wallet,Williamston,3
+1853,2024-10-03 09:55:43.624166,684.98,Transport,Bus,Sanchez Group,Cash,New Sheenaport,4
+1854,2024-10-16 22:50:10.889033,326.59,Utilities,Water,"Williams, Watson and Long",UPI,Lake Gabriel,3
+1855,2024-10-23 02:27:09.933249,728.27,Entertainment,Concerts,Braun Inc,Credit Card,Sherryport,1
+1856,2025-02-09 15:34:49.452427,660.24,Shopping,Clothing,"Key, Blair and Hernandez",Credit Card,South Jimmyburgh,2
+1857,2025-03-31 17:08:28.779308,347.41,Entertainment,Movies,Johnson-Hahn,UPI,West Brianton,1
+1858,2025-04-09 16:28:34.433858,756.63,Utilities,Internet,Williams-Schwartz,Credit Card,Patrickbury,4
+1859,2025-01-20 08:34:51.307388,465.15,Health,Clinic,"Villa, Barnes and Alexander",Cash,Scottstad,2
+1860,2024-12-15 13:54:12.061997,964.12,Utilities,Water,Hall-Johnson,Cash,South Thomasfurt,3
+1861,2025-04-24 00:24:15.810694,100.27,Entertainment,Concerts,Morrow PLC,Debit Card,Benjaminshire,3
+1862,2024-09-19 18:26:43.481625,713.86,Transport,Fuel,"Ramirez, Terry and Edwards",Wallet,East Tyler,2
+1863,2024-09-26 00:14:57.601228,137.02,Entertainment,Concerts,"Silva, Carney and Perez",UPI,South Danielle,3
+1864,2025-01-26 17:45:09.292159,322.75,Health,Insurance,Stanley LLC,UPI,Salazarfort,3
+1865,2024-11-11 07:11:00.327584,584.69,Transport,Uber,"Sherman, Woods and Jackson",Cash,Port Courtneybury,5
+1866,2025-04-05 19:24:42.201982,156.96,Entertainment,Movies,"Le, Murray and Morales",UPI,Fitzgeraldside,2
+1867,2025-04-04 08:13:00.812670,761.46,Transport,Uber,"Guerrero, Chang and Long",Cash,Port Javier,1
+1868,2024-12-07 00:23:19.759930,507.3,Food,Groceries,"Arellano, Nelson and Bentley",Debit Card,South William,4
+1869,2025-04-18 21:07:17.550000,552.09,Transport,Train,Walker-Henderson,Credit Card,Hicksberg,1
+1870,2024-10-17 10:08:54.869116,940.98,Entertainment,Games,Simmons PLC,Wallet,North Tracy,3
+1871,2024-07-21 06:16:32.081192,507.66,Utilities,Water,"Cardenas, Wolf and Evans",Credit Card,North Chad,4
+1872,2024-10-10 01:32:23.355407,563.23,Health,Clinic,"Valencia, Diaz and Skinner",Debit Card,Port Briannastad,5
+1873,2024-08-29 07:21:50.491017,505.05,Entertainment,Movies,Carter-Lewis,Debit Card,South Daniel,4
+1874,2024-08-30 00:20:15.145985,509.83,Health,Pharmacy,Cunningham-Townsend,Debit Card,Ernestbury,5
+1875,2024-08-22 12:10:17.142019,656.13,Utilities,Water,Williamson Ltd,Credit Card,New Kenneth,2
+1876,2024-11-07 18:59:08.376390,931.38,Food,Groceries,"Beard, Johnson and Soto",Cash,South Nicoleberg,1
+1877,2025-05-02 01:39:25.511117,188.8,Entertainment,Concerts,Martin LLC,UPI,Hammondfurt,3
+1878,2024-08-18 16:47:53.871774,793.89,Utilities,Water,"Larson, Cabrera and Adams",UPI,East Jon,1
+1879,2024-10-20 22:49:01.002705,649.4,Food,Groceries,Montgomery-Black,UPI,West Jennifer,2
+1880,2025-01-11 18:56:08.991968,955.92,Transport,Train,"Jones, Edwards and Smith",Debit Card,Katherinechester,4
+1881,2024-12-18 22:35:27.382130,649.6,Utilities,Electricity,Cooper-Miller,Debit Card,South Erinberg,1
+1882,2025-01-07 21:17:18.669061,149.6,Food,Groceries,"Harmon, Martin and Brown",UPI,Erikafurt,4
+1883,2024-11-18 02:54:36.309733,777.42,Health,Insurance,Harmon-Moore,Cash,New Kennethberg,4
+1884,2024-11-29 20:50:47.869407,7.77,Transport,Train,Perkins-Foster,Debit Card,Westshire,4
+1885,2024-07-16 01:12:00.314339,205.63,Transport,Fuel,Brown Ltd,Wallet,Jameshaven,3
+1886,2025-01-01 02:18:12.784090,347.5,Transport,Train,"Knox, Love and Day",UPI,Johnsonmouth,3
+1887,2025-03-30 14:25:30.184316,661.06,Transport,Fuel,Nelson PLC,UPI,West Theresa,4
+1888,2025-02-18 18:37:26.579883,26.64,Utilities,Electricity,"Thompson, Hicks and Mccarthy",Debit Card,Holtchester,5
+1889,2024-11-10 08:03:25.313404,386.95,Transport,Train,Smith PLC,Debit Card,West Lorraine,4
+1890,2025-02-28 15:50:17.801875,979.44,Utilities,Internet,Smith Inc,Credit Card,Nicholasfort,4
+1891,2024-08-08 15:08:57.400230,649.09,Transport,Bus,Mitchell Group,Cash,Michelleberg,1
+1892,2024-07-19 12:06:53.189351,681.39,Health,Insurance,Rubio LLC,Credit Card,New Kevinfort,4
+1893,2025-04-19 13:04:33.770358,159.82,Health,Clinic,"Mckenzie, Ferrell and Robinson",Wallet,Stephanieburgh,4
+1894,2024-11-29 09:53:37.918327,679.99,Utilities,Internet,"Guerrero, Wood and Moreno",Cash,Lake Marisaside,2
+1895,2024-05-24 06:47:23.630804,116.03,Entertainment,Concerts,"Wright, Blankenship and Stark",Credit Card,Mahoneymouth,4
+1896,2025-04-10 05:36:53.119151,220.34,Health,Clinic,Freeman PLC,Wallet,West Stephanieberg,5
+1897,2024-07-23 10:04:37.318371,56.32,Entertainment,Games,Diaz and Sons,Wallet,Lake Mary,4
+1898,2025-02-25 08:11:21.492908,394.44,Transport,Bus,Schaefer-Leon,Wallet,Calhounberg,3
+1899,2025-04-01 23:41:30.188530,436.21,Entertainment,Concerts,Quinn-Escobar,Credit Card,Smithville,3
+1900,2024-05-21 09:45:04.191930,176.39,Health,Pharmacy,"Sullivan, Christensen and Miller",Wallet,Julieport,1
+1901,2024-06-08 22:58:28.502753,954.43,Food,Groceries,Hays and Sons,Credit Card,Davidchester,2
+1902,2024-09-12 15:23:11.066037,50.67,Health,Clinic,Miller-Ortega,Credit Card,West Judith,1
+1903,2025-01-08 09:42:21.553529,333.14,Entertainment,Games,"Harris, Rosales and Johnson",Debit Card,West Christinashire,5
+1904,2024-08-07 08:34:42.577511,806.02,Utilities,Water,Clark-Obrien,Credit Card,Ashleyberg,5
+1905,2024-05-26 00:04:03.823267,31.13,Shopping,Home Goods,Harris-Garza,Cash,Lake Dannyport,5
+1906,2025-02-24 07:06:58.194448,805.28,Transport,Fuel,Davis LLC,UPI,North Daniel,4
+1907,2024-06-25 04:13:48.724247,126.25,Utilities,Internet,Benson-Craig,Debit Card,Port Tracyfurt,5
+1908,2024-11-14 08:50:52.953150,852.96,Utilities,Internet,Barnes-Watson,Credit Card,Port Paula,3
+1909,2024-08-17 13:44:59.881105,321.96,Transport,Fuel,"Tanner, Robinson and Snyder",Wallet,Williamborough,1
+1910,2025-03-09 17:08:56.017592,687.81,Transport,Train,"Smith, Jackson and Nichols",UPI,South Alexistown,4
+1911,2025-03-24 21:41:11.446476,313.9,Health,Insurance,Ellis Group,Cash,Trevorton,1
+1912,2025-04-28 08:35:33.921590,397.71,Health,Clinic,"Lucas, Evans and Nunez",UPI,Karlbury,4
+1913,2024-07-01 04:38:29.864623,681.99,Food,Fast Food,"Russell, Jenkins and Garcia",Wallet,Ortizborough,5
+1914,2025-02-22 03:18:41.613978,239.75,Food,Restaurants,Salazar PLC,UPI,North Kathleen,3
+1915,2025-03-28 02:53:36.987660,960.21,Food,Groceries,Drake-Flores,Credit Card,Danielland,1
+1916,2024-06-26 11:54:29.083436,12.74,Transport,Uber,Barrett LLC,Credit Card,South Chelseyborough,4
+1917,2024-08-18 06:11:27.724174,469.85,Health,Pharmacy,Cuevas Ltd,UPI,Reevesshire,5
+1918,2024-10-06 00:58:29.067589,694.57,Health,Clinic,Perez LLC,Cash,Matthewberg,1
+1919,2025-05-16 20:22:51.433015,572.12,Food,Restaurants,Hill PLC,UPI,Diazmouth,3
+1920,2025-04-02 20:08:26.411153,249.95,Shopping,Clothing,Mills-Williams,Credit Card,Port Steven,1
+1921,2025-05-08 17:35:52.165233,528.59,Utilities,Electricity,Miller-Griffith,Wallet,Jeffreyborough,5
+1922,2024-11-19 03:47:15.524596,126.45,Shopping,Electronics,Cook-Jordan,Debit Card,New Carolynfurt,2
+1923,2024-12-15 00:09:55.822774,559.12,Health,Pharmacy,"Merritt, Meyer and Solomon",Debit Card,Jamesport,5
+1924,2024-08-15 01:42:49.344947,910.71,Utilities,Electricity,Lewis-Jones,UPI,Matthewfurt,3
+1925,2025-02-05 07:49:35.917158,994.11,Transport,Train,Nelson-Medina,Credit Card,Allenbury,1
+1926,2024-07-24 01:33:37.975052,953.96,Transport,Uber,Miles-Castaneda,Cash,Port Peter,2
+1927,2025-01-24 19:40:22.808039,560.59,Health,Clinic,Sullivan-Farrell,UPI,Hernandezport,4
+1928,2024-12-08 11:57:34.673907,437.94,Health,Pharmacy,Hernandez PLC,Debit Card,South Paul,5
+1929,2025-01-20 17:14:25.449227,994.2,Shopping,Electronics,Campbell-Mckinney,UPI,East Michelle,2
+1930,2025-03-31 20:53:40.631881,170.65,Health,Clinic,Collins-Morris,Cash,Smithmouth,1
+1931,2024-10-01 09:25:27.225650,268.29,Food,Restaurants,"Fischer, Nunez and Forbes",Credit Card,South Sydney,4
+1932,2024-12-09 02:28:03.563859,159.06,Food,Restaurants,Williams-Lawrence,Cash,Port William,2
+1933,2025-03-07 10:38:06.446118,612.45,Shopping,Home Goods,Smith-Holt,Credit Card,Pruittshire,3
+1934,2024-08-20 04:05:57.704002,208.24,Utilities,Water,Arroyo LLC,Cash,North Jessicabury,2
+1935,2024-06-27 17:43:59.934236,755.05,Utilities,Electricity,Murray Group,Credit Card,North Rebecca,5
+1936,2024-07-18 00:04:25.726502,705.78,Entertainment,Concerts,Wolf PLC,UPI,New Alyssa,3
+1937,2024-11-13 10:35:09.370861,133.27,Health,Insurance,Miller and Sons,Wallet,Paigemouth,4
+1938,2024-12-07 20:42:55.555526,938.01,Entertainment,Concerts,Greene-Turner,Debit Card,Rachelborough,3
+1939,2024-08-20 04:46:13.512664,195.49,Food,Restaurants,"Butler, Todd and Miller",Credit Card,South Adamview,5
+1940,2024-06-14 02:52:33.827961,826.81,Transport,Fuel,"Chavez, Montgomery and Hill",Wallet,Laneland,5
+1941,2025-01-19 21:05:09.250532,495.18,Shopping,Clothing,Peterson PLC,Wallet,West Jennifer,5
+1942,2025-01-13 23:54:18.361364,114.97,Food,Fast Food,Bennett-Larsen,UPI,Gonzalesland,5
+1943,2025-03-12 07:12:25.888105,696.34,Entertainment,Concerts,Patrick and Sons,UPI,Waltonfurt,3
+1944,2024-07-13 05:24:52.858231,672.87,Shopping,Home Goods,"Williams, Spence and Morgan",Credit Card,West Robert,3
+1945,2024-09-24 17:54:39.588599,579.7,Health,Pharmacy,Anderson-Wood,Cash,West Tony,3
+1946,2025-04-29 07:56:24.144172,898.22,Shopping,Electronics,Guzman Ltd,Debit Card,New Scottland,4
+1947,2024-11-10 12:22:09.247261,509.29,Transport,Train,Garcia-Smith,UPI,Port Donald,5
+1948,2025-05-19 03:52:19.686652,958.09,Entertainment,Concerts,Taylor Inc,Wallet,East Kathrynland,2
+1949,2024-07-23 13:46:03.761473,105.49,Shopping,Electronics,"Martin, Ryan and Moreno",Credit Card,North Stephen,4
+1950,2025-02-06 00:49:03.752619,134.18,Health,Pharmacy,Smith LLC,Cash,Kaitlynchester,5
+1951,2025-05-16 16:56:30.185365,277.89,Transport,Fuel,Richardson-Robinson,Credit Card,Lisatown,1
+1952,2025-01-02 09:16:33.916078,389.12,Transport,Uber,"Stephenson, Brandt and Williams",UPI,South Christinaborough,5
+1953,2024-08-25 14:37:13.739146,276.36,Transport,Bus,Wang LLC,Cash,Cherylberg,3
+1954,2024-09-12 11:18:12.731876,986.93,Utilities,Electricity,"Olsen, Wagner and Collins",Wallet,New Cindyborough,2
+1955,2025-02-07 23:56:49.689398,76.73,Health,Pharmacy,Schmidt-Thomas,UPI,West Megantown,4
+1956,2024-05-30 02:37:17.462181,481.72,Utilities,Water,Lee-Scott,Debit Card,North David,4
+1957,2025-04-16 07:59:39.020959,255.34,Utilities,Electricity,Hill-Smith,Cash,Port Andre,3
+1958,2025-05-19 19:17:08.921801,159.19,Shopping,Electronics,"Lee, Carpenter and Perkins",Debit Card,Thomasside,1
+1959,2025-02-09 14:10:16.197911,327.41,Food,Restaurants,"Davis, Hood and Richardson",Cash,South Melvin,2
+1960,2024-09-26 17:47:06.643526,68.58,Food,Fast Food,Mcgee-Davis,Wallet,Meyerhaven,1
+1961,2024-05-31 15:32:43.154374,783.72,Shopping,Clothing,Olson-Myers,UPI,East Andrea,4
+1962,2024-09-18 15:38:02.102128,554.11,Health,Pharmacy,Gonzales-Jacobs,Wallet,Robbinsberg,5
+1963,2024-10-16 11:35:33.141274,194.88,Shopping,Clothing,"Bennett, Adkins and Mcdaniel",Credit Card,Porterport,1
+1964,2025-03-14 12:29:23.114060,606.57,Health,Insurance,Whitehead Inc,Wallet,Jeffreyborough,3
+1965,2024-08-21 18:26:54.518593,947.67,Entertainment,Concerts,"Williams, Murray and Avila",Wallet,East Martinburgh,4
+1966,2024-09-08 09:24:04.975473,964.13,Entertainment,Games,Roberts-Morales,Debit Card,Michaelfurt,3
+1967,2025-03-11 13:19:46.091272,303.75,Utilities,Electricity,Mosley-Bell,Debit Card,Cruzton,3
+1968,2024-11-08 21:11:27.416881,733.09,Shopping,Home Goods,Newman-Rivera,Wallet,Jamesborough,4
+1969,2024-11-13 12:20:10.522166,269.84,Utilities,Electricity,"Thompson, Michael and Green",Cash,Petersonberg,5
+1970,2024-12-12 14:04:20.714227,119.76,Utilities,Electricity,Odom-Hines,Credit Card,Atkinsonmouth,5
+1971,2024-09-19 08:33:29.800649,380.15,Entertainment,Movies,Marshall-Pierce,Cash,Grahamchester,1
+1972,2024-07-02 06:40:28.717374,171.02,Food,Restaurants,Sampson-Long,Credit Card,West Stephen,1
+1973,2024-08-12 06:51:37.044855,239.91,Food,Fast Food,Roberson PLC,Credit Card,West Angelafort,1
+1974,2024-05-30 19:52:15.220250,75.8,Shopping,Electronics,Allison PLC,UPI,Lake Joshua,1
+1975,2025-04-17 17:17:12.985507,791.41,Shopping,Home Goods,Rogers PLC,Debit Card,Lake Brendaton,3
+1976,2024-10-27 19:00:40.817471,131.9,Food,Groceries,Hicks Group,Debit Card,Lake Cassandraton,4
+1977,2025-01-08 04:24:26.972381,38.38,Entertainment,Concerts,Moore Ltd,UPI,Wilkinsstad,2
+1978,2024-07-10 07:16:09.580174,398.0,Health,Pharmacy,Graham and Sons,Credit Card,Port Karenshire,1
+1979,2025-04-24 06:06:22.931871,87.79,Food,Groceries,Ortiz-Miller,Cash,Coreyland,3
+1980,2024-09-26 20:18:16.112696,464.13,Entertainment,Movies,"Rollins, Mathews and Bowen",Cash,New Hannahville,4
+1981,2024-11-17 18:32:30.946843,695.68,Utilities,Water,Walls LLC,UPI,Lake Jennifer,2
+1982,2025-05-07 06:01:41.024591,185.73,Health,Pharmacy,Hammond LLC,Cash,Shannonshire,5
+1983,2024-08-16 15:19:55.469872,82.78,Transport,Uber,Thompson-Brown,Cash,North Susanchester,1
+1984,2024-11-30 16:32:39.928014,630.53,Shopping,Electronics,"White, Garcia and Salinas",UPI,Amytown,2
+1985,2024-08-08 09:07:21.182657,159.86,Transport,Bus,Morales PLC,Wallet,Josephstad,1
+1986,2024-07-26 00:48:46.741137,102.23,Transport,Bus,Phillips LLC,UPI,Cabrerabury,5
+1987,2025-05-10 15:33:29.755306,408.38,Transport,Train,Collins Ltd,Cash,East Michaelmouth,1
+1988,2025-03-22 09:49:07.356236,5.76,Entertainment,Concerts,"Frazier, West and Ford",Cash,Johnfurt,2
+1989,2024-11-26 20:02:37.485219,62.63,Utilities,Internet,Brown-Cummings,UPI,Jonside,5
+1990,2024-07-05 15:30:23.609177,318.82,Utilities,Electricity,"Hodge, Vaughn and Bates",Credit Card,South Dawnfurt,4
+1991,2024-08-23 19:06:33.616636,500.36,Health,Pharmacy,Matthews Inc,Debit Card,Sanchezfurt,4
+1992,2024-09-09 14:44:13.619988,658.87,Food,Fast Food,Meyers LLC,UPI,Robinsontown,5
+1993,2025-01-19 17:48:31.295418,819.52,Transport,Bus,Reed-Brown,Wallet,Port Raymond,1
+1994,2024-12-28 15:51:44.125633,216.81,Food,Fast Food,Lee-Wells,Wallet,Port Jonathonmouth,4
+1995,2024-11-14 17:40:35.919234,471.81,Utilities,Internet,"Richardson, Walters and Brooks",Wallet,Veronicaton,2
+1996,2024-08-09 03:37:08.523862,12.24,Health,Clinic,"Fernandez, Smith and Shea",Wallet,Leebury,5
+1997,2024-10-20 09:55:27.155792,335.36,Shopping,Home Goods,Burns-Wright,Debit Card,Phillipberg,1
+1998,2024-11-23 20:49:27.397583,23.76,Entertainment,Movies,Lewis-Peterson,Credit Card,Margaretborough,1
+1999,2024-12-08 04:59:31.293685,778.43,Entertainment,Concerts,Valenzuela-Wilson,UPI,East Nicoleberg,5
+2000,2024-06-20 05:19:01.165632,22.38,Transport,Uber,Jones-Cruz,Credit Card,Brianfurt,5
